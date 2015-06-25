@@ -1,455 +1,455 @@
-TSA_NUMBER;LAM_STATION_ID;TSA_NAME;NAME_FI;NAME_SE;NAME_EN;ROAD;ROAD_PART;ROAD_DISTANCE;TSA_LOC_KKJ_Y,TSA_LOC_KKJ_X,TSA_ALTITUDE,REGION_NAME_FI,LOC_ETRS89_LAT,LOC_ETRS89_LON
-23117;117;L_vt1_Munkkiniemi;"Tie 1 Munkkiniemi";"Väg 1 Munksnäs";"Road 1 Munkkiniemi";1;3;500;6678726;3382198;0;Uusimaa;60.203;24.8725
-23103;103;L_vt1_Huopalahti;"Tie 1 Huopalahti";"Väg 1 Hoplax";"Road 1 Huopalahti";1;3;2210;6679064;3380555;0;Uusimaa;60.2056;24.8427
-23144;144;L_vt1_Friisinmäki;"Tie 1 Friisinmäki";"Väg 1 Frisbacka";"Road 1 Friisinmäki";1;4;1200;6679347;3377846;0;Uusimaa;60.2073;24.7938
-23167;167;L_vt1_Sepänkylä;"Tie 1 Sepänkylä";"Väg 1 Smedsby";"Road 1 Sepänkylä";1;5;900;6679005;3374914;0;Uusimaa;60.2034;24.7411
-23175;175;L_vt1_Lommila;"Tie 1, Espoo, Lommila";"Väg 1, Esbo; Lommila";"Road 1, Espoo, Lommila";1;5;5820;6680522;3370537;0;Uusimaa;60.2156;24.6613
-23139;139;L_vt1_Nupuri;"Tie 1 Nupuri";"Väg 1 Nupurböle";"Road 1 Nupuri";1;6;2930;6682318;3367168;0;Uusimaa;60.2306;24.5994
-23191;191;L_vt1_Kolmiranta;"Tie 1 Espoo, Kolmiranta";"Väg 1 Esbo, Kolmiranta";"Road 1 Espoo, Kolmiranta";1;7;4030;6685535;3361810;0;Uusimaa;60.2577;24.5006
-23192;192;L_vt1_Veikkola;"Tie 1 Veikkola";"Väg 1 Veikkola";"Road 1 Veikkola";1;8;2638;6689000;3357294;0;Uusimaa;60.2872;24.4167
-23104;104;L_vt1_Palojärvi;"Tie 1 Palojärvi";"Väg 1 Palojärvi";"Road 1 Palojärvi";1;9;1058;6689750;3353293;0;Uusimaa;60.2925;24.3439
-23193;193;L_vt1_Hevoskallio;"Tie 1 Hevoskallio";"Väg 1 Hevoskallio";"Road 1 Hevoskallio";1;10;2100;6691046;3348336;0;Uusimaa;60.3023;24.2534
-23194;194;L_vt1_Lehmijärvi;"Tie 1 Lohja, Lehmijärvi";"Väg 1 Lojo, Lehmijärvi";"Road 1 Lohja, Lehmijärvi";1;11;3797;6689694;3343037;0;Uusimaa;60.2881;24.1587
-24607;1607;L_vt1_Karnainen;"Tie 1 Karnainen";"Väg 1 Karnais";"Road 1 Karnainen";1;12;2234;6689972;3338644;0;Uusimaa;60.2889;24.0791
-24606;1606;L_vt1_Pitkämäki;"Tie 1 Pitkämäki";"Väg 1 Pitkämäki";"Road 1 Pitkämäki";1;14;2233;6694771;3330888;0;Uusimaa;60.3288;23.9351
-24605;1605;L_vt1_Hauklampi;"Tie 1 Hauklampi";"Väg 1 Hauklampi";"Road 1 Hauklampi";1;15;3515;6699187;3327587;0;Uusimaa;60.367;23.8716
-23106;106;L_vt2_Huhmari;"Tie 2 Huhmari";"Väg 2 Huhmari";"Road 2 Huhmari";2;1;3767;6691621;3353437;0;Uusimaa;60.3093;24.3451
-23122;122;L_vt2_Karkkila;"Tie 2 Karkkila";"Väg 2 Högfors";"Road 2 Karkkila";2;15;5038;6721431;3344150;0;Uusimaa;60.5731;24.154
-23164;164;L_vt3_Kivihaka;"Tie 3 Kivihaka";"Väg 3 Stenhagen";"Road 3 Kivihaka";3;101;2700;6679683;3383864;0;Uusimaa;60.2121;24.902
-23152;152;L_vt3_Pirkkola;"Tie 3 Pirkkola";"Väg 3 Britas";"Road 3 Pirkkola";3;101;4400;6681295;3383974;0;Uusimaa;60.2266;24.9031
-23165;165;L_vt3_Hakuninmaa;"Tie 3 Hakuninmaa";"Väg 3 Håkansåker";"Road 3 Hakuninmaa";3;101;8550;6685060;3382671;0;Uusimaa;60.26;24.8774
-23107;107;L_vt3_Kaivoksela;"Tie 3 Kaivoksela";"Väg 3 Gruvsta";"Road 3 Kaivoksela";3;102;799;6686046;3382501;0;Uusimaa;60.2688;24.8738
-23137;137;L_vt3_Keimola;"Tie 3 Keimola";"Väg 3 Käinby";"Road 3 Keimola";3;103;4180;6692506;3379927;0;Uusimaa;60.3259;24.8234
-23108;108;L_vt3_Karhunkorpi;"Tie 3 Karhunkorpi";"Väg 3 Karhunkorpi";"Road 3 Karhunkorpi";3;106;4555;6711465;3382124;0;Uusimaa;60.4966;24.852
-23154;154;L_vt4_Viikinmäki;"Tie 4 Viikinmäki";"Väg 4 Viksbacka";"Road 4 Viikinmäki";4;102;1000;6680536;3388687;0;Uusimaa;60.2211;24.9885
-23109;109;L_vt4_Jakomäki;"Tie 4 Jakomäki";"Väg 4 Jakobacka";"Road 4 Jakomäki";4;103;2500;6684188;3393236;0;Uusimaa;60.2551;25.0686
-23110;110;L_vt4_Mäntsälä;"Tie 4 Mäntsälä";"Väg 4 Mäntsälä";"Road 4 Mäntsälä";4;110;4543;6721262;3403304;0;Uusimaa;60.5902;25.2323
-23998;998;L_vt4_Mäntsälä_E;"Tie 4 Mäntsälä, etelä";"Väg 4 Mäntsälä, söder";"Road 4 Mäntsälä, south";4;111;1000;6722220;3404113;0;Uusimaa;60.599;25.2466
-23999;999;L_vt4_Mäntsälä_P;"Tie 4 Mäntsälä, pohjoinen";"Väg 4 Mäntsälä, norr";"Road 4 Mäntsälä, north";4;114;1000;6730935;3410871;0;Uusimaa;60.6787;25.366
-23142;142;L_vt4_Levanto;"Tie 4 Mäntsälä, Levanto";"Väg 4 Mäntsälä, Levanto";"Road 4 Mäntsälä, Levanto";4;115;4391;6737302;3415180;0;Uusimaa;60.7368;25.442
-23111;111;L_vt6_Liljendal;"Tie 6 Liljendal";"Väg 6 Liljendal";"Road 6 Liljendal";6;117;2820;6716788;3447987;0;Uusimaa;60.5583;26.0488
-23179;179;L_vt7_Fazerila;"Tie 7 Länsimäentie";"Väg 7 Västerkullavägen";"Road 7 Länsimäentie";7;1;2300;6684041;3395634;0;Uusimaa;60.2544;25.1119
-23141;141;L_vt7_Box;"Tie 7 Sipoo, Box";"Väg 7 Sibbo, Box";"Road 7 Sipoo, Box";7;5;1360;6688935;3410602;0;Uusimaa;60.3019;25.38
-23112;112;L_vt7_Treksilä;"Tie 7 Porvoo, Treksilä";"Väg 7 Borgå, Drägsby";"Road 7 Porvoo, Treksilä";7;7;3888;6694688;3419065;0;Uusimaa;60.3552;25.5307
-23001;1;L_vt7_Rita;"Tie 7 Porvoo, Rita";"Väg 7 Borgå, Rita";"Road 7 Porvoo, Rita";7;10;1050;6701500;3428067;0;Uusimaa;60.4181;25.6913
-23184;184;L_vt7_Porvoo_Uusikrouvi;"Tie 7 Porvoo_Uusikrouvi";"Väg 7 Porvoo_Uusikrouvi";"Road 7 Porvoo_Uusikrouvi";7;11;2525;6702308;3431298;0;Uusimaa;60.4259;25.7496
-23185;185;L_vt7_Porvoo_Lohijärvi;"Tie 7 Porvoo_Lohijärvi";"Väg 7 Porvoo_Lohijärvi";"Road 7 Porvoo_Lohijärvi";7;12;2265;6703784;3435380;0;Uusimaa;60.4398;25.8232
-23186;186;L_vt7_Loviisa_Gammelbyviken;"Tie 7 Loviisa_Gammelbyviken";"Väg 7 Loviisa_Gammelbyviken";"Road 7 Loviisa_Gammelbyviken";7;14;1241;6709362;3440441;0;Uusimaa;60.4906;25.9134
-23187;187;L_vt7_Loviisa_Kärrbacka;"Tie 7 Loviisa_Kärrbacka";"Väg 7 Loviisa_Kärrbacka";"Road 7 Loviisa_Kärrbacka";7;17;4483;6707255;3451703;0;Uusimaa;60.4733;26.1188
-23188;188;L_vt7_Loviisa;"Tie 7 Loviisa";"Väg 7 Loviisa";"Road 7 Loviisa";7;19;1240;6706286;3456800;0;Uusimaa;60.4651;26.2117
-23189;189;L_vt7_Loviisa_Itä;"Tie 7 Loviisa_Itä";"Väg 7 Loviisa_Öster";"Road 7 Loviisa_East";7;20;1205;6707812;3460500;0;Uusimaa;60.4792;26.2786
-23124;124;L_vt25_Dragsvik;"Tie 25 Dragsvik";"Väg 25 Dragsvik";"Road 25 Dragsvik";25;11;2220;6659125;3306062;0;Uusimaa;59.9983;23.5205
-23114;114;L_vt25_Virkkala;"Tie 25 Virkkala";"Väg 25 Virkby";"Road 25 Virkkala";25;19;5020;6680590;3334597;0;Uusimaa;60.2032;24.0138
-23129;129;L_vt25_Selki;"Tie 25 Vihti, Selki";"Väg 25 Vichtis, Selki";"Road 25 Vihti, Selki";25;27;1550;6707890;3364173;0;Uusimaa;60.4589;24.5281
-23133;133;L_vt25_Noppo;"Tie 25 Hyvinkää, Noppo";"Tie 25 Hyvinge, Noppo";"Road 25 Hyvinkää, Noppo";25;32;2220;6720820;3381460;0;Uusimaa;60.5803;24.8343
-23130;130;L_vt25_Keravanjärvi;"Tie 25 Mäntsälä, Keravanjä";"Väg 25 Mäntsälä, Keravanjärv";"Road 25 Mäntsälä, Keravanjärvi";25;34;5000;6724526;3395448;0;Uusimaa;60.6175;25.0873
-23153;153;L_kt45_Oulunkylä;"Tie 45 Oulunkylä";"Väg 45 Åggelby";"Road 45 Oulunkylä";45;1;4900;6680802;3386171;0;Uusimaa;60.2228;24.943
-23131;131;L_kt45_Tammisto;"Tie 45 Tammisto";"Väg 45 Rosendal";"Road 45 Tammisto";45;2;3200;6684611;3387600;0;Uusimaa;60.2573;24.9666
-23127;127;L_kt45_Rusutjärvi;"Tie 45 Tuusula, Rusutjärvi";"Väg 45 Tusby, Rusutjärvi";"Road 45 Tuusula, Rusutjärvi";45;6;3360;6704100;3389273;0;Uusimaa;60.4326;24.9861
-23125;125;L_kt50_Bemböle;"Tie 50 Bemböle";"Väg 50 Bemböle";"Road 50 Bemböle";50;2;2400;6679211;3367498;0;Uusimaa;60.2029;24.6074
-23140;140;L_kt50_Järvenperä;"Tie 50 Järvenperä";"Väg 50 Träskända";"Road 50 Järvenperä";50;3;3703;6683085;3372560;0;Uusimaa;60.2392;24.6961
-23183;183;L_kt50_Järvenperä2;"Tie 50 Järvenperä 2";"Väg 50 Träskända 2";"Road 50 Järvenperä 2";50;4;0;6684494;3373600;0;Uusimaa;60.2522;24.714
-23168;168;L_kt50_Askisto;"Tie 50 Askisto";"Väg 50 Askis";"Road 50 Askisto";50;4;4322;6686715;3377149;0;Uusimaa;60.2732;24.7767
-23159;159;L_kt50_Petikko;"Tie 50 Petikko";"Väg 50 Petikko";"Road 50 Petikko";50;5;650;6687119;3379255;0;Uusimaa;60.2774;24.8145
-23128;128;L_kt50_Voutila;"Tie 50 Voutila";"Väg 50 Brutuby";"Road 50 Voutila";50;6;1351;6689209;3383022;0;Uusimaa;60.2973;24.8813
-23169;169;L_kt50_Pakkala;"Tie 50 Pakkala";"Väg 50 Backas";"Road 50 Pakkala";50;6;4908;6688926;3386417;0;Uusimaa;60.2957;24.9428
-23150;150;L_kt50_Vantaanportti;"Tie 50 Vantaanportti";"Väg 50 Vandaporten";"Road 50 Vantaanportti";50;6;6748;6688288;3388031;0;Uusimaa;60.2904;24.9724
-23160;160;L_kt50_Heidehof;"Tie 50 Heidehof";"Väg 50 Heidehof";"Road 50 Heidehof";50;7;3800;6687062;3392086;0;Uusimaa;60.2806;25.0463
-23182;182;L_kt50_Hakunila;"Tie 50 Hakunila";"Väg 50 Håkansböle";"Road 50 Hakunila";50;8;660;6685966;3394901;0;Uusimaa;60.2714;25.0977
-23101;101;L_kt51_Hanasaari;"Tie 51 Hanasaari";"Väg 51 Hanaholmen";"Road 51 Hanasaari";51;2;1614;6674574;3380678;0;Uusimaa;60.1653;24.8476
-23102;102;L_kt51_Soukka;"Tie 51 Soukka";"Väg 51 Sökö";"Road 51 Soukka";51;6;3600;6674226;3369282;0;Uusimaa;60.1587;24.6427
-23143;143;L_kt51_Sundsberg;"Tie 51 Sundsberg";"Väg 51 Sundsberg";"Road 51 Sundsberg";51;7;3950;6672502;3364305;0;Uusimaa;60.1416;24.5543
-23156;156;L_kt51_Jorvas;"Tie 51 Jorvas";"Väg 51 Jorvas";"Road 51 Jorvas";51;8;2700;6670759;3361014;0;Uusimaa;60.1249;24.4963
-23134;134;L_kt51_Inkoo;"Tie 51 Inkoo";"Väg 51 Ingå";"Road 51 Inkoo";51;13;2030;6664600;3337323;0;Uusimaa;60.061;24.0756
-23115;115;L_kt55_Saksala;"Tie 55 Saksala";"Väg 55 Saxby";"Road 55 Saksala";55;1;4229;6701431;3422814;0;Uusimaa;60.4165;25.5959
-23197;197;L_st100_Kivihaan_tunneli;"Tie 100, Hakamäen tunneli";"Väg 100, Hakamäen tunneli";"Rod 100, Hakamäen tunneli";100;1;770;6679259;3384190;0;Uusimaa;60.2084;24.9081
-23118;118;L_st101_Keilaniemi;"Tie 101 Keilaniemi";"Väg 101 Kägeludden";"Road 101 Keilaniemi";101;1;278;6675453;3379501;0;Uusimaa;60.1729;24.8259
-23116;116;L_st101_Leppävaara;"Tie 101 Leppävaara";"Väg 101 Alberga";"Road 101 Leppävaara";101;3;490;6679967;3379063;0;Uusimaa;60.2133;24.8153
-23126;126;L_st101_Konala;"Tie 101 Konala";"Väg 101 Kånala";"Road 101 Konala";101;4;2045;6681634;3380696;0;Uusimaa;60.2287;24.8438
-23145;145;L_st101_Kannelmäki;"Tie 101 Kannelmäki";"Väg 101 Gamlas";"Road 101 Kannelmäki";101;5;1000;6682200;3382573;0;Uusimaa;60.2343;24.8773
-23146;146;L_st101_Länsi-Pakila;"Tie 101 Länsi-Pakila";"Väg 101 Västra Baggböle";"Road 101 Länsi-Pakila";101;6;700;6682524;3384048;0;Uusimaa;60.2376;24.9037
-23147;147;L_st101_Pakila;"Tie 101 Pakila";"Väg 101 Baggböle";"Road 101 Pakila";101;6;2600;6683061;3386131;0;Uusimaa;60.243;24.941
-23148;148;L_st101_Pukinmäki;"Tie 101 Pukinmäki";"Väg 101 Bocksbacka";"Road 101 Pukinmäki";101;7;1800;6683200;3388061;0;Uusimaa;60.2448;24.9757
-23149;149;L_st101_Malmi;"Tie 101 Malmi";"Väg 101 Malm";"Road 101 Malmi";101;7;4000;6682892;3390311;0;Uusimaa;60.2427;25.0165
-23162;162;L_st102_Olarinluoma;"Tie 102 Olarinluoma";"Väg 102 Olarsbäcken";"Road 102 Olarinluoma";102;1;1331;6675976;3375365;0;Uusimaa;60.1763;24.7511
-23163;163;L_st102_Kokinkylä;"Tie 102 Kokinkylä";"Väg 102 Kockby";"Road 102 Kokinkylä";102;2;1071;6677786;3375145;0;Uusimaa;60.1925;24.746
-23195;195;L_st103_Satamatie;"Tie 103, Satamatie";"Väg 103, Satamatie";" Road 103, Satamatie";103;1;2160;6682495;3397906;0;Uusimaa;60.2411;25.1537
-23105;105;L_st110_Hiidenvesi;"Tie 110 Hiidenvesi";"Väg 110 Hiidenvesi";"Road 110 Hiidenvesi";110;14;2530;6698936;3342150;0;Uusimaa;60.3706;24.1354
-23151;151;L_st120_Pitäjänmäki;"Tie 120 Pitäjänmäki";"Väg 120 Sockenbacka";"Road 120 Pitäjänmäki";120;2;250;6680982;3382527;0;Uusimaa;60.2234;24.8772
-23123;123;L_st120_Pähkinärinne;"Tie 120 Pähkinärinne";"Väg 120 Hasselbacken";"Road 120 Pähkinärinne";120;3;2580;6684221;3379958;0;Uusimaa;60.2517;24.8289
-23138;138;L_st120_Odilampi;"Tie 120 Odilampi";"Väg 120 Odilampi";"Road 120 Odilampi";120;4;5000;6690145;3375463;0;Uusimaa;60.3034;24.7441
-23136;136;L_st140_Arola;"Tie 140 Arola";"Väg 140 Arola";"Road 140 Arola";140;9;4240;6716335;3400932;0;Uusimaa;60.5454;25.1916
-23155;155;L_st170_Kulosaari;"Tie 170 Kulosaari";"Väg 170 Brändö";"Road 170 Kulosaari";170;1;1400;6677221;3388948;0;Uusimaa;60.1914;24.995
-23135;135;L_st170_Ilola;"Tie 170 Ilola";"Väg 170 Illby";"Road 170 Ilola";170;12;4360;6704759;3431085;0;Uusimaa;60.4478;25.7449
-23158;158;L_st170_Hagaböle;"Tie 170 Hagaböle";"Väg 170 Hagaböle";"Road 170 Hagaböle";170;16;3330;6708806;3444751;0;Uusimaa;60.4862;25.992
-23121;121;L_yt11888_Liljendal2;"Tie 11888 Liljendal";"Väg 11888 Liljendal";"Road 11888 Liljendal";11888;2;2388;6715986;3446622;0;Uusimaa;60.5509;26.0241
-23196;196;L_Niinisaarentie;"Helsinki, Niinisaarentie";"Helsingfors, Niinisaarentie";"Helsinki, Niinisaarentie";40946;3;590;6680210;3398147;0;Uusimaa;60.2206;25.1592
-23199;199;L_Olari;"Merituulentie, Espoo";"Havsvindsvägen, Esbo";"Merituulentie, Espoo";99999;1;1199;6675338;3376441;0;Uusimaa;60.1709;24.7709
-24604;1604;L_vt1_Lahnajärvi;"Tie 1 Lahnajärvi";"Väg 1 Lahnajärvi";"Road 1 Lahnajärvi";1;17;2205;6700612;3319594;0;Varsinais-Suomi;60.3762;23.7257
-24603;1603;L_vt1_Syvälampi;"Tie 1 Syvälampi";"Väg 1 Syvälampi";"Road 1 Syvälampi";1;18;4586;6701070;3314412;0;Varsinais-Suomi;60.378;23.6316
-24602;1602;L_vt1_Kruusila;"Tie 1 Salo, Kruusila";"Väg 1 Salo, Kruusila";"Road 1 Salo, Kruusila";1;20;6303;6701789;3305959;0;Varsinais-Suomi;60.3805;23.4779
-24601;1601;L_vt1_Lakiamäki;"Tie 1 Lakiamäki";"Väg 1 Lakiamäki";"Road 1 Lakiamäki";1;21;4143;6701163;3300369;0;Varsinais-Suomi;60.3722;23.3774
-23248;248;L_vt1_Muurla;"Tie 1 Muurla";"Väg 1 Muurla";"Road 1 Muurla";1;22;1444;6702802;3296441;0;Varsinais-Suomi;60.3849;23.3047
-23247;247;L_vt1_Isokylä_läntinen;"Tie 1 Isokylä";"Väg 1 Storby";"Road 1 Isokylä";1;24;958;6706670;3288117;0;Varsinais-Suomi;60.4153;23.15
-23246;246;L_vt1_Halikko;"Tie 1 Halikko";"Väg 1 Halikko";"Road 1 Halikko";1;25;63;6707016;3286342;0;Varsinais-Suomi;60.4174;23.1175
-23245;245;L_vt1_Hajala;"Tie 1 Hajala";"Väg 1 Hajala";"Road 1 Hajala";1;26;4392;6708781;3278242;0;Varsinais-Suomi;60.4289;22.9689
-23244;244;L_vt1_Vista;"Tie 1 Vista";"Väg 1 Vista";"Road 1 Vista";1;28;3278;6709981;3263962;0;Varsinais-Suomi;60.4315;22.7089
-23243;243;L_vt1_Paimionmäki;"Tie 1 Paimionmäki";"Väg 1 Paimionmäki";"Road 1 Paimionmäki";1;29;2299;6709445;3262625;0;Varsinais-Suomi;60.4259;22.6853
-23242;242;L_vt1_Paimionjoki;"Tie 1 Paimionjoki";"Väg 1 Pemarån";"Road 1 Paimionjoki";1;30;1067;6709934;3261079;0;Varsinais-Suomi;60.4294;22.6567
-23227;227;L_vt1_Kirismäki;"Tie 1 Piikkiö, Kirismäki";"Väg 1 Pikis, Kirismäki";"Road 1 Piikkiö, Kirismäki";1;31;4794;6712000;3253151;0;Varsinais-Suomi;60.4431;22.5107
-23240;240;L_vt1_Piikkiö;"Tie 1 Piikkiö";"Väg 1 Pikis";"Road 1 Piikkiö";1;32;905;6711697;3251144;0;Varsinais-Suomi;60.4392;22.4747
-23239;239;L_vt1_Kaarina;"Tie 1 Kaarina";"Väg 1 S:t Karins";"Road 1 Kaarina";1;33;2485;6710468;3247075;0;Varsinais-Suomi;60.4256;22.4026
-23238;238;L_vt1_Kurkela_itäinen;"Tie 1 Kurkela I";"Väg 1 Kurkela Ö";"Road 1 Kurkela E";1;34;867;6710200;3244798;0;Varsinais-Suomi;60.4218;22.3618
-23237;237;L_vt1_Kurkela_läntinen;"Tie 1 Kurkela L";"Väg 1 Kurkela V";"Road 1 Kurkela W";1;35;812;6710540;3243347;0;Varsinais-Suomi;60.4239;22.3351
-23236;236;L_vt1_Huhkola;"Tie 1 Huhkola";"Väg 1 Huhkola";"Road 1 Huhkola";1;35;1413;6710791;3243012;0;Varsinais-Suomi;60.426;22.3287
-23235;235;L_vt1_Kupittaa;"Tie 1 Kupittaa";"Väg 1 Kupittaa";"Road 1 Kupittaa";1;36;1302;6713037;3241949;0;Varsinais-Suomi;60.4454;22.3065
-23249;249;L_vt8_Ihala;"Tie 8 Ihala";"Väg 8 Ihala";"Road 8 Ihala";8;102;5700;6716963;3235599;0;Varsinais-Suomi;60.4764;22.1864
-23205;205;L_vt8_Raisio;"Tie 8 Raisio";"Väg 8 Reso";"Road 8 Raisio";8;103;1870;6719129;3234613;0;Varsinais-Suomi;60.4951;22.1656
-23250;250;L_vt8_Masku;"Tie 8 Masku";"Väg 8 Masko";"Road 8 Masku";8;105;1512;6729245;3231181;0;Varsinais-Suomi;60.5833;22.0897
-23206;206;L_vt8_Pyhäranta;"Tie 8 Pyhäranta";"Väg 8 Pyhäranta";"Road 8 Pyhäranta";8;114;3265;6776119;3207099;0;Varsinais-Suomi;60.9853;21.5818
-23208;208;L_vt9_Aura;"Tie 9 Aura";"Väg 9 Aura";"Road 9 Aura";9;105;2993;6728888;3251991;0;Varsinais-Suomi;60.5935;22.4686
-23253;253;L_vt10_Satiaismäki;"Tie 10 Lieto, Satiaismäki";"Väg 10 Lundo, Satiaismäki";"Road 10 Lieto, Satiaismäki";10;2;649;6716231;3245581;0;Varsinais-Suomi;60.4763;22.3682
-23230;230;L_vt10_Lieto;"Tie 10 Lieto";"Väg 10 Lundo";"Road 10 Lieto";10;2;4686;6718243;3249004;0;Varsinais-Suomi;60.4964;22.4277
-23209;209;L_vt10_Marttila;"Tie 10 Marttila";"Väg 10 S:t Mårtens";"Road 10 Marttila";10;7;4084;6729822;3277017;0;Varsinais-Suomi;60.6166;22.923
-23231;231;L_kt40_Vanto;"Tie 40 Raisio, Vanto";"Väg 40 Reso, Vanto";"Road 40 Raisio, Vanto";40;1;3657;6716566;3230008;0;Varsinais-Suomi;60.4691;22.0856
-23251;251;L_kt40_Krookila;"Tie 40 Raisio, Krookila";"Väg 40 Reso, Krookila";"Road 40 Raisio, Krookila";40;2;2039;6716510;3233239;0;Varsinais-Suomi;60.4708;22.1442
-23233;233;L_kt40_Hauninen;"Tie 40 Raisio, Hauninen";"Väg 40 Reso, Hauninen";"Road 40 Raisio, Hauninen";40;3;2525;6718617;3237607;0;Varsinais-Suomi;60.4925;22.2206
-23234;234;L_kt40_Oriketo;"Tie 40 Turku, Oriketo";"Väg 40 Åbo, Oriketo";"Road 40 Turku, Oriketo";40;4;1992;6717558;3242742;0;Varsinais-Suomi;60.4863;22.3151
-23229;229;L_kt40_Tuulissuo;"Tie 40 Tuulisuo";"Väg 40 Tuulisuo";"Road 40 Tuulisuo";40;5;5682;6714341;3248391;0;Varsinais-Suomi;60.4611;22.4215
-23201;201;L_st110_Muurla1;"Tie 110 Muurla";"Väg 110 Muurla";"Road 110 Muurla";110;23;3240;6700710;3299172;0;Varsinais-Suomi;60.3675;23.3562
-23228;228;L_st110_Kevola;"Tie 110 Kevola";"Väg 110 Kevola";"Road 110 Kevola";110;30;2767;6707353;3268264;0;Varsinais-Suomi;60.4105;22.7898
-23254;254;L_st180_Kuusisto;"Tie 180 Kuusisto";"Väg 180 Kuusisto";"Road 180 Kuusisto";180;1;7180;6704180;3244200;0;Varsinais-Suomi;60.3676;22.3586
-23225;225;L_st180_Parainen;"Tie 180 Parainen";"Väg 180 Pargas";"Road 180 Parainen";180;6;3660;6690981;3233451;0;Varsinais-Suomi;60.2426;22.1819
-23255;255;L_st180_Simonby;"Tie 180 Simonby";"Väg 180 Simonby";"Road 180 Simonby";180;8;4614;6686129;3225381;0;Varsinais-Suomi;60.1939;22.0434
-23252;252;L_st185_Artukainen;"Tie 185 Turku, Artukainen";"Väg 185 Åbo, Artukainen";"Road 185 Turku, Artukainen";185;1;1320;6715254;3235326;0;Varsinais-Suomi;60.4609;22.1837
-23221;221;L_vt2_Nakkila;"Tie 2 Nakkila";"Väg 2 Nakkila";"Road 2 Nakkila";2;45;601;6816226;3232176;0;Satakunta;61.3616;21.9865
-23232;232;L_vt2_Porin_lentokent;"Tie 2 Pori, lentokenttä";"Väg 2 Björneborg, flygplats";"Road 2 Pori, airport";2;47;1126;6827166;3223928;0;Satakunta;61.4536;21.8167
-23223;223;L_vt8_Eurajoki;"Tie 8 Eurajoki";"Väg 8 Euraåminne";"Road 8 Eurajoki";8;120;381;6796434;3211203;0;Satakunta;61.1698;21.6265
-23207;207;L_vt8_Pori;"Tie 8 Pori";"Väg 8 Björneborg";"Road 8 Pori";8;202;2395;6837369;3224301;0;Satakunta;61.5451;21.8085
-23224;224;L_vt11_Kullaa;"Tie 11 Kullaa";"Väg 11 Kulla";"Road 11 Kullaa";11;15;3553;6826631;3255303;0;Satakunta;61.4699;22.4037
-23211;211;L_vt12_Lappi_tl;"Tie 12 Lappi tl";"Väg 12 Lappi tl";"Road 12 Lappi tl";12;104;2365;6789042;3216114;0;Satakunta;61.1074;21.7284
-23226;226;L_vt23_Kankaanpää;"Tie 23 Kankaanpää";"Väg 23 Kankaanpää";"Road 23 Kankaanpää";23;106;2790;6862901;3249334;0;Satakunta;61.7905;22.2425
-23403;403;L_vt2_Humppila;"Tie 2 Humppila";"Väg 2 Humppila";"Road 2 Humppila";2;28;3240;6767602;3299126;0;Kanta-Häme;60.9666;23.2869
-23429;429;L_vt3_Riihimäki_Herajoki;"Tie 3 Riihimäki";"Väg 3 Riihimäki";"Road 3 Riihimäki";3;110;6230;6735772;3376470;0;Kanta-Häme;60.7129;24.7339
-23432;432;L_vt3_Janakkala;"Tie 3 Janakkala";"Väg 3 Janakkala";"Road 3 Janakkala";3;114;333;6751996;3369408;0;Kanta-Häme;60.8561;24.5938
-23465;465;L_vt3_Hämeenlinna_E;"Tie 3 Hämeenlinna, etelä";"Väg 3 Tavastehus, söder";"Road 3 Hämeenlinna, south";3;116;2329;6767150;3362683;0;Kanta-Häme;60.9898;24.4594
-23466;466;L_vt3_Hämeenlinna_P;"Tie 3 Hämeenlinna, pohjoinen";"Väg 3 Tavastehus, nord";"Road 3 Hämeenlinna, north";3;116;3526;6768344;3362289;0;Kanta-Häme;61.0003;24.4513
-23437;437;L_vt3_Hlinna_Mo3;"Tie 3 Hämeenlinna";"Väg 3 Tavastehus";"Road 3 Hämeenlinna";3;117;435;6769905;3360338;0;Kanta-Häme;61.0136;24.4141
-23425;425;L_vt10_Tammela;"Tie 10 Tammela";"Väg 10 Tammela";"Road 10 Tammela";10;18;3950;6750816;3325407;0;Kanta-Häme;60.8287;23.7865
-23405;405;L_vt10_Hämeenlinna;"Tie 10 Hämeenlinna";"Väg 10 Tavastehus";"Road 10 Hämeenlinna";10;29;3190;6773043;3374098;0;Kanta-Häme;61.0464;24.6662
-23426;426;L_vt12_Hauho;"Tie 12 Hauho";"Väg 12 Hauho";"Road 12 Hauho";12;213;1449;6785492;3375554;0;Kanta-Häme;61.1585;24.685
-23428;428;L_kt54_Loppi;"Tie 54 Loppi";"Väg 54 Loppi";"Road 54 Loppi";54;6;2460;6738758;3358078;0;Kanta-Häme;60.7336;24.3952
-23408;408;L_kt54_Hausjärvi;"Tie 54 Hausjärvi";"Väg 54 Hausjärvi";"Road 54 Hausjärvi";54;13;4511;6744066;3389860;0;Kanta-Häme;60.7912;24.9744
-23440;440;L_vt3_Lempäälä_Lippo;"Tie 3 Lempäälä";"Väg 3 Lembois";"Road 3 Lempäälä";3;124;3390;6797925;3330397;0;Pirkanmaa;61.2529;23.8363
-23401;401;L_vt3_Lempäälä_Sääksjärvi;"Tie 3 Lempäälä, Kulju";"Väg 3 Lembois, Kulju";"Road 3 Lempäälä, Kulju";3;134;5138;6815563;3327705;0;Pirkanmaa;61.4098;23.7699
-23449;449;L_vt3_Tre_Sarankulma;"Tie 3 Sarankulma";"Väg 3 Sarankulma";"Road 3 Sarankulma";3;136;1340;6821281;3326770;0;Pirkanmaa;61.4606;23.7471
-23460;460;L_vt3_Pirkkala_Huovi;"Tie 3 Pirkkala, Huovi";"Väg 3 Birkala, Huovi";"Road 3 Pirkkala, Huovi";3;137;230;6820705;3320768;0;Pirkanmaa;61.4527;23.6353
-23463;463;L_vt3_Pirkkala_Sankila;"Tie 3 Pirkkala, Sankila";"Väg 3 Birkala, Sankila";"Road 3 Pirkkala, Sankila";3;137;1476;6821505;3319869;0;Pirkanmaa;61.4595;23.6177
-23462;462;L_vt3_Nokia_Rajasalmi;"Tie 3 Nokia, Rajasalmi";"Väg 3 Nokia, Rajasalmi";"Road 3 Nokia, Rajasalmi";3;138;1660;6823668;3318401;0;Pirkanmaa;61.4782;23.5881
-23450;450;L_vt3_Myllypuro;"Tie 3 Myllypuro";"Väg 3 Myllypuro";"Road 3 Myllypuro";3;139;1406;6827894;3317400;0;Pirkanmaa;61.5156;23.5652
-23203;203;L_vt3_Hämeenkyrö;"Tie 3 Hämeenkyrö";"Väg 3 Tavastkyro";"Road 3 Hämeenkyrö";3;204;2289;6836146;3310666;0;Pirkanmaa;61.5862;23.4304
-23204;204;L_vt3_Ikaalinen;"Tie 3 Ikaalinen";"Väg 3 Ikalis";"Road 3 Ikaalinen";3;214;1530;6873644;3288829;0;Pirkanmaa;61.9105;22.9766
-23445;445;L_vt9_Kylmäkoski;"Tie 9 Kylmäkoski";"Väg 9 Kylmäkoski";"Road 9 Kylmäkoski";9;122;7250;6782959;3319616;0;Pirkanmaa;61.1141;23.65
-23435;435;L_vt9_Tre_Karkuvuori;"Tie 9 Karkuvuori";"Väg 9 Karkuvuori";"Road 9 Karkuvuori";9;204;2190;6821310;3330092;0;Pirkanmaa;61.4624;23.8093
-23451;451;L_vt9_Tre_Aitovuori;"Tie 9 Aitovuori";"Väg 9 Aitovuori";"Road 9 Aitovuori";9;206;4470;6827866;3337371;0;Pirkanmaa;61.5242;23.9399
-23404;404;L_vt9_Kangasala_Suinula;"Tie 9 Suinula";"Väg 9 Suinula";"Road 9 Suinula";9;208;1525;6830945;3344107;0;Pirkanmaa;61.5546;24.0637
-23448;448;L_vt9_Längelmäki;"Tie 9 Längelmäki, Solttila";"Väg 9 Längelmäki, Solttila";"Road 9 Längelmäki, Solttila";9;214;3028;6849534;3378820;0;Pirkanmaa;61.7338;24.7037
-23406;406;L_vt11_Nokia_Linnavuori;"Tie 11 Nokia";"Väg 11 Nokia";"Road 11 Nokia";11;4;3655;6826956;3306797;0;Pirkanmaa;61.502;23.3674
-23210;210;L_vt12_Vammala;"Tie 12 Vammala";"Väg 12 Vammala";"Road 12 Vammala";12;118;1600;6807682;3277331;0;Pirkanmaa;61.3137;22.8385
-23438;438;L_vt12_Tre_Paasikiventie;"Tie 12 Uittotunneli";"Väg 12 Flottningstunnel";"Road 12 Log floating tunnel";12;127;480;6826798;3324455;0;Pirkanmaa;61.509;23.6986
-23452;452;L_vt12_Tre_Onkiniemi;"Tie 12 Tampere, Onkiniemi";"Väg 12 Tammerfors, Onkiniemi";"Road 12 Tampere, Onkiniemi";12;127;2363;6826003;3326074;0;Pirkanmaa;61.5026;23.7297
-23453;453;L_vt12_Tre_Mustalahti;"Tie 12 Särkänniemi";"Väg 12 Särkänniemi";"Road 12 Särkänniemi";12;127;3125;6825954;3326667;0;Pirkanmaa;61.5024;23.7408
-23454;454;L_vt12_Tre_Tampella;"Tie 12 Tampella";"Väg 12 Tampella";"Road 12 Tampella";12;127;4160;6826358;3327692;0;Pirkanmaa;61.5065;23.7597
-23457;457;L_vt12_Tre_Petsamo;"Tie 12 Petsamo";"Väg 12 Petsamo";"Road 12 Petsamo";12;127;5750;6826291;3329134;0;Pirkanmaa;61.5066;23.7868
-23439;439;L_vt12_Tre_Teiskontie;"Tie 12 Tampere, Keskussair";"Väg 12 Tampere, Teiskontie";"Road 12 Tampere, Teiskontie";12;201;1050;6825942;3330992;0;Pirkanmaa;61.5042;23.8219
-23458;458;L_vt12_Tre_Ruotula;"Tie 12 Ruotula";"Väg 12 Ruotula";"Road 12 Ruotula";12;201;2758;6826868;3332659;0;Pirkanmaa;61.5133;23.8524
-23431;431;L_vt12_Kangasala_Suorama;"Tie 12 Suorama";"Väg 12 Suorama";"Road 12 Suorama";12;202;6100;6822676;3338849;0;Pirkanmaa;61.4783;23.9721
-23456;456;L_kt65_Tre_Lielahti;"Tie 65 Tampere, Lielahti";"Väg 65 Tammerfors, Lielahti";"Road 65 Tampere, Lielahti";65;1;584;6827166;3323435;0;Pirkanmaa;61.5118;23.6791
-23455;455;L_kt65_Tre_Epilänharju;"Tie 65 Tampere, Epilänharju";"Väg 65 Tammerfors, Epilänharju";"Road 65 Tampere, Epilänharju";65;1;2072;6827896;3322083;0;Pirkanmaa;61.5177;23.653
-23421;421;L_kt65_Ylöjärvi;"Tie 65 Ylöjärvi";"Väg 65 Ylöjärvi";"Road 65 Ylöjärvi";65;1;6000;6830903;3319764;0;Pirkanmaa;61.5436;23.6066
-23409;409;L_kt66_Ruovesi;"Tie 66 Ruovesi";"Väg 66 Ruovesi";"Road 66 Ruovesi";66;9;4500;6881808;3344683;0;Pirkanmaa;62.0106;24.0308
-23402;402;L_st130_Jutikkala;"Tie 130 Iittala";"Väg 130 Iittala";"Road 130 Iittala";130;19;3115;6785881;3341706;0;Pirkanmaa;61.1498;24.0568
-23433;433;L_st130_Pispantie;"Tie 130 Valkeakoski";"Väg 130 Valkeakoski";"Road 130 Valkeakoski";130;23;2356;6801269;3336959;0;Pirkanmaa;61.2857;23.9554
-23422;422;L_st190_Viiala;"Tie 190 Viiala";"Väg 190 Viiala";"Road 190 Viiala";190;2;2050;6796569;3325162;0;Pirkanmaa;61.2385;23.7402
-23464;464;L_yt3495_Rautaharkko;"Tie 3495 Rautaharkko";"Väg 3495 Rautaharkko";"Road 3495 Rautaharkko";3495;1;1903;6823075;3328309;0;Pirkanmaa;61.4774;23.7743
-23436;436;L_yt13782_Nokia_Rajasalmi;"Tie 3 Nokia, Rajasalmi";"Väg 3 Nokia, Rajasalmi";"Road 3 Nokia, Rajasalmi";13782;1;1944;6823704;3318339;0;Pirkanmaa;61.4785;23.5869
-23443;443;L_Tre_Pispalan_valtatie;"Tampere, Pispalan valtatie";"Tammefors, Pispalan valtatie";"Tampere, Pispalan valtatie";99999;0;0;6826485;3324574;0;Pirkanmaa;61.5063;23.7011
-23424;424;L_vt4_Renkomäki;"Tie 4 Renkomäki";"Väg 4 Renkomäki";"Road 4 Renkomäki";4;119;3557;6756083;3424765;0;Päijät-Häme;60.9072;25.6104
-23461;461;L_vt4_Vierumäki;"Tie 4 Vierumäki";"Väg 4 Vierumäki";"Road 4 Vierumäki";4;205;1657;6777108;3441136;0;Päijät-Häme;61.0986;25.9055
-23628;628;L_vt4_Murhamäki;"Tie 4 Heinola, Murhamäki";"Väg 4 Heinola, Murhamäki";"Road 4 Heinola, Murhamäki";4;210;1626;6796854;3450303;0;Päijät-Häme;61.2771;26.0703
-23442;442;L_vt4_Heinola_Lusi;"Tie 4 Heinola, Lusi";"Väg 4 Heinola, Lusi";"Road 4 Heinola, Lusi";4;211;5700;6803516;3449167;0;Päijät-Häme;61.3367;26.0473
-23623;623;L_vt4_Hartola;"Tie 4 Hartola";"Väg 4 Hartola";"Road 4 Hartola";4;214;5196;6820801;3445842;0;Päijät-Häme;61.4913;25.9801
-23407;407;L_vt12_Hollola;"Tie 12 Hollola";"Väg 12 Hollola";"Road 12 Hollola";12;219;4749;6767267;3407260;0;Päijät-Häme;61.0038;25.2825
-23446;446;L_vt12_Lahti_Kärpäsen;"Tie 12 Lahti, Kärpäsenmäki";"Väg 12 Lahtis, Kärpäsenmäki";"Road 12 Lahti, Kärpäsenmäki";12;222;3363;6764371;3424104;0;Päijät-Häme;60.9814;25.5949
-23447;447;L_vt12_Lahti_Joutjärvi;"Tie 12 Lahti, Joutjärvi";"Väg 12 Lahtis, Joutjärvi";"Road 12 Lahti, Joutjärvi";12;223;3280;6763376;3429680;0;Päijät-Häme;60.9735;25.6983
-23430;430;L_vt24_Asikkala;"Tie 24 Asikkala";"Väg 24 Asikkala";"Road 24 Asikkala";24;4;2150;6780446;3426584;0;Päijät-Häme;61.1261;25.6345
-23441;441;L_st140_Hollola;"Tie 140 Hollola";"Väg 140 Hollola";"Road 140 Hollola";140;25;1530;6770531;3432390;0;Päijät-Häme;61.0382;25.7458
-23521;521;L_vt6_Elimäki;"Tie 6 Elimäki";"Väg 6 Elimä";"Road 6 Elimäki";6;127;610;6740811;3472089;0;Kymenlaakso;60.7763;26.4846
-23594;594;L_vt6_Hevossuo;"Tie 6 Hevossuo";"Väg 6 Hevossuo";"Road 6 Hevossuo";6;128;1638;6747807;3475585;0;Kymenlaakso;60.8393;26.5479
-23595;595;L_vt6_Puhjo;"Tie 6 Kuusankoski, Puhjo";"Väg 6 Puhjo";"Road 6 Kuusankoski, Puhjo";6;129;2018;6751413;3480137;0;Kymenlaakso;60.8719;26.6313
-23596;596;L_vt6_Käyrälampi;"Tie 6 Kouvola, Käyrälampi";"Väg 6 Kouvola, Käyrälampi";"Road 6 Kouvola, Käyrälampi";6;201;2887;6752697;3487014;0;Kymenlaakso;60.8837;26.7578
-23529;529;L_vt6_Utti;"Tie 6 Utti";"Väg 6 Uttis";"Road 6 Utti";6;202;2931;6753000;3490353;0;Kymenlaakso;60.8866;26.8192
-23592;592;L_vt6_Metso;"Tie 6 Metso";"Väg 6 Metso";"Road 6 Metso";6;203;5891;6755136;3500280;0;Kymenlaakso;60.9059;27.002
-23578;578;L_vt7_Ahvenkoski_Itä;"Tie 7 Ahvenkoski2";"Väg 7 Abborrfors2";"Road 7 Ahvenkoski2";7;23;700;6708936;3470499;0;Kymenlaakso;60.4901;26.4603
-23575;575;L_vt7_Pyhtää2;"Tie 7 Pyhtää2";"Väg 7 Pyttis2";"Road 7 Pyhtää2";7;24;3091;6708479;3475235;0;Kymenlaakso;60.4864;26.5465
-23579;579;L_vt7_Siltakylä2;"Tie 7 Pyhtää, Siltakylä2";"Väg 7 Pyttis, Broby2";"Road 7 Pyhtää, Siltakylä2";7;25;625;6709964;3483775;0;Kymenlaakso;60.5001;26.7017
-23580;580;L_vt7_Mokra;"Tie 7 Pyhtää, Mokra";"Väg 7 Pyttis, Mokra";"Road 7 Pyhtää, Mokra";7;27;2160;6710047;3489784;0;Kymenlaakso;60.5011;26.811
-23583;583;L_vt7_Petäjäsuo;"Tie 7 Petäjäsuo";"Väg 7 Petäjäsuo";"Road 7 Petäjäsuo";7;27;3982;6709643;3492207;0;Kymenlaakso;60.4975;26.8551
-23599;599;L_vt7_Leppäsaari;"Tie 7 Leppäsaari";"Väg 7 Leppäsaari";"Road 7 Leppäsaari";7;28;701;6710028;3493715;7;Kymenlaakso;60.501;26.8826
-23574;574;L_vt7_Kyminlinna;"Tie 7 Kyminlinna";"Väg 7 Kyminlinna";"Road 7 Kyminlinna";7;29;230;6710493;3494804;0;Kymenlaakso;60.5052;26.9024
-23576;576;L_vt7_Karhula_Länsi;"Tie 7 Kotka, Karhula-Länsi";"Väg 7 Kotka, Karhula-Länsi";"Road 7 Kotka, Karhula-Länsi";7;29;1958;6711520;3496156;0;Kymenlaakso;60.5144;26.9269
-23585;585;L_vt7_Karhula;"Tie 7 Kotka, Karhula";"Väg 7 Kotka, Karhula";"Road 7 Kotka, Karhula";7;29;2700;6711940;3496852;0;Kymenlaakso;60.5182;26.9396
-23577;577;L_vt7_Otsola_Länsi;"Tie 7 Kotka, Otsola-Länsi";"Väg 7 Kotka, Otsola-Länsi";"Road 7 Kotka, Otsola-Länsi";7;30;605;6712871;3497662;0;Kymenlaakso;60.5266;26.9543
-23571;571;L_vt7_Otsola;"Tie 7 Kotka, Otsola";"Väg 7 Kotka, Otsola";"Road 7 Kotka, Otsola";7;30;1120;6713261;3497937;0;Kymenlaakso;60.5301;26.9593
-23572;572;L_vt7_Salminlahti;"Tie 7 Salminlahti";"Väg 7 Salminlahti";"Road 7 Salminlahti";7;31;1616;6715549;3499944;0;Kymenlaakso;60.5506;26.9959
-23573;573;L_vt7_Summa;"Tie 7 Hamina, Summa";"Väg 7 Fredrikshamn, Summa";"Road 7 Hamina, Summa";7;32;4501;6717641;3504924;0;Kymenlaakso;60.5693;27.0867
-23555;555;L_vt7_Tallinmäki;"Tie 7 Hamina, Tallinmäki";"Väg 7 Fredrikshamn, Tallinmäki";"Road 7 Hamina, Tallinmäki";7;35;3670;6719798;3539538;0;Kymenlaakso;60.5868;27.7183
-23525;525;L_vt7_Lelu;"Tie 7 Hamina, Lelu";"Väg 7 Fredrikshamn, Lelu";"Road 7 Hamina, Lelu";7;36;6551;6717394;3521153;0;Kymenlaakso;60.5666;27.3826
-23551;551;L_vt7_LAM030706;"Tie 7 Virolahti, Harjula";"Väg 7 Vederlax, Harjula";"Road 7 Virolahti, Harjula";7;38;3860;6719798;3539538;0;Kymenlaakso;60.5868;27.7183
-23550;550;L_vt7_Vaahterikonsuo;"Tie 7 Virolahti, Vaahterikonsuo";"Väg 7 Vederlax, Vaahterikonsuo";"Road 7 Virolahti, Vaahterikonsuo";7;39;4710;6719798;3539538;0;Kymenlaakso;60.5868;27.7183
-23540;540;L_vt7_Virojoki;"Tie 7 Virolahti, Virojoki";"Väg 7 Vederlax, Virojoki";"Road 7 Virolahti, Virojoki";7;41;450;6719813;3539478;0;Kymenlaakso;60.5869;27.7172
-23542;542;L_vt7_Turkkisuo;"Tie 7 Virolahti, Turkkisuo";"Väg 7 Vederlax, Turkkisuo";"Road 7 Virolahti, Turkkisuo";7;41;3524;6720623;3542421;0;Kymenlaakso;60.5939;27.7711
-23541;541;L_vt7_Mestarmäki;"Tie 7 Virolahti, Mestarmäki";"Väg 7 Vederlax, Mestarmäki";"Road 7 Virolahti, Mestarmäki";7;41;6000;6721329;3544723;0;Kymenlaakso;60.6;27.8132
-23581;581;L_vt7_Vaalimaa;"Tie 7 Virolahti, Vaalimaa";"Väg 7 Vederlax, Vaalimaa";"Road 7 Virolahti, Vaalimaa";7;42;2500;6721840;3547668;0;Kymenlaakso;60.6043;27.8671
-23598;598;L_vt7_Vaalimaa_rask;"Tie 7 Virolahti, Vaalimaa, raskas";"Väg 7 Vederlax, Vaalimaa";"Road 7 Virolahti, Vaalimaa";7;42;2510;6722062;3547787;0;Kymenlaakso;60.6062;27.8693
-23502;502;L_vt12_Iitti;"Tie 12 Iitti";"Väg 12 Itis";"Road 12 Iitti";12;228;1257;6756308;3455559;0;Kymenlaakso;60.9139;26.1777
-23590;590;L_vt12_Tillola;"Tie 12 Iitti, Tillola";"Väg 12 Tillola";"Road 12 Iitti, Tillola";12;231;1078;6752409;3469244;0;Kymenlaakso;60.8802;26.4306
-23586;586;L_vt15_Kotkansaari;"Tie 15 Kotka, Kotkansaari";"Väg 15 Kotka, Kotkansaari";"Road 15 Kotka, Kotkansaari";15;1;1769;6705946;3495912;0;Kymenlaakso;60.4644;26.9226
-23530;530;L_vt15_Juurikorpi;"Tie 15 Juurikorpi";"Väg 15 Juurikorpi";"Road 15 Juurikorpi";15;3;2985;6723793;3495980;0;Kymenlaakso;60.6246;26.9235
-23591;591;L_vt15_Kiehuva;"Tie 15 Kouvola, Kiehuva";"Väg 15 Kouvola, Kiehuva";"Road 15 Kouvola, Kiehuva";15;6;5538;6745340;3488642;0;Kymenlaakso;60.8178;26.7882
-23527;527;L_vt15_Valkeala;"Tie 15 Valkeala";"Väg 15 Valkeala";"Road 15 Valkeala";15;15;705;6774179;3503503;0;Kymenlaakso;61.0768;27.0617
-23503;503;L_vt26_Saaramaa;"Tie 26 Kouvola, Saaramaa";"Väg 26 Kouvola, Saaramaa";"Road 26 Kouvola, Saaramaa";26;8;4792;6748600;3522100;0;Kymenlaakso;60.8466;27.4034
-23584;584;L_st170_Pyhtää;"Tie 170 Pyhtää";"Väg 170 Pyttis";"Road 170 Pyhtää";170;25;962;6708732;3482689;0;Kymenlaakso;60.489;26.682
-23501;501;L_st170_Siltakylä;"Tie 170 Pyhtää, Siltakylä";"Väg 170 Pyttis, Broby";"Road 170 Pyhtää, Siltakylä";170;26;1491;6709494;3486878;0;Kymenlaakso;60.496;26.7582
-23587;587;L_vt6_Somerharju;"Tie 6 Somerharju";"Väg 6 Somerharju";"Road 6 Somerharju";6;207;2047;6756234;3521091;0;Etelä-Karjala;60.9152;27.3856
-23522;522;L_vt6_Luumäki;"Tie 6 Luumäki";"Väg 6 Luumäki";"Road 6 Luumäki";6;210;1914;6758467;3535946;0;Etelä-Karjala;60.9341;27.6598
-23556;556;L_vt6_Selkäharju;"Tie 6 Selkäharju";"Väg 6 Selkäharju";"Road 6 Selkäharju";6;215;1100;6769265;3557507;0;Etelä-Karjala;61.0285;28.0607
-23557;557;L_vt6_Lavola;"Tie 6 Lavola";"Väg 6 Lavola";"Road 6 Lavola";6;216;617;6770245;3561037;0;Etelä-Karjala;61.0368;28.1263
-23558;558;L_vt6_Mattila;"Tie 6 Mattila";"Väg 6 Mattila";"Road 6 Mattila";6;216;2568;6770793;3562905;0;Etelä-Karjala;61.0414;28.161
-23559;559;L_vt6_Myllymäki;"Tie 6 Myllymäki";"Väg 6 Myllymäki";"Road 6 Myllymäki";6;301;1248;6770999;3564962;0;Etelä-Karjala;61.0429;28.1991
-23560;560;L_vt6_Karhuvuori;"Tie 6 Karhuvuori";"Väg 6 Karhuvuori";"Road 6 Karhuvuori";6;302;1989;6771980;3567477;0;Etelä-Karjala;61.0513;28.246
-23561;561;L_vt6_Hartikkala;"Tie 6 Hartikkala";"Väg 6 Hartikkala";"Road 6 Hartikkala";6;302;4277;6773200;3569426;0;Etelä-Karjala;61.0619;28.2825
-23562;562;L_vt6_Mälkiä;"Tie 6 Mälkiä";"Väg 6 Mälkiä";"Road 6 Mälkiä";6;303;1081;6774334;3570888;0;Etelä-Karjala;61.0718;28.31
-23534;534;L_vt6_Muukko;"Tie 6 Muukko";"Väg 6 Muukko";"Road 6 Muukko";6;304;3636;6777754;3575948;0;Etelä-Karjala;61.1016;28.4051
-23563;563;L_vt6_Joutseno;"Tie 6 Joutseno";"Väg 6 Joutseno";"Road 6 Joutseno";6;305;2500;6779982;3580767;0;Etelä-Karjala;61.1206;28.4953
-23564;564;L_vt6_Vesivalo;"Tie 6 Vesivalo";"Väg 6 Vesivalo";"Road 6 Vesivalo";6;307;3915;6785277;3590545;0;Etelä-Karjala;61.1659;28.6792
-23531;531;L_vt6_Vuoksenniska;"Tie 6 Vuoksenniska";"Väg 6 Vuoksenniska";"Road 6 Vuoksenniska";6;311;1070;6793463;3600642;0;Etelä-Karjala;61.2369;28.871
-23524;524;L_vt6_Rautjärvi;"Tie 6 Rautjärvi";"Väg 6 Rautjärvi";"Road 6 Rautjärvi";6;318;2733;6812671;3623429;0;Etelä-Karjala;61.4026;29.3076
-23533;533;L_vt13_Karhusjärvi;"Tie 13 Karhusjärvi";"Väg 13 Karhusjärvi";"Road 13 Karhusjärvi";13;240;391;6770506;3573957;0;Etelä-Karjala;61.0369;28.3654
-23547;547;L_vt13_Nuijamaa_MP5;"Tie 13 Nuijamaa";"Väg 13 Nuijamaa";"Road 13 Nuijamaa";13;241;3443;6764025;3580954;0;Etelä-Karjala;60.9774;28.4921
-23582;582;L_vt13_Nuijamaa;"Tie 13 Nuijamaa";"Väg 13 Nuijamaa";"Road 13 Nuijamaa";13;241;5078;6761483;3583369;0;Etelä-Karjala;60.9541;28.5355
-23597;597;L_vt13_Nuijamaa_rask;"Tie 13 Nuijamaa, raskaat";"Väg 13 Nuijamaa";"Road 13 Nuijamaa";13;241;5705;6761483;3583369;0;Etelä-Karjala;60.9541;28.5355
-23528;528;L_kt62_Ruokolahti;"Tie 62 Ruokolahti";"Väg 62 Ruokolax";"Road 62 Ruokolahti";62;20;2843;6808608;3588566;0;Etelä-Karjala;61.3757;28.6534
-23535;535;L_kt62_Imatra_raja1;"Tie 62 Imatra raja 1";"Väg 62 Imatra gränsen 1";"Road 62 Imatra border 1";62;25;3997;6782061;3598161;0;Etelä-Karjala;61.1353;28.8189
-23532;532;L_kt62_Imatra_raja2;"Tie 62 Imatra raja 2";"Väg 62 Imatra gränsen 2";"Road 62 Imatra border 2";62;27;71;6781258;3599040;0;Etelä-Karjala;61.1279;28.8348
-23593;593;L_st387_Ylämaa;"Tie 387 Ylämaa";"Väg 387 Ylämaa";"Road 387 Ylämaa";387;7;3343;6739938;3554252;0;Etelä-Karjala;60.7658;27.9923
-23630;630;L_vt5_Kuortti;"Tie 5 Pertunmaa, Kuortti";"Väg 5 Pertunmaa, Kuortti";"Road 5 Pertunmaa, Kuortti";5;116;6696;6810793;3467131;0;Etelä-Savo;61.4039;26.3815
-23602;602;L_vt5_Toivola;"Tie 5 Mäntyharju";"Väg 5 Mäntyharju";"Road 5 Mäntyharju";5;120;79;6818210;3486098;0;Etelä-Savo;61.4716;26.736
-23627;627;L_vt5_Nuutilanmäki;"Tie 5 Juva, Nuutilanmäki";"Väg 5 Jockas, Nuutilanmäki";"Road 5 Juva, Nuutilanmäki";5;133;6185;6854502;3531763;0;Etelä-Savo;61.7963;27.5989
-23603;603;L_vt5_Joroinen;"Tie 5 Joroinen";"Väg 5 Jorois";"Road 5 Joroinen";5;142;483;6892744;3543873;0;Etelä-Savo;62.1382;27.8379
-23631;631;L_vt5_Kuvansi_uusi;"Tie 5 Kuvansi";"Väg 5 Kuvansi";"Road 5 Kuvansi";5;145;1883;6908188;3545093;0;Etelä-Savo;62.2766;27.8652
-23622;622;L_vt13_Kangasniemi;"Tie 13 Kangasniemi";"Väg 13 Kangasniemi";"Road 13 Kangasniemi";13;206;480;6887788;3474045;0;Etelä-Savo;62.0953;26.4998
-23604;604;L_vt13_Ristiina;"Tie 13 Ristiina";"Väg 13 Kristina";"Road 13 Ristiina";13;223;2830;6827660;3513696;0;Etelä-Savo;61.5565;27.2544
-23526;526;L_vt13_Suomenniemi;"Tie 13 Suomenniemi";"Väg 13 Suomenniemi";"Road 13 Suomenniemi";13;230;3106;6801226;3520769;0;Etelä-Savo;61.3189;27.3846
-23605;605;L_vt14_Juva1;"Tie 14 Juva";"Väg 14 Jockas";"Road 14 Juva";14;1;1203;6866015;3543347;0;Etelä-Savo;61.8984;27.8213
-23632;632;L_vt14_Hevonpäänniemi;"Tie 14 Savonlinna, Hevonpäänniemi";"Väg 13 Nyslott, Hevonpäänniemi";"Road 14 Savonlinna, Hevonpäänniemi";14;14;1866;6862146;3597479;0;Etelä-Savo;61.8537;28.8484
-23606;606;L_vt14_Savonlinna;"Tie 14 Savonlinna";"Väg 14Nyslott";"Road 14 Savonlinna";14;16;1750;6864448;3602736;0;Etelä-Savo;61.873;28.9495
-23629;629;L_vt23_Siikamäki;"Tie 23 Pieksämäki, Siikamä";"Väg 23 Pieksämäki, Siikamäki";"Road 23 Pieksämäki, Siikamäki";23;314;2634;6909476;3520861;0;Etelä-Savo;62.2903;27.3987
-23607;607;L_kt72_Virtasalmi;"Tie 72 Virtasalmi";"Väg 72 Virtasalmi";"Road 72 Virtasalmi";72;13;1100;6891011;3513083;0;Etelä-Savo;62.1249;27.2474
-23801;801;L_vt5_Leppävirta;"Tie 5 Leppävirta";"Väg 5 Leppävirta";"Road 5 Leppävirta";5;151;5000;6935156;3535305;0;Pohjois-Savo;62.5196;27.6822
-23825;825;L_vt5_Hiltulanlahti;"Tie 5 Hiltulanlahti";"Väg 5 Hiltulanlahti";"Road 5 Hiltulanlahti";5;158;1170;6967474;3530638;0;Pohjois-Savo;62.8099;27.5974
-23832;832;L_vt5_Levänen;"Tie 5 Levänen";"Väg 5 Levänen";"Road 5 Levänen";5;159;3490;6974162;3531704;98;Pohjois-Savo;62.8699;27.6195
-23828;828;L_vt5_Rahusenlampi;"Tie 5 Rahusenlampi";"Väg 5 Rahusenlampi";"Road 5 Rahusenlampi";5;201;2150;6979519;3534141;0;Pohjois-Savo;62.9177;27.6685
-23803;803;L_vt5_Siilinjärvi;"Tie 5 Siilinjärvi";"Väg 5 Siilinjärvi";"Road 5 Siilinjärvi";5;206;3500;7000273;3532866;0;Pohjois-Savo;63.104;27.6475
-23826;826;L_vt5_Iisalmi;"Tie 5 Iisalmi";"Väg 5 Idensalmi";"Road 5 Iisalmi";5;217;4750;7051401;3512541;0;Pohjois-Savo;63.5639;27.2489
-23821;821;L_vt9_Suonenjoki;"Tie 9 Suonenjoki";"Väg 9 Suonenjoki";"Road 9 Suonenjoki";9;323;4500;6952578;3521477;0;Pohjois-Savo;62.6769;27.4159
-23827;827;L_vt9_Jännevirta;"Tie 17 Jännevirta";"Väg 17 Jännevirta";"Road 17 Jännevirta";9;329;3786;6983226;3544965;0;Pohjois-Savo;62.9498;27.8825
-23804;804;L_vt9_Tuusniemi;"Tie 9 Tuusniemi";"Väg 9 Tuusniemi";"Road 9 Tuusniemi";9;333;5100;6974745;3567977;0;Pohjois-Savo;62.8701;28.3322
-23807;807;L_vt27_Kiuruvesi;"Tie 27 Kiuruvesi";"Väg 27 Idensalmi, Kiuruvesi";"Road 27 Kiuruvesi";27;21;1757;7063713;3472289;0;Pohjois-Savo;63.6735;26.4367
-23833;833;L_kt75_Pajukoski;"Tie 75 Pajukoski";"Väg 75 Pajukoski";"Road 75 Pajukoski";75;3;2610;7003815;3541797;0;Pohjois-Savo;63.1349;27.8253
-23824;824;L_kt75_Nilsiä;"Tie 75 Nilsiä";"Väg 75 Nilsiä";"Road 75 Nilsiä";75;6;3000;7006285;3553885;0;Pohjois-Savo;63.1554;28.0657
-23805;805;L_kt75_Rautavaara;"Tie 75 Rautavaara";"Väg 75 Rautavaara";"Road 75 Rautavaara";75;13;6500;7030621;3578760;0;Pohjois-Savo;63.3691;28.5709
-23806;806;L_kt77_Pielavesi;"Tie 77 Pielavesi";"Väg 77 Pielavesi";"Road 77 Pielavesi";77;24;2183;7010232;3485789;0;Pohjois-Savo;63.1945;26.7143
-23822;822;L_kt88_Vieremä;"Tie 88 Vieremä";"Väg 88 Vieremä";"Road 88 Vieremä";88;28;6760;7072217;3498927;0;Pohjois-Savo;63.7509;26.9748
-23732;732;L_vt6_Kousa;"Tie 6 Kesälahti, Kousa";"Väg 6 Kesälax, Kousa";"Road 6 Kesälahti, Kousa";6;334;6447;6877507;3650833;0;Pohjois-Karjala;61.9741;29.8736
-23731;731;L_vt6_Reijola;"Tie 6 Reijola";"Väg 6 Reijola";"Road 6 Reijola";6;348;1096;6939495;3647498;0;Pohjois-Karjala;62.5309;29.8623
-23733;733;L_vt6_Joensuu2;"Tie 6 Joensuu";"Väg 6 Åminne";"Road 6 Joensuu";6;350;2080;6948594;3642910;0;Pohjois-Karjala;62.6142;29.7809
-23727;727;L_vt6_Kontiolahti2;"Tie 6 Kontiolahti";"Väg 6 Kontiolax";"Road 6 Kontiolahti";6;401;5210;6953705;3642978;0;Pohjois-Karjala;62.66;29.7865
-23725;725;L_vt6_Juuka2;"Tie 6 Juuka 2";"Väg 6 Juga 2";"Road 6 Juuka 2";6;414;5400;7022419;3611604;0;Pohjois-Karjala;63.2868;29.2212
-23701;701;L_vt9_Viinijärvi;"Tie 9 Viinijärvi";"Väg 9 Viinijärvi";"Road 9 Viinijärvi";9;345;140;6955045;3607950;0;Pohjois-Karjala;62.6839;29.1045
-23726;726;L_vt9_Ylämylly;"Tie 9 Liperi, Ylämylly";"Väg 9 Liperi, Ylämylly";"Road 9 Liperi, Ylämylly";9;351;2175;6949426;3632687;0;Pohjois-Karjala;62.6255;29.5826
-23730;730;L_vt9_Noljakka;"Tie 9 Noljakka";"Väg 9 Noljakka";"Road 9 Noljakka";9;353;808;6949606;3639320;86;Pohjois-Karjala;62.6247;29.7118
-23729;729;L_vt9_Kaurila;"Tie 70 Tohmajärvi, Kaurila";"Väg 70 Tohmajärvi, Kaurila";"Road 70 Tohmajärvi, Kaurila";9;360;4645;6901747;3684206;0;Pohjois-Karjala;62.1764;30.5339
-23724;724;L_vt9_Niirala;"Tie 9 Niirala";"Väg 9 Niirala";"Road 9 Niirala";9;361;4290;6900900;3689342;0;Pohjois-Karjala;62.1663;30.6314
-23723;723;L_vt23_Liperi;"Tie 23 Liperi";"Väg 23 Libelits";"Road 23 Liperi";23;417;1290;6946681;3616009;0;Pohjois-Karjala;62.6065;29.256
-23704;704;L_kt71_Kesälahti;"Tie 71 Kesälahti";"Väg 71 Kesälax";"Road 71 Kesälahti";71;8;4550;6885577;3636582;0;Pohjois-Karjala;62.0518;29.6083
-23705;705;L_kt73_Lieksa;"Tie 73 Lieksa";"Väg 73 Lieksa";"Road 73 Lieksa";73;18;300;7026098;3652952;0;Pohjois-Karjala;63.3046;30.0477
-23928;928;L_vt4_Joutsa;"Tie 4 Joutsa";"Väg 4 Joutsa";"Road 4 Joutsa";4;222;4252;6854984;3452442;0;Keski-Suomi;61.7989;26.0951
-23935;935;L_vt4_Toivakka2;"Tie 4 Toivakka";"Väg 4 Toivakka";"Road 4 Toivakka";4;229;0;6889335;3446854;0;Keski-Suomi;62.1063;25.9789
-23929;929;L_vt4_Hupeli;"Tie 4 Hupeli";"Väg 4 Hupeli";"Road 4 Hupeli";4;232;526;6903660;3442578;0;Keski-Suomi;62.2342;25.8923
-23923;923;L_vt4_Jyväskylä;"Tie 4 Jyväskylä";"Väg 4 Jyväskylä";"Road 4 Jyväskylä";4;233;4845;6904748;3437052;0;Keski-Suomi;62.2431;25.7857
-23933;933;L_vt4_Palokka;"Tie 4 Palokka";"Väg 4 Palokka";"Road 4 Palokka";4;301;4620;6908741;3434144;0;Keski-Suomi;62.2784;25.7282
-23901;901;L_vt4_Tikkakoski;"Tie 4 Tikkakoski";"Väg 4 Tikkakoski";"Road 4 Tikkakoski";4;303;3210;6918924;3433129;0;Keski-Suomi;62.3696;25.7048
-23902;902;L_vt4_Äänekoski;"Tie 4 Äänekoski";"Väg 4 Äänekoski";"Road 4 Äänekoski";4;310;1450;6950954;3434916;0;Keski-Suomi;62.6572;25.7271
-23932;932;L_vt4_Hännilänsalmi;"Tie 4 Hännilänsalmi";"Väg 4 Hännilänsalmi";"Road 4 Hännilänsalmi";4;318;150;6993806;3440310;0;Keski-Suomi;63.0425;25.8169
-23925;925;L_vt4_Viitasaari;"Tie 4 Viitasaari";"Väg 4 Viitasaari";"Road 4 Viitasaari";4;323;659;7014174;3433260;0;Keski-Suomi;63.2239;25.6693
-23930;930;L_vt9_Jämsä;"Tie 9 Jämsä";"Väg 9 Jämsä";"Road 9 Jämsä";9;220;870;6861528;3403256;0;Keski-Suomi;61.8483;25.1594
-23927;927;L_vt9_Korpilahti;"Tie 9 Korpilahti";"Väg 9 Korpilax";"Road 9 Korpilahti";9;228;955;6875524;3416224;0;Keski-Suomi;61.9769;25.399
-23922;922;L_vt9_Muurame;"Tie 9 Muurame";"Väg 9 Muurame";"Road 9 Muurame";9;232;4133;6887125;3427670;0;Keski-Suomi;62.0833;25.6125
-23903;903;L_vt9_Lievestuore;"Tie 9 Laukaa, Lievestuore";"Väg 9 Laukas, Lievestuore";"Road 9 Laukaa, Lievestuore";9;305;3273;6905060;3456413;0;Keski-Suomi;62.2487;26.158
-23904;904;L_vt13_Saarijärvi;"Tie 13 Saarijärvi";"Väg 13 Saarijärvi";"Road 13 Saarijärvi";13;131;2211;6967183;3401399;0;Keski-Suomi;62.7953;25.0641
-23931;931;L_vt18_Petäjävesi;"Tie 18 Petäjävesi";"Väg 18 Petäjävesi";"Road 18 Petäjävesi";18;47;2950;6908373;3416805;0;Keski-Suomi;62.2717;25.3946
-23905;905;L_vt23_Keuruu1;"Tie 23 Keuruu";"Väg 23 Keuru";"Road 23 Keuruu";23;217;4363;6906780;3373520;0;Keski-Suomi;62.2452;24.5629
-23921;921;L_vt24_Kuhmoinen;"Tie 24 Kuhmoinen";"Väg 24 Kuhmoinen";"Road 24 Kuhmoinen";24;13;3194;6821328;3401314;0;Keski-Suomi;61.4873;25.1443
-23934;934;L_st637_Tiituspohja;"Tie 637 Tiituspohja";"Väg 637 Tiituspohja";"Road 637 Tiituspohja";637;2;1015;6911169;3439038;0;Keski-Suomi;62.301;25.8216
-24021;1021;L_vt3_Koskue;"Tie 3 Koskue";"Väg 3 Koskue";"Road 3 Koskue";3;224;4016;6927882;3282670;0;Etelä-Pohjanmaa;62.3924;22.7928
-24047;1047;L_vt3_Kurikka_Tuiskula;"Tie 3 Kurikka";"Väg 3 Kurikka";"Road 3 Kurikka";3;234;1760;6953800;3265888;0;Etelä-Pohjanmaa;62.6141;22.4339
-24058;1058;L_vt16_Ylistaro;"Tie 16 Ylistaro";"Väg 16 Ylistaro";"Road 16 Ylistaro";16;7;3480;6991901;3274373;0;Etelä-Pohjanmaa;62.9602;22.5474
-24027;1027;L_vt16_Alajärvi;"Tie 16 Alajärvi";"Väg 16 Alajärvi";"Road 16 Alajärvi";16;20;1345;6994847;3332013;0;Etelä-Pohjanmaa;63.0178;23.6784
-24032;1032;L_vt18_Nurmo_Munakka;"Tie 18 Nurmo, Munakka";"Väg 18 Nurmo, Munakka";"Road 18 Nurmo, Munakka";18;9;5264;6978921;3285440;0;Etelä-Pohjanmaa;62.8507;22.7817
-24061;1061;L_vt18_Seinäjöki_Pajuneva;"Tie 18 Seinäjoki, Pajuneva";"Väg 18 Seinäjoki, Pajuneva";"Road 18 Seinäjoki, Pajuneva";18;10;4645;6974223;3288717;0;Etelä-Pohjanmaa;62.8106;22.8518
-24037;1037;L_vt18_Nurmo_Uittoo;"Tie 18 Nurmo";"Väg 18 Nurmo";"Road 18 Nurmo";18;13;615;6969506;3296491;0;Etelä-Pohjanmaa;62.7728;23.0096
-24056;1056;L_vt18_Alavus_Kuivaskylä;"Tie 18 Alavus";"Väg 18 Alavo";"Road 18 Alavus";18;18;3464;6945137;3318646;0;Etelä-Pohjanmaa;62.5662;23.4687
-24033;1033;L_vt18_Alavus_Tuuri;"Tie 18 Alavus";"Väg 18 Alavo";"Road 18 Alavus";18;20;4096;6947619;3330185;0;Etelä-Pohjanmaa;62.5939;23.6902
-24062;1062;L_vt18_Töysä_Jokikylä;"Tie 18 Töysä, Jokikylä";"Väg 18 Töysä, Jokikylä";"Road 18 Töysä, Jokikylä";18;21;1542;6949606;3334051;0;Etelä-Pohjanmaa;62.6135;23.7634
-24005;1005;L_vt19_Luopajärvi;"Tie 19 Luopajärvi";"Väg 19 Luopajärvi";"Road 19 Luopajärvi";19;2;4824;6949578;3281894;0;Etelä-Pohjanmaa;62.5861;22.7502
-24034;1034;L_vt19_Seinäjoki;"Tie 19 Seinäjoki";"Väg 19 Seinäjoki";"Road 19 Seinäjoki";19;6;902;6972825;3288215;0;Etelä-Pohjanmaa;62.7978;22.8438
-24059;1059;L_vt19_Nurmo;"Tie 19 Nurmo";"Väg 19 Nurmo";"Road 19 Nurmo";19;8;602;6975797;3292594;0;Etelä-Pohjanmaa;62.8269;22.9257
-24007;1007;L_vt19_Lapua;"Tie 19 Lapua";"Väg 19 Lappo";"Road 19 Lapua";19;11;4146;6987966;3299139;0;Etelä-Pohjanmaa;62.9395;23.0391
-24049;1049;L_vt19_Lapua_Voitilanjärvi;"Tie 19 Lapua";"Väg 19 Lappo";"Road 19 Lapua";19;14;3943;6993901;3300417;0;Etelä-Pohjanmaa;62.9933;23.0571
-24031;1031;L_vt19_Alahärmä_Voltti;"Tie 19 Alahärmä, Voltti";"Väg 19 Alahärmä, Voltti";"Road 19 Alahärmä, Voltti";19;21;676;7027657;3289540;0;Etelä-Pohjanmaa;63.2892;22.7995
-24054;1054;L_kt44_Kauhajoki;"Tie 44 Kauhajoki";"Väg 44 Kauhajoki";"Road 44 Kauhajoki";44;29;3429;6931704;3252634;0;Etelä-Pohjanmaa;62.4079;22.2086
-24035;1035;L_kt63_Kauhava;"Tie 63 Kauhava";"Väg 63 Kauhava";"Road 63 Kauhava";63;2;1950;7008433;3301838;0;Etelä-Pohjanmaa;63.1242;23.0675
-24024;1024;L_kt66_Alavus_Sampsalampi;"Tie 66 Alavus";"Väg 66 Alavo";"Road 66 Alavus";66;19;4217;6930222;3325854;0;Etelä-Pohjanmaa;62.4361;23.6238
-24060;1060;L_kt66_Alavus_Pohjoinen;"Tie 66 Alavus, pohjoinen";"Väg 66 Alavus, nord";"Road 66 Alavus, north";66;25;2656;6952513;3324564;0;Etelä-Pohjanmaa;62.6351;23.576
-24044;1044;L_kt66_Kuortane;"Tie 66 Kuortane";"Väg 66 Kuortane";"Road 66 Kuortane";66;30;1502;6971608;3322558;0;Etelä-Pohjanmaa;62.8052;23.5169
-24046;1046;L_kt67_Teuva;"Tie 67 Teuva";"Väg 67 Östermark";"Road 67 Teuva";67;7;3516;6941055;3226890;0;Etelä-Pohjanmaa;62.4734;21.6978
-24042;1042;L_kt67_Kauhajoki_P;"Tie 67 Kauhajoki, pohjoine";"Väg 67 Kauhajoki, pohjoinen";"Road 67 Kauhajoki, north";67;14;5158;6939879;3256506;0;Etelä-Pohjanmaa;62.4835;22.2716
-24006;1006;L_kt67_Ilmajoki;"Tie 67 Ilmajoki";"Väg 67 Ilmola";"Road 67 Ilmajoki";67;21;1753;6967293;3277093;0;Etelä-Pohjanmaa;62.7417;22.6337
-24039;1039;L_kt68_Ähtäri;"Tie 68 Ähtäri";"Väg 68 Etseri";"Road 68 Ähtäri";68;7;542;6940473;3347973;0;Etelä-Pohjanmaa;62.5377;24.0424
-24055;1055;L_kt68_Lehtimäki;"Tie 68 Lehtimäki";"Väg 68 Lehtimäki";"Road 68 Lehtimäki";68;15;2135;6967939;3343914;0;Etelä-Pohjanmaa;62.7821;23.9383
-24028;1028;L_kt68_Evijärvi;"Tie 68 Evijärvi";"Väg 68 Evijärvi";"Road 68 Evijärvi";68;27;5360;7030321;3325677;0;Etelä-Pohjanmaa;63.3325;23.5155
-24043;1043;L_yt17367_Kurikka_Panttil;"Tie 17367 Kurikka, Panttil";"Väg 17367 Kurikka, Panttila";"Road 17367 Kurikka, Panttila";17367;1;2650;6959948;3263314;0;Etelä-Pohjanmaa;62.6674;22.3754
-24001;1001;L_vt3_Huissi;"Tie 3 Huissi";"Väg 3 Huissi";"Road 3 Huissi";3;239;6476;6974000;3259400;0;Pohjanmaa;62.7905;22.2792
-24051;1051;L_vt3_Laihia_Perälä;"Tie 3 Laihia, Perälä";"Väg 3 Laihela, Perälä";"Road 3 Laihia, Perälä";3;244;2250;6990347;3248868;0;Pohjanmaa;62.9296;22.049
-24002;1002;L_vt3_Hälsingby;"Tie 3 Hälsingby";"Väg 3 Hälsingby";"Road 3 Hälsingby";3;248;5183;7001388;3237435;0;Pohjanmaa;63.0202;21.8073
-24030;1030;L_vt3_Vaasa_Mt;"Tie 3 Vaasa";"Väg 3 Vasa";"Road 3 Vaasa";3;250;4648;7006459;3232548;0;Pohjanmaa;63.0619;21.7029
-24050;1050;L_vt8_Kristiinankaupunki;"Tie 8 Kristiinankaupunki";"Väg 8 Kristinestad";"Road 8 Kristiinankaupunki";8;213;5065;6893775;3214418;0;Pohjanmaa;62.0418;21.5344
-24022;1022;L_vt8_Närpiö;"Tie 8 Närpiö";"Väg 8 Närpes";"Road 8 Närpiö";8;223;775;6938798;3212484;0;Pohjanmaa;62.4424;21.4236
-24045;1045;L_vt8_Mustasaari_Riimal;"Tie 8 Mustasaari, Riimala";"Väg 8 Korsholm, Riimala";"Road 8 Mustasaari, Riimala";8;237;4418;6994011;3234562;0;Pohjanmaa;62.9522;21.7626
-24057;1057;L_vt8_Vaasa_Yhdystie;"Tie 8 Vaasa, Yhdystie";"Väg 8 Vasa, Yhdystie";"Road 8 Vaasa, Yhdystie";8;239;1850;7009387;3231175;0;Pohjanmaa;63.0871;21.6711
-24003;1003;L_vt8_Koivulahti;"Tie 8 Mustasaari, Koivulah";"Väg 8 Korsholm, Kvevlax";"Road 8 Mustasaari, Koivulahti";8;303;4434;7015141;3237293;0;Pohjanmaa;63.1429;21.7825
-24063;1063;L_vt8_Kaitsor_Vöyri-Maksamaa;"Tie 8 Kaitsor, Vöyri-Maksamaa";"Väg 8 Kaitsor, Vöyri-Maksamaa";"Road 8 Kaitsor, Vöyri-Maksamaa";8;311;799;7025805;3263362;0;Pohjanmaa;63.2563;22.2821
-24026;1026;L_vt8_Kovjoki;"Tie 8 Kovjoki";"Väg 8 Kovik";"Road 8 Kovjoki";8;321;2820;7056934;3286608;0;Pohjanmaa;63.5494;22.7021
-24053;1053;L_vt18_Laihia_Vedenoja;"Tie 18 Laihia, Vedenoja";"Tie 18 Laihela, Vedenoja";"Road 18 Laihia, Vedenoja";18;2;948;6994218;3250865;0;Pohjanmaa;62.9656;22.0823
-24004;1004;L_vt16_Isokyrö;"Tie 16 Isokyrö";"Väg 16 Storkyro";"Road 16 Isokyrö";18;5;2200;6994874;3264231;0;Pohjanmaa;62.9803;22.344
-24036;1036;L_kt68_Pietarsaari;"Tie 68 Pietarsaari";"Väg 68 Jakobstad";"Road 68 Pietarsaari";68;38;1860;7066804;3292762;0;Pohjanmaa;63.6414;22.8126
-24029;1029;L_st724_Raippaluoto;"Tie 724 Raippaluoto";"Väg 724 Replot";"Road 724 Raippaluoto";724;4;1915;7023198;3223017;0;Pohjanmaa;63.2042;21.487
-24023;1023;L_vt8_Kokkola;"Tie 8 Kokkola";"Väg 8 Karleby";"Road 8 Kokkola";8;404;550;7089738;3315358;0;Keski-Pohjanmaa;63.8592;23.2403
-24048;1048;L_vt13_Kokkola_Ribacken;"Tie 13 Kokkola";"Väg 13 Karleby";"Road 13 Kokkola";13;102;3475;7080530;3313133;0;Keski-Pohjanmaa;63.7756;23.2063
-24041;1041;L_vt13_Kaustinen_Viiperi;"Tie 13 Kaustinen";"Väg 13 Kaustby";"Road 13 Kaustinen";13;108;2516;7060483;3324904;0;Keski-Pohjanmaa;63.6022;23.4669
-24122;1122;L_vt13_Veteli;"Tie 13 Veteli";"Väg 13 Vetil";"Road 13 Veteli";13;113;3516;7039935;3346308;0;Keski-Pohjanmaa;63.4281;23.9175
-24064;1064;L_vt13_Perho_Möttönen;"Tie 13 Perho, Möttönen";"Väg 13 Perho, Möttönen";"Road 13 Perho, Möttönen";13;121;1621;7009577;3375363;0;Keski-Pohjanmaa;63.1673;24.5223
-24065;1065;L_vt18_Ähtäri_Inha;"Tie 18 Ähtäri, Inha";"Väg 18 Ähtäri, Inha";"Road 18 Ähtäri, Inha";18;26;984;6942275;3352166;0;Keski-Pohjanmaa;62.5555;24.1222
-24040;1040;L_vt28_Kannus;"Tie 28 Kannus";"Väg 28 Kannus";"Road 28 Kannus";28;6;603;7092571;3346052;0;Keski-Pohjanmaa;63.8994;23.8606
-24038;1038;L_kt63_Kaustinen;"Tie 63 Kaustinen";"Väg 63 Kaustby";"Road 63 Kaustinen";63;17;3460;7054965;3338765;0;Keski-Pohjanmaa;63.5593;23.7514
-24101;1101;L_vt4_Pyhäjärvi;"Tie 4 Pyhäjärvi";"Väg 4 Pyhäjärvi";"Road 4 Pyhäjärvi";4;332;2902;7058414;3440090;0;Pohjois-Pohjanmaa;63.6219;25.7884
-24121;1121;L_vt4_Kärsämäki;"Tie 4 Kärsämäki";"Väg 4 Kärsämäki";"Road 4 Kärsämäki";4;341;3360;7094619;3441502;0;Pohjois-Pohjanmaa;63.9469;25.8032
-24221;1221;L_vt4_Rantsila;"Tie 4 Rantsila";"Väg 4 Frantsila";"Road 4 Rantsila";4;352;2390;7143390;3444833;0;Pohjois-Pohjanmaa;64.3849;25.8532
-24236;1236;L_vt4_Ala-Temmes;"Tie 4 Alatemmes";"Väg 4 Alatemmes";"Road 4 Alatemmes";4;362;5270;7187098;3431022;0;Pohjois-Pohjanmaa;64.7742;25.5463
-24243;1243;L_vt4_Luhasto;"Tie 4 Luhasto";"Väg 4 Luhasto";"Road 4 Luhasto";4;363;3300;7194780;3429176;0;Pohjois-Pohjanmaa;64.8427;25.5038
-24226;1226;L_vt4_Kempele;"Tie 4 Kempele";"Väg 4 Kempele";"Road 4 Kempele";4;364;4245;7202649;3431016;0;Pohjois-Pohjanmaa;64.9137;25.5387
-24201;1201;L_vt4_Oulu_Mäntylä;"Tie 4 Oulu, Mäntylä";"Väg 4 Uleåborg, Mäntylä";"Road 4 Oulu, Mäntylä";4;367;2297;7209985;3430154;0;Pohjois-Pohjanmaa;64.9793;25.5168
-24251;1251;L_vt4_Oulu_Lintula;"Tie 4 Oulu, Lintula";"Väg 4 Uleåborg, Lintula";"Road 4 Oulu, Lintula";4;367;4096;7208766;3429542;0;Pohjois-Pohjanmaa;64.9682;25.5045
-24250;1250;L_vt4_Välkkylä;"Tie 4 Välkkylä";"Väg 4 Välkkylä";"Road 4 Välkkylä";4;401;450;7213504;3429900;0;Pohjois-Pohjanmaa;65.0108;25.5097
-24237;1237;L_vt4_Oulu;"Tie 4 Oulu, Intiö";"Väg 4 Uleåborg, Intiö";"Road 4 Oulu, Intiö";4;401;1657;7214649;3429950;0;Pohjois-Pohjanmaa;65.0211;25.5102
-24244;1244;L_vt4_Laanila;"Tie 4 Oulu, Laanila";"Väg 4 Uleåborg, Laanila";"Road 4 Oulu, Laanila";4;402;862;7215842;3429419;0;Pohjois-Pohjanmaa;65.0316;25.4983
-24238;1238;L_vt4_Isko;"Tie 4 Linnanmaa";"Väg 4 Linnanmaa";"Road 4 Linnanmaa";4;403;844;7217510;3427946;0;Pohjois-Pohjanmaa;65.0463;25.4662
-24246;1246;L_vt4_Kuivasjärvi;"Tie 4 Oulu, Kuivasjärvi";"Väg 4 Uleåborg, Kuivasjärvi";"Road 4 Oulu, Kuivasjärvi";4;403;4120;7220662;3426724;0;Pohjois-Pohjanmaa;65.0743;25.4386
-24231;1231;L_vt4_Kalimenoja;"Tie 4 Kello";"Väg 4 Kello";"Road 4 Kello";4;405;1508;7226094;3426448;0;Pohjois-Pohjanmaa;65.1229;25.4299
-24202;1202;L_vt4_Ii;"Tie 4 Ii";"Väg 4 Ijo";"Road 4 Ii";4;409;4295;7246097;3424280;0;Pohjois-Pohjanmaa;65.3018;25.3727
-24229;1229;L_vt4_Kuivaniemi;"Tie 4 Ii, Kuivaniemi";"Väg 4 Ijo, Kuivaniemi";"Road 4 Ii, Kuivaniemi";4;416;685;7273453;3418766;0;Pohjois-Pohjanmaa;65.5457;25.2382
-24234;1234;L_vt5_Toranki;"Tie 5 Kuusamo, Toranki";"Väg 5 Kuusamo, Toranki";"Road 5 Kuusamo, Toranki";5;355;5106;7318805;3598631;0;Pohjois-Pohjanmaa;65.9474;29.1643
-24203;1203;L_vt5_Kuusamo;"Tie 5 Kuusamo";"Väg 5 Kuusamo";"Road 5 Kuusamo";5;359;2479;7331368;3597314;0;Pohjois-Pohjanmaa;66.0604;29.1449
-24052;1052;L_vt8_Himanka;"Tie 8 Himanka";"Väg 8 Himango";"Road 8 Himanka";8;412;1023;7109824;3336189;0;Pohjois-Pohjanmaa;64.0494;23.6416
-24124;1124;L_vt8_Rahvo;"Tie 8 Kalajoki, Rahvo";"Väg 8 Kalajoki, Rahvo";"Road 8 Kalajoki, Rahvo";8;418;2347;7134793;3352579;0;Pohjois-Pohjanmaa;64.2805;23.9522
-24204;1204;L_vt8_Raahe;"Tie 8 Raahe";"Väg 8 Brahestad";"Road 8 Raahe";8;429;5217;7178735;3383815;0;Pohjois-Pohjanmaa;64.6863;24.5616
-24235;1235;L_vt8_Lapinkangas;"Tie 8 Liminka";"Väg 8 Limingo";"Road 8 Liminka";8;438;1905;7188120;3421646;0;Pohjois-Pohjanmaa;64.7814;25.3488
-24254;1254;L_vt20_Rusko2;"Tie 20 Oulu, Rusko";"Väg 20 Uleåborg, Rusko";"Road 20 Oulu, Rusko";20;3;4706;7218295;3434626;0;Pohjois-Pohjanmaa;65.0547;25.6076
-24223;1223;L_vt20_Kiiminki;"Tie 20 Kiiminki";"Väg 20 Kiiminki";"Road 20 Kiiminki";20;4;280;7219433;3436054;0;Pohjois-Pohjanmaa;65.0652;25.6374
-24230;1230;L_vt20_Rankkila;"Tie 20 Pudasjärvi, Rankkil";"Väg 20 Pudasjärvi, Rankkila";"Road 20 Pudasjärvi, Rankkila";20;14;4277;7241476;3487590;0;Pohjois-Pohjanmaa;65.2689;26.7306
-24232;1232;L_vt20_Kettumäki;"Tie 20 Kettumäki";"Väg 20 Kettumäki";"Road 20 Kettumäki";20;22;3706;7257973;3519786;0;Pohjois-Pohjanmaa;65.4165;27.4223
-24224;1224;L_vt20_Pintamo;"Tie 20 Pudasjärvi, Pintamo";"Väg 20 Pudasjärvi, Pintamo";"Road 20 Pudasjärvi, Pintamo";20;23;3509;7261016;3528005;0;Pohjois-Pohjanmaa;65.4432;27.5999
-24241;1241;L_vt22_Maikkula;"Tie 22 Maikkula";"Väg 22 Maikkula";"Road 22 Maikkula";22;2;2500;7211049;3431451;0;Pohjois-Pohjanmaa;64.9891;25.5438
-24227;1227;L_vt22_Muhos;"Tie 22 Muhos";"Väg 22 Muhos";"Road 22 Muhos";22;6;5994;7195713;3447383;0;Pohjois-Pohjanmaa;64.8545;25.887
-24104;1104;L_vt27_Alavieska;"Tie 27 Alavieska";"Väg 27 Alavieska";"Road 27 Alavieska";27;4;1058;7116583;3371203;0;Pohjois-Pohjanmaa;64.1248;24.3519
-24105;1105;L_vt27_Haapajärvi;"Tie 27 Haapajärvi";"Väg 27 Haapajärvi";"Road 27 Haapajärvi";27;14;7519;7072238;3431325;0;Pohjois-Pohjanmaa;63.7443;25.6056
-24103;1103;L_vt28_Sievi;"Tie 28 Sievi";"Väg 28 Sievi";"Road 28 Sievi";28;17;426;7087806;3388872;0;Pohjois-Pohjanmaa;63.873;24.7353
-24225;1225;L_kt78_Pudasjärvi;"Tie 78 Pudasjärvi";"Väg 78 Pudasjärvi";"Road 78 Pudasjärvi";78;208;3300;7286044;3485785;0;Pohjois-Pohjanmaa;65.6685;26.6872
-24123;1123;L_kt86_Oulainen;"Tie 86 Oulainen";"Väg 86 Oulais";"Road 86 Oulainen";86;12;2326;7128853;3394930;0;Pohjois-Pohjanmaa;64.2428;24.83
-24205;1205;L_kt86_Liminka;"Tie 86 Liminka";"Väg 86 Limingo";"Road 86 Liminka";86;26;5350;7180148;3422949;0;Pohjois-Pohjanmaa;64.7102;25.3804
-24233;1233;L_kt88_Alpua;"Tie 88 Vihanti, Alpua";"Väg 88 Vihanti, Alpua";"Road 88 Vihanti, Alpua";88;7;1583;7151880;3411120;0;Pohjois-Pohjanmaa;64.4538;25.1498
-24239;1239;L_st815_Lentokentäntie;"Tie 815 Oulunsalo";"Väg 815 Uleåsalo";"Road 815 Oulunsalo";815;2;1700;7206797;3428877;0;Pohjois-Pohjanmaa;64.9504;25.4914
-24248;1248;L_st815_Oulunsalo;"Tie 815 Oulunsalo";"Väg 815 Uleåsalo";"Road 815 Oulunsalo";815;3;350;7205264;3425144;0;Pohjois-Pohjanmaa;64.9359;25.4133
-24249;1249;L_st815_Lunki;"Tie 815 Lunki";"Väg 815 Lunki";"Road 815 Lunki";815;3;1585;7205037;3424417;0;Pohjois-Pohjanmaa;64.9337;25.398
-24253;1253;L_st816_Hailuoto;"Tie 816 Hailuoto";"Väg 816 Karlö";"Road 816 Hailuoto";816;5;850;7217467;3408543;0;Pohjois-Pohjanmaa;65.0411;25.0545
-24222;1222;L_st847_Tupos;"Tie 4 Liminka, Tupos";"Väg 4 Limingo, Tupos";"Road 4 Liminka, Tupos";847;1;1774;7193445;3428523;0;Pohjois-Pohjanmaa;64.8306;25.4907
-24247;1247;L_st847_Oulunlahti;"Tie 847 Oulunlahti";"Väg 847 Oulunlahti";"Road 847 Oulunlahti";847;3;1770;7209217;3429141;0;Pohjois-Pohjanmaa;64.9722;25.4958
-24228;1228;L_st847_Haukipudas;"Tie 847 Haukipudas";"Väg 847 Haukipudas";"Road 847 Haukipudas";847;5;1860;7225695;3423768;0;Pohjois-Pohjanmaa;65.1187;25.3731
-24252;1252;L_st866_Kuusamo_T;"Tie 866 Kuusamo";"Väg 866 Kuusamo";"Road 866 Kuusamo";866;7;6365;7301109;3641334;0;Pohjois-Pohjanmaa;65.7729;30.0826
-24321;1321;L_vt5_Hatulanmäki;"Tie 5 Hatulanmäki";"Väg 5 Hatulanmäki";"Road 5 Hatulanmäki";5;228;3116;7099260;3520177;0;Kainuu;63.9929;27.4087
-24322;1322;L_vt5_Nuottijärvi;"Tie 5 Nuottijärvi";"Väg 5 Nuottijärvi";"Road 5 Nuottijärvi";5;233;400;7117856;3525697;0;Kainuu;64.1594;27.5246
-24301;1301;L_vt5_Rytivaara;"Tie 5 Rytivaara";"Väg 5 Rytivaara";"Road 5 Rytivaara";5;306;3986;7135823;3550537;0;Kainuu;64.3177;28.0412
-24302;1302;L_vt5_Ristijärvi;"Tie 5 Ristijärvi";"Väg 5 Ristijärvi";"Road 5 Ristijärvi";5;311;1905;7154760;3556739;0;Kainuu;64.4866;28.1766
-24328;1328;L_vt5_Tapiola;"Tie 5 Tapiola";"Väg 5 Tapiola";"Road 5 Tapiola";5;337;4546;7253761;3595431;0;Kainuu;65.3654;29.0475
-24323;1323;L_vt6_Korholanmäki;"Tie 6 Sotkamo, Korholanmäk";"Väg 6 Sotkamo, Korholanmäki";"Road 6 Sotkamo, Korholanmäki";6;435;450;7115767;3548604;0;Kainuu;64.1382;27.9947
-24324;1324;L_vt22_Törmäkylä;"Tie 22 Törmäkylä";"Väg 22 Törmäkylä";"Road 22 Törmäkylä";22;17;1660;7167509;3483448;0;Kainuu;64.6052;26.6506
-24329;1329;L_vt22_Mieslahti;"Tie 22 Paltamo, Mieslahti";"Väg 22 Paltamo, Mieslahti";"Road 22 Paltamo, Mieslahti";22;30;5881;7143972;3546160;0;Kainuu;64.3915;27.9532
-24326;1326;L_vt28_Vuottolahti;"Tie 28 Vuottolahti";"Väg 28 Vuottolahti";"Road 28 Vuottolahti";28;45;1816;7112842;3513103;0;Kainuu;64.1151;27.2654
-24303;1303;L_kt75_Kankivaara;"Tie 75 Kankivaara";"Väg 75 Kankivaara";"Road 75 Kankivaara";75;33;2720;7101948;3628874;0;Kainuu;63.9938;29.6302
-24327;1327;L_kt78_Aska;"Tie 78 Arska";"Väg 78 Arska";"Road 78 Arska";78;116;1860;7217063;3533137;0;Kainuu;65.0485;27.7
-24325;1325;L_kt89_Vartius;"Tie 89 Vartius";"Väg 89 Vartius";"Road 89 Vartius";89;18;522;7158177;3639589;0;Kainuu;64.4934;29.9012
-24452;1452;L_vt4_Marostenmäki;"Tie 4 Kemi, Marostenmäki";"Väg 4 Kemi, Marostenmäki";"Road 4 Kemi, Marostenmäki";4;423;3125;7290602;3393846;0;Lappi;65.6921;24.6857
-24453;1453;L_vt4_Siikalahti;"Tie 4 Kemi, Siikalahti";"Väg 4 Kemi, Siikalahti";"Road 4 Kemi, Siikalahti";4;424;2764;7292819;3391202;0;Lappi;65.7111;24.6264
-24454;1454;L_vt4_Peurasaari;"Tie 4 Kemi, Peurasaari";"Väg 4 Kemi, Peurasaari";"Road 4 Kemi, Peurasaari";4;425;1622;7294701;3389763;0;Lappi;65.7275;24.5935
-24455;1455;L_vt4_Karjalahti;"Tie 4 Kemi, Karjalahti";"Väg 4 Kemi, Karjalahti";"Road 4 Kemi, Karjalahti";4;425;2981;7296028;3389527;0;Lappi;65.7393;24.5872
-24456;1456;L_vt4_Kivikko;"Tie 4 Kemi, Kivikko";"Väg 4 Kemi, Kivikko";"Road 4 Kemi, Kivikko";4;425;4583;7297519;3388960;0;Lappi;65.7525;24.5736
-24457;1457;L_vt4_Ristikangas;"Tie 4 Kemi, Ristikangas";"Väg 4 Kemi, Ristikangas";"Road 4 Kemi, Ristikangas";4;426;562;7298695;3388922;0;Lappi;65.763;24.5718
-24437;1437;L_vt4_mp3_Jokisuu;"Tie 4 Jokisuu";"Väg 4 Jokisuu";"Road 4 Jokisuu";4;426;4377;7301900;3386878;0;Lappi;65.791;24.5245
-24438;1438;L_vt4_mp2_Jokisuu;"Tie 4 Jokisuu";"Väg 4 Jokisuu";"Road 4 Jokisuu";4;426;4934;7302315;3386756;0;Lappi;65.7947;24.5215
-24401;1401;L_vt4_Tervola;"Tie 4 Tervola";"Väg 4 Tervola";"Road 4 Tervola";4;435;716;7333787;3398836;0;Lappi;66.0807;24.7607
-24451;1451;L_vt4_Ala-Korkalo;"Tie 4 Rovaniemi, Ala-Korkalo";"Väg 4 Rovaniemi, Ala-Korkalo";"Road 4 Rovaniemi, Ala-Korkalo";4;448;2546;7374184;3435738;0;Lappi;66.4526;25.5551
-24450;1450;L_vt4_Revontuli;"Tie 4 Rovaniemi";"Väg 4 Rovaniemi";"Road 4 Rovaniemi";4;501;650;7379747;3443458;0;Lappi;66.5039;25.7256
-24424;1424;L_vt4_Olkkajärvi;"Tie 4 Rovaniemi, Olkkajärv";"Väg 4 Rovaniemi, Olkkajärvi";"Road 4 Rovaniemi, Olkkajärvi";4;504;3500;7390161;3459036;0;Lappi;66.5998;26.0721
-24448;1448;L_vt4_Torvinen;"Tie 4 Torvinen";"Väg 4 Torvinen";"Road 4 Torvinen";4;517;11153;7452184;3484498;0;Lappi;67.1583;26.6383
-24449;1449;L_vt4_Yläpostojoki;"Tie 4 Yläpostojoki";"Väg 4 Yläpostojoki";"Road 4 Yläpostojoki";4;531;2960;7513326;3489756;0;Lappi;67.7067;26.7541
-24402;1402;L_vt4_Ivalo;"Tie 4 Ivalo";"Väg 4 Ivalo";"Road 4 Ivalo";4;550;4680;7603726;3520712;0;Lappi;68.5166;27.5024
-24444;1444;L_vt4_Utsjoki;"Tie 4 Utsjoki";"Väg 4 Utsjoki";"Road 4 Utsjoki";4;582;5750;7758695;3501156;0;Lappi;69.9066;27.0257
-24426;1426;L_vt5_Suomu;"Tie 5 Suomu";"Väg 5 Suomu";"Road 5 Suomu";5;375;529;7384815;3549439;0;Lappi;66.5507;28.1091
-24403;1403;L_vt5_Kemijärvi;"Tie 5 Kemijärvi";"Väg 5 Kemi träsk";"Road 5 Kemijärvi";5;405;5100;7419151;3519853;0;Lappi;66.8618;27.4486
-24458;1458;L_v21_Tornio;"Tie 21 Tornio";"Väg 21 Torneå";"Road 21 Tornio";21;106;30;7311570;3370911;0;Lappi;65.8716;24.1666
-24459;1459;L_v21_Ylitornio;"Tie 21 Ylitornio";"Väg 21 Övertorneåo";"Road 21 Ylitornio";21;118;1340;7367585;3352342;0;Lappi;66.365;23.6956
-24421;1421;L_vt21_Kolari;"Tie 21 Kolari";"Väg 21 Kolari";"Road 21 Kolari";21;140;2278;7463252;3365941;0;Lappi;67.2278;23.8925
-24447;1447;L_vt21_Kilpisjärvi_T;"Tie 21 Enontekiö, Kilpisjä";"Väg 21 Enontekis, Kilpisjärv";"Road 21 Enontekiö, Kilpisjärvi";21;238;125;7674869;3251739;0;Lappi;69.042;20.7697
-24439;1439;L_vt29_Luukkaankangas;"Tie 29 Kemi, Luukkaankanga";"Väg 29 Kemi, Luukkaankangas";"Road 29 Kemi, Luukkaankangas";29;1;4688;7306167;3381116;0;Lappi;65.8271;24.3949
-24440;1440;L_vt29_mp1c_Tornio;"Tie 29 Tornio 1";"Väg 29 Torneå 1";"Road 29 Tornio 1";29;2;3350;7308066;3372629;0;Lappi;65.8409;24.2076
-24441;1441;L_vt29_mp1a_Tornio;"Tie 29 Tornio 2";"Väg 29 Torneå 2";"Road 29 Tornio 2";29;2;3500;7308089;3372482;0;Lappi;65.841;24.2044
-24431;1431;L_vt29_Tornio;"Tie 9211 Tornio";"Väg 9211 Torneå";"Road 9211 Tornio";29;3;2510;7308203;3369705;0;Lappi;65.8409;24.1436
-24425;1425;L_kt78_Saukkokangas;"Tie 78 Ranua, Saukkokangas";"Väg 78 Ranua, Saukkokangas";"Road 78 Ranua, Saukkokangas";78;217;5531;7340759;3466219;0;Lappi;66.1577;26.2475
-24422;1422;L_kt79_Jääskö;"Tie 79 Jääskö";"Väg 79 Jääskö";"Road 79 Jääskö";79;14;1737;7434586;3423714;0;Lappi;66.9913;25.2476
-24423;1423;L_kt81_Peräposio;"Tie 81 Posio, Peräposio";"Väg 81 Posio, Peräposio";"Road 81 Posio, Peräposio";81;20;8600;7344005;3533969;0;Lappi;66.1868;27.7498
-24405;1405;L_kt82_Misi;"Tie 82 Rovaniemi, Misi";"Väg 82 Rovaniemi, Misi";"Road 82 Rovaniemi, Misi";82;4;4690;7398266;3483936;0;Lappi;66.6748;26.6327
-24430;1430;L_kt82_Salla_Kelloselkä;"Tie 82 Salla, Kelloselkä";"Väg 82 Salla, Kelloselkä";"Road 82 Salla, Kelloselkä";82;20;3180;7429669;3589057;0;Lappi;66.9438;29.0333
-24427;1427;L_kt83_Raanujärvi;"Tie 83 Ylitornio, Raanujär";"Väg 83 Övertorneå, Raanujärv";"Road 83 Ylitornio, Raanujärvi";83;10;5189;7396411;3405051;0;Lappi;66.6439;24.8504
-24429;1429;L_kt91_Rajajooseppi;"Tie 91 Inari, Rajajooseppi";"Väg 91 Enare, Rajajooseppi";"Road 91 Inari, Rajajooseppi";91;7;9035;7599825;3560481;0;Lappi;68.4759;28.4725
-24445;1445;L_kt92_Karigasniemi;"Tie 92 Karigasniemi";"Väg 92 Karigasniemi";"Road 92 Karigasniemi";92;12;5200;7702500;3454237;0;Lappi;69.3989;25.8307
-24446;1446;L_kt93_Kivilompolo;"Tie 93 Enontekiö, Kivilomp";"Väg 21 Enontekis, Kivilompol";"Road 93 Enontekiö, Kivilompolo";93;12;4368;7624124;3350800;0;Lappi;68.6602;23.3215
-24432;1432;L_kt98_Aavasaksa;"Tie 98 Aavasaksa";"Väg 98 Aavasaksa";"Road 98 Aavasaksa";98;1;400;7369437;3351779;0;Lappi;66.3814;23.6809
-24404;1404;L_st921_Kaakamo;"Tie 921 Tornio";"Väg 921 Torneå";"Road 921 Tornio";921;2;1419;7303813;3383706;0;Lappi;65.807;24.4536
-24433;1433;L_st937_Pello;"Tie 937 Pello";"Väg 937 Pello";"Road 937 Pello";937;1;250;7415643;3367857;0;Lappi;66.8024;23.9901
-24434;1434;L_st943_Kolari;"Tie 943 Kolari";"Väg 943 Kolari";"Road 943 Kolari";943;1;4900;7473131;3360238;0;Lappi;67.3137;23.7488
-24435;1435;L_st954_Muonio;"Tie 954 Muonio";"Väg 954 Muonio";"Road 954 Muonio";954;1;119;7543157;3360186;0;Lappi;67.9404;23.66
-24436;1436;L_st959_Karesuvanto;"Tie 959 Enontekiö, Karesuv";"Väg 21 Enontekis, Karesuvant";"Road 959 Enontekiö, Karesuvant";959;1;700;7602613;3315138;0;Lappi;68.4466;22.4851
-24443;1443;L_st970_Nuorgam;"Tie 970 Utsjoki, Nuorgam";"Väg 970 Utsjoki, Nuorgam";"Road 970 Utsjoki, Nuorgam";970;22;2330;7778995;3536983;0;Lappi;70.0859;27.968
-24442;1442;L_st971_Näätämö;"Tie 971 Inari, Näätämö";"Väg 971 Enare, Näätämö";"Road 971 Inari, Näätämö";971;18;6200;7733846;3582380;0;Lappi;69.6711;29.1198
-24499;1499;L_vt29_mp1b_Tornio;"Tie 971 Tornio 3";"Väg 971 Torneå 3";"Road 971 Tornio 3";971;18;6200;7733666;3582609;0;Lappi;69.6694;29.1256
+TSA_NUMBER,LAM_STATION_ID,TSA_NAME,NAME_FI,NAME_SE,NAME_EN,ROAD,ROAD_PART,ROAD_DISTANCE,TSA_LOC_KKJ_Y,TSA_LOC_KKJ_X,TSA_ALTITUDE,REGION_NAME_FI,LOC_ETRS89_LAT,LOC_ETRS89_LON
+23117,117,L_vt1_Munkkiniemi,"Tie 1 Munkkiniemi","Väg 1 Munksnäs","Road 1 Munkkiniemi",1,3,500,6678726,3382198,0,Uusimaa,60.203,24.8725
+23103,103,L_vt1_Huopalahti,"Tie 1 Huopalahti","Väg 1 Hoplax","Road 1 Huopalahti",1,3,2210,6679064,3380555,0,Uusimaa,60.2056,24.8427
+23144,144,L_vt1_Friisinmäki,"Tie 1 Friisinmäki","Väg 1 Frisbacka","Road 1 Friisinmäki",1,4,1200,6679347,3377846,0,Uusimaa,60.2073,24.7938
+23167,167,L_vt1_Sepänkylä,"Tie 1 Sepänkylä","Väg 1 Smedsby","Road 1 Sepänkylä",1,5,900,6679005,3374914,0,Uusimaa,60.2034,24.7411
+23175,175,L_vt1_Lommila,"Tie 1, Espoo, Lommila","Väg 1, Esbo; Lommila","Road 1, Espoo, Lommila",1,5,5820,6680522,3370537,0,Uusimaa,60.2156,24.6613
+23139,139,L_vt1_Nupuri,"Tie 1 Nupuri","Väg 1 Nupurböle","Road 1 Nupuri",1,6,2930,6682318,3367168,0,Uusimaa,60.2306,24.5994
+23191,191,L_vt1_Kolmiranta,"Tie 1 Espoo, Kolmiranta","Väg 1 Esbo, Kolmiranta","Road 1 Espoo, Kolmiranta",1,7,4030,6685535,3361810,0,Uusimaa,60.2577,24.5006
+23192,192,L_vt1_Veikkola,"Tie 1 Veikkola","Väg 1 Veikkola","Road 1 Veikkola",1,8,2638,6689000,3357294,0,Uusimaa,60.2872,24.4167
+23104,104,L_vt1_Palojärvi,"Tie 1 Palojärvi","Väg 1 Palojärvi","Road 1 Palojärvi",1,9,1058,6689750,3353293,0,Uusimaa,60.2925,24.3439
+23193,193,L_vt1_Hevoskallio,"Tie 1 Hevoskallio","Väg 1 Hevoskallio","Road 1 Hevoskallio",1,10,2100,6691046,3348336,0,Uusimaa,60.3023,24.2534
+23194,194,L_vt1_Lehmijärvi,"Tie 1 Lohja, Lehmijärvi","Väg 1 Lojo, Lehmijärvi","Road 1 Lohja, Lehmijärvi",1,11,3797,6689694,3343037,0,Uusimaa,60.2881,24.1587
+24607,1607,L_vt1_Karnainen,"Tie 1 Karnainen","Väg 1 Karnais","Road 1 Karnainen",1,12,2234,6689972,3338644,0,Uusimaa,60.2889,24.0791
+24606,1606,L_vt1_Pitkämäki,"Tie 1 Pitkämäki","Väg 1 Pitkämäki","Road 1 Pitkämäki",1,14,2233,6694771,3330888,0,Uusimaa,60.3288,23.9351
+24605,1605,L_vt1_Hauklampi,"Tie 1 Hauklampi","Väg 1 Hauklampi","Road 1 Hauklampi",1,15,3515,6699187,3327587,0,Uusimaa,60.367,23.8716
+23106,106,L_vt2_Huhmari,"Tie 2 Huhmari","Väg 2 Huhmari","Road 2 Huhmari",2,1,3767,6691621,3353437,0,Uusimaa,60.3093,24.3451
+23122,122,L_vt2_Karkkila,"Tie 2 Karkkila","Väg 2 Högfors","Road 2 Karkkila",2,15,5038,6721431,3344150,0,Uusimaa,60.5731,24.154
+23164,164,L_vt3_Kivihaka,"Tie 3 Kivihaka","Väg 3 Stenhagen","Road 3 Kivihaka",3,101,2700,6679683,3383864,0,Uusimaa,60.2121,24.902
+23152,152,L_vt3_Pirkkola,"Tie 3 Pirkkola","Väg 3 Britas","Road 3 Pirkkola",3,101,4400,6681295,3383974,0,Uusimaa,60.2266,24.9031
+23165,165,L_vt3_Hakuninmaa,"Tie 3 Hakuninmaa","Väg 3 Håkansåker","Road 3 Hakuninmaa",3,101,8550,6685060,3382671,0,Uusimaa,60.26,24.8774
+23107,107,L_vt3_Kaivoksela,"Tie 3 Kaivoksela","Väg 3 Gruvsta","Road 3 Kaivoksela",3,102,799,6686046,3382501,0,Uusimaa,60.2688,24.8738
+23137,137,L_vt3_Keimola,"Tie 3 Keimola","Väg 3 Käinby","Road 3 Keimola",3,103,4180,6692506,3379927,0,Uusimaa,60.3259,24.8234
+23108,108,L_vt3_Karhunkorpi,"Tie 3 Karhunkorpi","Väg 3 Karhunkorpi","Road 3 Karhunkorpi",3,106,4555,6711465,3382124,0,Uusimaa,60.4966,24.852
+23154,154,L_vt4_Viikinmäki,"Tie 4 Viikinmäki","Väg 4 Viksbacka","Road 4 Viikinmäki",4,102,1000,6680536,3388687,0,Uusimaa,60.2211,24.9885
+23109,109,L_vt4_Jakomäki,"Tie 4 Jakomäki","Väg 4 Jakobacka","Road 4 Jakomäki",4,103,2500,6684188,3393236,0,Uusimaa,60.2551,25.0686
+23110,110,L_vt4_Mäntsälä,"Tie 4 Mäntsälä","Väg 4 Mäntsälä","Road 4 Mäntsälä",4,110,4543,6721262,3403304,0,Uusimaa,60.5902,25.2323
+23998,998,L_vt4_Mäntsälä_E,"Tie 4 Mäntsälä, etelä","Väg 4 Mäntsälä, söder","Road 4 Mäntsälä, south",4,111,1000,6722220,3404113,0,Uusimaa,60.599,25.2466
+23999,999,L_vt4_Mäntsälä_P,"Tie 4 Mäntsälä, pohjoinen","Väg 4 Mäntsälä, norr","Road 4 Mäntsälä, north",4,114,1000,6730935,3410871,0,Uusimaa,60.6787,25.366
+23142,142,L_vt4_Levanto,"Tie 4 Mäntsälä, Levanto","Väg 4 Mäntsälä, Levanto","Road 4 Mäntsälä, Levanto",4,115,4391,6737302,3415180,0,Uusimaa,60.7368,25.442
+23111,111,L_vt6_Liljendal,"Tie 6 Liljendal","Väg 6 Liljendal","Road 6 Liljendal",6,117,2820,6716788,3447987,0,Uusimaa,60.5583,26.0488
+23179,179,L_vt7_Fazerila,"Tie 7 Länsimäentie","Väg 7 Västerkullavägen","Road 7 Länsimäentie",7,1,2300,6684041,3395634,0,Uusimaa,60.2544,25.1119
+23141,141,L_vt7_Box,"Tie 7 Sipoo, Box","Väg 7 Sibbo, Box","Road 7 Sipoo, Box",7,5,1360,6688935,3410602,0,Uusimaa,60.3019,25.38
+23112,112,L_vt7_Treksilä,"Tie 7 Porvoo, Treksilä","Väg 7 Borgå, Drägsby","Road 7 Porvoo, Treksilä",7,7,3888,6694688,3419065,0,Uusimaa,60.3552,25.5307
+23001,1,L_vt7_Rita,"Tie 7 Porvoo, Rita","Väg 7 Borgå, Rita","Road 7 Porvoo, Rita",7,10,1050,6701500,3428067,0,Uusimaa,60.4181,25.6913
+23184,184,L_vt7_Porvoo_Uusikrouvi,"Tie 7 Porvoo_Uusikrouvi","Väg 7 Porvoo_Uusikrouvi","Road 7 Porvoo_Uusikrouvi",7,11,2525,6702308,3431298,0,Uusimaa,60.4259,25.7496
+23185,185,L_vt7_Porvoo_Lohijärvi,"Tie 7 Porvoo_Lohijärvi","Väg 7 Porvoo_Lohijärvi","Road 7 Porvoo_Lohijärvi",7,12,2265,6703784,3435380,0,Uusimaa,60.4398,25.8232
+23186,186,L_vt7_Loviisa_Gammelbyviken,"Tie 7 Loviisa_Gammelbyviken","Väg 7 Loviisa_Gammelbyviken","Road 7 Loviisa_Gammelbyviken",7,14,1241,6709362,3440441,0,Uusimaa,60.4906,25.9134
+23187,187,L_vt7_Loviisa_Kärrbacka,"Tie 7 Loviisa_Kärrbacka","Väg 7 Loviisa_Kärrbacka","Road 7 Loviisa_Kärrbacka",7,17,4483,6707255,3451703,0,Uusimaa,60.4733,26.1188
+23188,188,L_vt7_Loviisa,"Tie 7 Loviisa","Väg 7 Loviisa","Road 7 Loviisa",7,19,1240,6706286,3456800,0,Uusimaa,60.4651,26.2117
+23189,189,L_vt7_Loviisa_Itä,"Tie 7 Loviisa_Itä","Väg 7 Loviisa_Öster","Road 7 Loviisa_East",7,20,1205,6707812,3460500,0,Uusimaa,60.4792,26.2786
+23124,124,L_vt25_Dragsvik,"Tie 25 Dragsvik","Väg 25 Dragsvik","Road 25 Dragsvik",25,11,2220,6659125,3306062,0,Uusimaa,59.9983,23.5205
+23114,114,L_vt25_Virkkala,"Tie 25 Virkkala","Väg 25 Virkby","Road 25 Virkkala",25,19,5020,6680590,3334597,0,Uusimaa,60.2032,24.0138
+23129,129,L_vt25_Selki,"Tie 25 Vihti, Selki","Väg 25 Vichtis, Selki","Road 25 Vihti, Selki",25,27,1550,6707890,3364173,0,Uusimaa,60.4589,24.5281
+23133,133,L_vt25_Noppo,"Tie 25 Hyvinkää, Noppo","Tie 25 Hyvinge, Noppo","Road 25 Hyvinkää, Noppo",25,32,2220,6720820,3381460,0,Uusimaa,60.5803,24.8343
+23130,130,L_vt25_Keravanjärvi,"Tie 25 Mäntsälä, Keravanjä","Väg 25 Mäntsälä, Keravanjärv","Road 25 Mäntsälä, Keravanjärvi",25,34,5000,6724526,3395448,0,Uusimaa,60.6175,25.0873
+23153,153,L_kt45_Oulunkylä,"Tie 45 Oulunkylä","Väg 45 Åggelby","Road 45 Oulunkylä",45,1,4900,6680802,3386171,0,Uusimaa,60.2228,24.943
+23131,131,L_kt45_Tammisto,"Tie 45 Tammisto","Väg 45 Rosendal","Road 45 Tammisto",45,2,3200,6684611,3387600,0,Uusimaa,60.2573,24.9666
+23127,127,L_kt45_Rusutjärvi,"Tie 45 Tuusula, Rusutjärvi","Väg 45 Tusby, Rusutjärvi","Road 45 Tuusula, Rusutjärvi",45,6,3360,6704100,3389273,0,Uusimaa,60.4326,24.9861
+23125,125,L_kt50_Bemböle,"Tie 50 Bemböle","Väg 50 Bemböle","Road 50 Bemböle",50,2,2400,6679211,3367498,0,Uusimaa,60.2029,24.6074
+23140,140,L_kt50_Järvenperä,"Tie 50 Järvenperä","Väg 50 Träskända","Road 50 Järvenperä",50,3,3703,6683085,3372560,0,Uusimaa,60.2392,24.6961
+23183,183,L_kt50_Järvenperä2,"Tie 50 Järvenperä 2","Väg 50 Träskända 2","Road 50 Järvenperä 2",50,4,0,6684494,3373600,0,Uusimaa,60.2522,24.714
+23168,168,L_kt50_Askisto,"Tie 50 Askisto","Väg 50 Askis","Road 50 Askisto",50,4,4322,6686715,3377149,0,Uusimaa,60.2732,24.7767
+23159,159,L_kt50_Petikko,"Tie 50 Petikko","Väg 50 Petikko","Road 50 Petikko",50,5,650,6687119,3379255,0,Uusimaa,60.2774,24.8145
+23128,128,L_kt50_Voutila,"Tie 50 Voutila","Väg 50 Brutuby","Road 50 Voutila",50,6,1351,6689209,3383022,0,Uusimaa,60.2973,24.8813
+23169,169,L_kt50_Pakkala,"Tie 50 Pakkala","Väg 50 Backas","Road 50 Pakkala",50,6,4908,6688926,3386417,0,Uusimaa,60.2957,24.9428
+23150,150,L_kt50_Vantaanportti,"Tie 50 Vantaanportti","Väg 50 Vandaporten","Road 50 Vantaanportti",50,6,6748,6688288,3388031,0,Uusimaa,60.2904,24.9724
+23160,160,L_kt50_Heidehof,"Tie 50 Heidehof","Väg 50 Heidehof","Road 50 Heidehof",50,7,3800,6687062,3392086,0,Uusimaa,60.2806,25.0463
+23182,182,L_kt50_Hakunila,"Tie 50 Hakunila","Väg 50 Håkansböle","Road 50 Hakunila",50,8,660,6685966,3394901,0,Uusimaa,60.2714,25.0977
+23101,101,L_kt51_Hanasaari,"Tie 51 Hanasaari","Väg 51 Hanaholmen","Road 51 Hanasaari",51,2,1614,6674574,3380678,0,Uusimaa,60.1653,24.8476
+23102,102,L_kt51_Soukka,"Tie 51 Soukka","Väg 51 Sökö","Road 51 Soukka",51,6,3600,6674226,3369282,0,Uusimaa,60.1587,24.6427
+23143,143,L_kt51_Sundsberg,"Tie 51 Sundsberg","Väg 51 Sundsberg","Road 51 Sundsberg",51,7,3950,6672502,3364305,0,Uusimaa,60.1416,24.5543
+23156,156,L_kt51_Jorvas,"Tie 51 Jorvas","Väg 51 Jorvas","Road 51 Jorvas",51,8,2700,6670759,3361014,0,Uusimaa,60.1249,24.4963
+23134,134,L_kt51_Inkoo,"Tie 51 Inkoo","Väg 51 Ingå","Road 51 Inkoo",51,13,2030,6664600,3337323,0,Uusimaa,60.061,24.0756
+23115,115,L_kt55_Saksala,"Tie 55 Saksala","Väg 55 Saxby","Road 55 Saksala",55,1,4229,6701431,3422814,0,Uusimaa,60.4165,25.5959
+23197,197,L_st100_Kivihaan_tunneli,"Tie 100, Hakamäen tunneli","Väg 100, Hakamäen tunneli","Rod 100, Hakamäen tunneli",100,1,770,6679259,3384190,0,Uusimaa,60.2084,24.9081
+23118,118,L_st101_Keilaniemi,"Tie 101 Keilaniemi","Väg 101 Kägeludden","Road 101 Keilaniemi",101,1,278,6675453,3379501,0,Uusimaa,60.1729,24.8259
+23116,116,L_st101_Leppävaara,"Tie 101 Leppävaara","Väg 101 Alberga","Road 101 Leppävaara",101,3,490,6679967,3379063,0,Uusimaa,60.2133,24.8153
+23126,126,L_st101_Konala,"Tie 101 Konala","Väg 101 Kånala","Road 101 Konala",101,4,2045,6681634,3380696,0,Uusimaa,60.2287,24.8438
+23145,145,L_st101_Kannelmäki,"Tie 101 Kannelmäki","Väg 101 Gamlas","Road 101 Kannelmäki",101,5,1000,6682200,3382573,0,Uusimaa,60.2343,24.8773
+23146,146,L_st101_Länsi-Pakila,"Tie 101 Länsi-Pakila","Väg 101 Västra Baggböle","Road 101 Länsi-Pakila",101,6,700,6682524,3384048,0,Uusimaa,60.2376,24.9037
+23147,147,L_st101_Pakila,"Tie 101 Pakila","Väg 101 Baggböle","Road 101 Pakila",101,6,2600,6683061,3386131,0,Uusimaa,60.243,24.941
+23148,148,L_st101_Pukinmäki,"Tie 101 Pukinmäki","Väg 101 Bocksbacka","Road 101 Pukinmäki",101,7,1800,6683200,3388061,0,Uusimaa,60.2448,24.9757
+23149,149,L_st101_Malmi,"Tie 101 Malmi","Väg 101 Malm","Road 101 Malmi",101,7,4000,6682892,3390311,0,Uusimaa,60.2427,25.0165
+23162,162,L_st102_Olarinluoma,"Tie 102 Olarinluoma","Väg 102 Olarsbäcken","Road 102 Olarinluoma",102,1,1331,6675976,3375365,0,Uusimaa,60.1763,24.7511
+23163,163,L_st102_Kokinkylä,"Tie 102 Kokinkylä","Väg 102 Kockby","Road 102 Kokinkylä",102,2,1071,6677786,3375145,0,Uusimaa,60.1925,24.746
+23195,195,L_st103_Satamatie,"Tie 103, Satamatie","Väg 103, Satamatie"," Road 103, Satamatie",103,1,2160,6682495,3397906,0,Uusimaa,60.2411,25.1537
+23105,105,L_st110_Hiidenvesi,"Tie 110 Hiidenvesi","Väg 110 Hiidenvesi","Road 110 Hiidenvesi",110,14,2530,6698936,3342150,0,Uusimaa,60.3706,24.1354
+23151,151,L_st120_Pitäjänmäki,"Tie 120 Pitäjänmäki","Väg 120 Sockenbacka","Road 120 Pitäjänmäki",120,2,250,6680982,3382527,0,Uusimaa,60.2234,24.8772
+23123,123,L_st120_Pähkinärinne,"Tie 120 Pähkinärinne","Väg 120 Hasselbacken","Road 120 Pähkinärinne",120,3,2580,6684221,3379958,0,Uusimaa,60.2517,24.8289
+23138,138,L_st120_Odilampi,"Tie 120 Odilampi","Väg 120 Odilampi","Road 120 Odilampi",120,4,5000,6690145,3375463,0,Uusimaa,60.3034,24.7441
+23136,136,L_st140_Arola,"Tie 140 Arola","Väg 140 Arola","Road 140 Arola",140,9,4240,6716335,3400932,0,Uusimaa,60.5454,25.1916
+23155,155,L_st170_Kulosaari,"Tie 170 Kulosaari","Väg 170 Brändö","Road 170 Kulosaari",170,1,1400,6677221,3388948,0,Uusimaa,60.1914,24.995
+23135,135,L_st170_Ilola,"Tie 170 Ilola","Väg 170 Illby","Road 170 Ilola",170,12,4360,6704759,3431085,0,Uusimaa,60.4478,25.7449
+23158,158,L_st170_Hagaböle,"Tie 170 Hagaböle","Väg 170 Hagaböle","Road 170 Hagaböle",170,16,3330,6708806,3444751,0,Uusimaa,60.4862,25.992
+23121,121,L_yt11888_Liljendal2,"Tie 11888 Liljendal","Väg 11888 Liljendal","Road 11888 Liljendal",11888,2,2388,6715986,3446622,0,Uusimaa,60.5509,26.0241
+23196,196,L_Niinisaarentie,"Helsinki, Niinisaarentie","Helsingfors, Niinisaarentie","Helsinki, Niinisaarentie",40946,3,590,6680210,3398147,0,Uusimaa,60.2206,25.1592
+23199,199,L_Olari,"Merituulentie, Espoo","Havsvindsvägen, Esbo","Merituulentie, Espoo",99999,1,1199,6675338,3376441,0,Uusimaa,60.1709,24.7709
+24604,1604,L_vt1_Lahnajärvi,"Tie 1 Lahnajärvi","Väg 1 Lahnajärvi","Road 1 Lahnajärvi",1,17,2205,6700612,3319594,0,Varsinais-Suomi,60.3762,23.7257
+24603,1603,L_vt1_Syvälampi,"Tie 1 Syvälampi","Väg 1 Syvälampi","Road 1 Syvälampi",1,18,4586,6701070,3314412,0,Varsinais-Suomi,60.378,23.6316
+24602,1602,L_vt1_Kruusila,"Tie 1 Salo, Kruusila","Väg 1 Salo, Kruusila","Road 1 Salo, Kruusila",1,20,6303,6701789,3305959,0,Varsinais-Suomi,60.3805,23.4779
+24601,1601,L_vt1_Lakiamäki,"Tie 1 Lakiamäki","Väg 1 Lakiamäki","Road 1 Lakiamäki",1,21,4143,6701163,3300369,0,Varsinais-Suomi,60.3722,23.3774
+23248,248,L_vt1_Muurla,"Tie 1 Muurla","Väg 1 Muurla","Road 1 Muurla",1,22,1444,6702802,3296441,0,Varsinais-Suomi,60.3849,23.3047
+23247,247,L_vt1_Isokylä_läntinen,"Tie 1 Isokylä","Väg 1 Storby","Road 1 Isokylä",1,24,958,6706670,3288117,0,Varsinais-Suomi,60.4153,23.15
+23246,246,L_vt1_Halikko,"Tie 1 Halikko","Väg 1 Halikko","Road 1 Halikko",1,25,63,6707016,3286342,0,Varsinais-Suomi,60.4174,23.1175
+23245,245,L_vt1_Hajala,"Tie 1 Hajala","Väg 1 Hajala","Road 1 Hajala",1,26,4392,6708781,3278242,0,Varsinais-Suomi,60.4289,22.9689
+23244,244,L_vt1_Vista,"Tie 1 Vista","Väg 1 Vista","Road 1 Vista",1,28,3278,6709981,3263962,0,Varsinais-Suomi,60.4315,22.7089
+23243,243,L_vt1_Paimionmäki,"Tie 1 Paimionmäki","Väg 1 Paimionmäki","Road 1 Paimionmäki",1,29,2299,6709445,3262625,0,Varsinais-Suomi,60.4259,22.6853
+23242,242,L_vt1_Paimionjoki,"Tie 1 Paimionjoki","Väg 1 Pemarån","Road 1 Paimionjoki",1,30,1067,6709934,3261079,0,Varsinais-Suomi,60.4294,22.6567
+23227,227,L_vt1_Kirismäki,"Tie 1 Piikkiö, Kirismäki","Väg 1 Pikis, Kirismäki","Road 1 Piikkiö, Kirismäki",1,31,4794,6712000,3253151,0,Varsinais-Suomi,60.4431,22.5107
+23240,240,L_vt1_Piikkiö,"Tie 1 Piikkiö","Väg 1 Pikis","Road 1 Piikkiö",1,32,905,6711697,3251144,0,Varsinais-Suomi,60.4392,22.4747
+23239,239,L_vt1_Kaarina,"Tie 1 Kaarina","Väg 1 S:t Karins","Road 1 Kaarina",1,33,2485,6710468,3247075,0,Varsinais-Suomi,60.4256,22.4026
+23238,238,L_vt1_Kurkela_itäinen,"Tie 1 Kurkela I","Väg 1 Kurkela Ö","Road 1 Kurkela E",1,34,867,6710200,3244798,0,Varsinais-Suomi,60.4218,22.3618
+23237,237,L_vt1_Kurkela_läntinen,"Tie 1 Kurkela L","Väg 1 Kurkela V","Road 1 Kurkela W",1,35,812,6710540,3243347,0,Varsinais-Suomi,60.4239,22.3351
+23236,236,L_vt1_Huhkola,"Tie 1 Huhkola","Väg 1 Huhkola","Road 1 Huhkola",1,35,1413,6710791,3243012,0,Varsinais-Suomi,60.426,22.3287
+23235,235,L_vt1_Kupittaa,"Tie 1 Kupittaa","Väg 1 Kupittaa","Road 1 Kupittaa",1,36,1302,6713037,3241949,0,Varsinais-Suomi,60.4454,22.3065
+23249,249,L_vt8_Ihala,"Tie 8 Ihala","Väg 8 Ihala","Road 8 Ihala",8,102,5700,6716963,3235599,0,Varsinais-Suomi,60.4764,22.1864
+23205,205,L_vt8_Raisio,"Tie 8 Raisio","Väg 8 Reso","Road 8 Raisio",8,103,1870,6719129,3234613,0,Varsinais-Suomi,60.4951,22.1656
+23250,250,L_vt8_Masku,"Tie 8 Masku","Väg 8 Masko","Road 8 Masku",8,105,1512,6729245,3231181,0,Varsinais-Suomi,60.5833,22.0897
+23206,206,L_vt8_Pyhäranta,"Tie 8 Pyhäranta","Väg 8 Pyhäranta","Road 8 Pyhäranta",8,114,3265,6776119,3207099,0,Varsinais-Suomi,60.9853,21.5818
+23208,208,L_vt9_Aura,"Tie 9 Aura","Väg 9 Aura","Road 9 Aura",9,105,2993,6728888,3251991,0,Varsinais-Suomi,60.5935,22.4686
+23253,253,L_vt10_Satiaismäki,"Tie 10 Lieto, Satiaismäki","Väg 10 Lundo, Satiaismäki","Road 10 Lieto, Satiaismäki",10,2,649,6716231,3245581,0,Varsinais-Suomi,60.4763,22.3682
+23230,230,L_vt10_Lieto,"Tie 10 Lieto","Väg 10 Lundo","Road 10 Lieto",10,2,4686,6718243,3249004,0,Varsinais-Suomi,60.4964,22.4277
+23209,209,L_vt10_Marttila,"Tie 10 Marttila","Väg 10 S:t Mårtens","Road 10 Marttila",10,7,4084,6729822,3277017,0,Varsinais-Suomi,60.6166,22.923
+23231,231,L_kt40_Vanto,"Tie 40 Raisio, Vanto","Väg 40 Reso, Vanto","Road 40 Raisio, Vanto",40,1,3657,6716566,3230008,0,Varsinais-Suomi,60.4691,22.0856
+23251,251,L_kt40_Krookila,"Tie 40 Raisio, Krookila","Väg 40 Reso, Krookila","Road 40 Raisio, Krookila",40,2,2039,6716510,3233239,0,Varsinais-Suomi,60.4708,22.1442
+23233,233,L_kt40_Hauninen,"Tie 40 Raisio, Hauninen","Väg 40 Reso, Hauninen","Road 40 Raisio, Hauninen",40,3,2525,6718617,3237607,0,Varsinais-Suomi,60.4925,22.2206
+23234,234,L_kt40_Oriketo,"Tie 40 Turku, Oriketo","Väg 40 Åbo, Oriketo","Road 40 Turku, Oriketo",40,4,1992,6717558,3242742,0,Varsinais-Suomi,60.4863,22.3151
+23229,229,L_kt40_Tuulissuo,"Tie 40 Tuulisuo","Väg 40 Tuulisuo","Road 40 Tuulisuo",40,5,5682,6714341,3248391,0,Varsinais-Suomi,60.4611,22.4215
+23201,201,L_st110_Muurla1,"Tie 110 Muurla","Väg 110 Muurla","Road 110 Muurla",110,23,3240,6700710,3299172,0,Varsinais-Suomi,60.3675,23.3562
+23228,228,L_st110_Kevola,"Tie 110 Kevola","Väg 110 Kevola","Road 110 Kevola",110,30,2767,6707353,3268264,0,Varsinais-Suomi,60.4105,22.7898
+23254,254,L_st180_Kuusisto,"Tie 180 Kuusisto","Väg 180 Kuusisto","Road 180 Kuusisto",180,1,7180,6704180,3244200,0,Varsinais-Suomi,60.3676,22.3586
+23225,225,L_st180_Parainen,"Tie 180 Parainen","Väg 180 Pargas","Road 180 Parainen",180,6,3660,6690981,3233451,0,Varsinais-Suomi,60.2426,22.1819
+23255,255,L_st180_Simonby,"Tie 180 Simonby","Väg 180 Simonby","Road 180 Simonby",180,8,4614,6686129,3225381,0,Varsinais-Suomi,60.1939,22.0434
+23252,252,L_st185_Artukainen,"Tie 185 Turku, Artukainen","Väg 185 Åbo, Artukainen","Road 185 Turku, Artukainen",185,1,1320,6715254,3235326,0,Varsinais-Suomi,60.4609,22.1837
+23221,221,L_vt2_Nakkila,"Tie 2 Nakkila","Väg 2 Nakkila","Road 2 Nakkila",2,45,601,6816226,3232176,0,Satakunta,61.3616,21.9865
+23232,232,L_vt2_Porin_lentokent,"Tie 2 Pori, lentokenttä","Väg 2 Björneborg, flygplats","Road 2 Pori, airport",2,47,1126,6827166,3223928,0,Satakunta,61.4536,21.8167
+23223,223,L_vt8_Eurajoki,"Tie 8 Eurajoki","Väg 8 Euraåminne","Road 8 Eurajoki",8,120,381,6796434,3211203,0,Satakunta,61.1698,21.6265
+23207,207,L_vt8_Pori,"Tie 8 Pori","Väg 8 Björneborg","Road 8 Pori",8,202,2395,6837369,3224301,0,Satakunta,61.5451,21.8085
+23224,224,L_vt11_Kullaa,"Tie 11 Kullaa","Väg 11 Kulla","Road 11 Kullaa",11,15,3553,6826631,3255303,0,Satakunta,61.4699,22.4037
+23211,211,L_vt12_Lappi_tl,"Tie 12 Lappi tl","Väg 12 Lappi tl","Road 12 Lappi tl",12,104,2365,6789042,3216114,0,Satakunta,61.1074,21.7284
+23226,226,L_vt23_Kankaanpää,"Tie 23 Kankaanpää","Väg 23 Kankaanpää","Road 23 Kankaanpää",23,106,2790,6862901,3249334,0,Satakunta,61.7905,22.2425
+23403,403,L_vt2_Humppila,"Tie 2 Humppila","Väg 2 Humppila","Road 2 Humppila",2,28,3240,6767602,3299126,0,Kanta-Häme,60.9666,23.2869
+23429,429,L_vt3_Riihimäki_Herajoki,"Tie 3 Riihimäki","Väg 3 Riihimäki","Road 3 Riihimäki",3,110,6230,6735772,3376470,0,Kanta-Häme,60.7129,24.7339
+23432,432,L_vt3_Janakkala,"Tie 3 Janakkala","Väg 3 Janakkala","Road 3 Janakkala",3,114,333,6751996,3369408,0,Kanta-Häme,60.8561,24.5938
+23465,465,L_vt3_Hämeenlinna_E,"Tie 3 Hämeenlinna, etelä","Väg 3 Tavastehus, söder","Road 3 Hämeenlinna, south",3,116,2329,6767150,3362683,0,Kanta-Häme,60.9898,24.4594
+23466,466,L_vt3_Hämeenlinna_P,"Tie 3 Hämeenlinna, pohjoinen","Väg 3 Tavastehus, nord","Road 3 Hämeenlinna, north",3,116,3526,6768344,3362289,0,Kanta-Häme,61.0003,24.4513
+23437,437,L_vt3_Hlinna_Mo3,"Tie 3 Hämeenlinna","Väg 3 Tavastehus","Road 3 Hämeenlinna",3,117,435,6769905,3360338,0,Kanta-Häme,61.0136,24.4141
+23425,425,L_vt10_Tammela,"Tie 10 Tammela","Väg 10 Tammela","Road 10 Tammela",10,18,3950,6750816,3325407,0,Kanta-Häme,60.8287,23.7865
+23405,405,L_vt10_Hämeenlinna,"Tie 10 Hämeenlinna","Väg 10 Tavastehus","Road 10 Hämeenlinna",10,29,3190,6773043,3374098,0,Kanta-Häme,61.0464,24.6662
+23426,426,L_vt12_Hauho,"Tie 12 Hauho","Väg 12 Hauho","Road 12 Hauho",12,213,1449,6785492,3375554,0,Kanta-Häme,61.1585,24.685
+23428,428,L_kt54_Loppi,"Tie 54 Loppi","Väg 54 Loppi","Road 54 Loppi",54,6,2460,6738758,3358078,0,Kanta-Häme,60.7336,24.3952
+23408,408,L_kt54_Hausjärvi,"Tie 54 Hausjärvi","Väg 54 Hausjärvi","Road 54 Hausjärvi",54,13,4511,6744066,3389860,0,Kanta-Häme,60.7912,24.9744
+23440,440,L_vt3_Lempäälä_Lippo,"Tie 3 Lempäälä","Väg 3 Lembois","Road 3 Lempäälä",3,124,3390,6797925,3330397,0,Pirkanmaa,61.2529,23.8363
+23401,401,L_vt3_Lempäälä_Sääksjärvi,"Tie 3 Lempäälä, Kulju","Väg 3 Lembois, Kulju","Road 3 Lempäälä, Kulju",3,134,5138,6815563,3327705,0,Pirkanmaa,61.4098,23.7699
+23449,449,L_vt3_Tre_Sarankulma,"Tie 3 Sarankulma","Väg 3 Sarankulma","Road 3 Sarankulma",3,136,1340,6821281,3326770,0,Pirkanmaa,61.4606,23.7471
+23460,460,L_vt3_Pirkkala_Huovi,"Tie 3 Pirkkala, Huovi","Väg 3 Birkala, Huovi","Road 3 Pirkkala, Huovi",3,137,230,6820705,3320768,0,Pirkanmaa,61.4527,23.6353
+23463,463,L_vt3_Pirkkala_Sankila,"Tie 3 Pirkkala, Sankila","Väg 3 Birkala, Sankila","Road 3 Pirkkala, Sankila",3,137,1476,6821505,3319869,0,Pirkanmaa,61.4595,23.6177
+23462,462,L_vt3_Nokia_Rajasalmi,"Tie 3 Nokia, Rajasalmi","Väg 3 Nokia, Rajasalmi","Road 3 Nokia, Rajasalmi",3,138,1660,6823668,3318401,0,Pirkanmaa,61.4782,23.5881
+23450,450,L_vt3_Myllypuro,"Tie 3 Myllypuro","Väg 3 Myllypuro","Road 3 Myllypuro",3,139,1406,6827894,3317400,0,Pirkanmaa,61.5156,23.5652
+23203,203,L_vt3_Hämeenkyrö,"Tie 3 Hämeenkyrö","Väg 3 Tavastkyro","Road 3 Hämeenkyrö",3,204,2289,6836146,3310666,0,Pirkanmaa,61.5862,23.4304
+23204,204,L_vt3_Ikaalinen,"Tie 3 Ikaalinen","Väg 3 Ikalis","Road 3 Ikaalinen",3,214,1530,6873644,3288829,0,Pirkanmaa,61.9105,22.9766
+23445,445,L_vt9_Kylmäkoski,"Tie 9 Kylmäkoski","Väg 9 Kylmäkoski","Road 9 Kylmäkoski",9,122,7250,6782959,3319616,0,Pirkanmaa,61.1141,23.65
+23435,435,L_vt9_Tre_Karkuvuori,"Tie 9 Karkuvuori","Väg 9 Karkuvuori","Road 9 Karkuvuori",9,204,2190,6821310,3330092,0,Pirkanmaa,61.4624,23.8093
+23451,451,L_vt9_Tre_Aitovuori,"Tie 9 Aitovuori","Väg 9 Aitovuori","Road 9 Aitovuori",9,206,4470,6827866,3337371,0,Pirkanmaa,61.5242,23.9399
+23404,404,L_vt9_Kangasala_Suinula,"Tie 9 Suinula","Väg 9 Suinula","Road 9 Suinula",9,208,1525,6830945,3344107,0,Pirkanmaa,61.5546,24.0637
+23448,448,L_vt9_Längelmäki,"Tie 9 Längelmäki, Solttila","Väg 9 Längelmäki, Solttila","Road 9 Längelmäki, Solttila",9,214,3028,6849534,3378820,0,Pirkanmaa,61.7338,24.7037
+23406,406,L_vt11_Nokia_Linnavuori,"Tie 11 Nokia","Väg 11 Nokia","Road 11 Nokia",11,4,3655,6826956,3306797,0,Pirkanmaa,61.502,23.3674
+23210,210,L_vt12_Vammala,"Tie 12 Vammala","Väg 12 Vammala","Road 12 Vammala",12,118,1600,6807682,3277331,0,Pirkanmaa,61.3137,22.8385
+23438,438,L_vt12_Tre_Paasikiventie,"Tie 12 Uittotunneli","Väg 12 Flottningstunnel","Road 12 Log floating tunnel",12,127,480,6826798,3324455,0,Pirkanmaa,61.509,23.6986
+23452,452,L_vt12_Tre_Onkiniemi,"Tie 12 Tampere, Onkiniemi","Väg 12 Tammerfors, Onkiniemi","Road 12 Tampere, Onkiniemi",12,127,2363,6826003,3326074,0,Pirkanmaa,61.5026,23.7297
+23453,453,L_vt12_Tre_Mustalahti,"Tie 12 Särkänniemi","Väg 12 Särkänniemi","Road 12 Särkänniemi",12,127,3125,6825954,3326667,0,Pirkanmaa,61.5024,23.7408
+23454,454,L_vt12_Tre_Tampella,"Tie 12 Tampella","Väg 12 Tampella","Road 12 Tampella",12,127,4160,6826358,3327692,0,Pirkanmaa,61.5065,23.7597
+23457,457,L_vt12_Tre_Petsamo,"Tie 12 Petsamo","Väg 12 Petsamo","Road 12 Petsamo",12,127,5750,6826291,3329134,0,Pirkanmaa,61.5066,23.7868
+23439,439,L_vt12_Tre_Teiskontie,"Tie 12 Tampere, Keskussair","Väg 12 Tampere, Teiskontie","Road 12 Tampere, Teiskontie",12,201,1050,6825942,3330992,0,Pirkanmaa,61.5042,23.8219
+23458,458,L_vt12_Tre_Ruotula,"Tie 12 Ruotula","Väg 12 Ruotula","Road 12 Ruotula",12,201,2758,6826868,3332659,0,Pirkanmaa,61.5133,23.8524
+23431,431,L_vt12_Kangasala_Suorama,"Tie 12 Suorama","Väg 12 Suorama","Road 12 Suorama",12,202,6100,6822676,3338849,0,Pirkanmaa,61.4783,23.9721
+23456,456,L_kt65_Tre_Lielahti,"Tie 65 Tampere, Lielahti","Väg 65 Tammerfors, Lielahti","Road 65 Tampere, Lielahti",65,1,584,6827166,3323435,0,Pirkanmaa,61.5118,23.6791
+23455,455,L_kt65_Tre_Epilänharju,"Tie 65 Tampere, Epilänharju","Väg 65 Tammerfors, Epilänharju","Road 65 Tampere, Epilänharju",65,1,2072,6827896,3322083,0,Pirkanmaa,61.5177,23.653
+23421,421,L_kt65_Ylöjärvi,"Tie 65 Ylöjärvi","Väg 65 Ylöjärvi","Road 65 Ylöjärvi",65,1,6000,6830903,3319764,0,Pirkanmaa,61.5436,23.6066
+23409,409,L_kt66_Ruovesi,"Tie 66 Ruovesi","Väg 66 Ruovesi","Road 66 Ruovesi",66,9,4500,6881808,3344683,0,Pirkanmaa,62.0106,24.0308
+23402,402,L_st130_Jutikkala,"Tie 130 Iittala","Väg 130 Iittala","Road 130 Iittala",130,19,3115,6785881,3341706,0,Pirkanmaa,61.1498,24.0568
+23433,433,L_st130_Pispantie,"Tie 130 Valkeakoski","Väg 130 Valkeakoski","Road 130 Valkeakoski",130,23,2356,6801269,3336959,0,Pirkanmaa,61.2857,23.9554
+23422,422,L_st190_Viiala,"Tie 190 Viiala","Väg 190 Viiala","Road 190 Viiala",190,2,2050,6796569,3325162,0,Pirkanmaa,61.2385,23.7402
+23464,464,L_yt3495_Rautaharkko,"Tie 3495 Rautaharkko","Väg 3495 Rautaharkko","Road 3495 Rautaharkko",3495,1,1903,6823075,3328309,0,Pirkanmaa,61.4774,23.7743
+23436,436,L_yt13782_Nokia_Rajasalmi,"Tie 3 Nokia, Rajasalmi","Väg 3 Nokia, Rajasalmi","Road 3 Nokia, Rajasalmi",13782,1,1944,6823704,3318339,0,Pirkanmaa,61.4785,23.5869
+23443,443,L_Tre_Pispalan_valtatie,"Tampere, Pispalan valtatie","Tammefors, Pispalan valtatie","Tampere, Pispalan valtatie",99999,0,0,6826485,3324574,0,Pirkanmaa,61.5063,23.7011
+23424,424,L_vt4_Renkomäki,"Tie 4 Renkomäki","Väg 4 Renkomäki","Road 4 Renkomäki",4,119,3557,6756083,3424765,0,Päijät-Häme,60.9072,25.6104
+23461,461,L_vt4_Vierumäki,"Tie 4 Vierumäki","Väg 4 Vierumäki","Road 4 Vierumäki",4,205,1657,6777108,3441136,0,Päijät-Häme,61.0986,25.9055
+23628,628,L_vt4_Murhamäki,"Tie 4 Heinola, Murhamäki","Väg 4 Heinola, Murhamäki","Road 4 Heinola, Murhamäki",4,210,1626,6796854,3450303,0,Päijät-Häme,61.2771,26.0703
+23442,442,L_vt4_Heinola_Lusi,"Tie 4 Heinola, Lusi","Väg 4 Heinola, Lusi","Road 4 Heinola, Lusi",4,211,5700,6803516,3449167,0,Päijät-Häme,61.3367,26.0473
+23623,623,L_vt4_Hartola,"Tie 4 Hartola","Väg 4 Hartola","Road 4 Hartola",4,214,5196,6820801,3445842,0,Päijät-Häme,61.4913,25.9801
+23407,407,L_vt12_Hollola,"Tie 12 Hollola","Väg 12 Hollola","Road 12 Hollola",12,219,4749,6767267,3407260,0,Päijät-Häme,61.0038,25.2825
+23446,446,L_vt12_Lahti_Kärpäsen,"Tie 12 Lahti, Kärpäsenmäki","Väg 12 Lahtis, Kärpäsenmäki","Road 12 Lahti, Kärpäsenmäki",12,222,3363,6764371,3424104,0,Päijät-Häme,60.9814,25.5949
+23447,447,L_vt12_Lahti_Joutjärvi,"Tie 12 Lahti, Joutjärvi","Väg 12 Lahtis, Joutjärvi","Road 12 Lahti, Joutjärvi",12,223,3280,6763376,3429680,0,Päijät-Häme,60.9735,25.6983
+23430,430,L_vt24_Asikkala,"Tie 24 Asikkala","Väg 24 Asikkala","Road 24 Asikkala",24,4,2150,6780446,3426584,0,Päijät-Häme,61.1261,25.6345
+23441,441,L_st140_Hollola,"Tie 140 Hollola","Väg 140 Hollola","Road 140 Hollola",140,25,1530,6770531,3432390,0,Päijät-Häme,61.0382,25.7458
+23521,521,L_vt6_Elimäki,"Tie 6 Elimäki","Väg 6 Elimä","Road 6 Elimäki",6,127,610,6740811,3472089,0,Kymenlaakso,60.7763,26.4846
+23594,594,L_vt6_Hevossuo,"Tie 6 Hevossuo","Väg 6 Hevossuo","Road 6 Hevossuo",6,128,1638,6747807,3475585,0,Kymenlaakso,60.8393,26.5479
+23595,595,L_vt6_Puhjo,"Tie 6 Kuusankoski, Puhjo","Väg 6 Puhjo","Road 6 Kuusankoski, Puhjo",6,129,2018,6751413,3480137,0,Kymenlaakso,60.8719,26.6313
+23596,596,L_vt6_Käyrälampi,"Tie 6 Kouvola, Käyrälampi","Väg 6 Kouvola, Käyrälampi","Road 6 Kouvola, Käyrälampi",6,201,2887,6752697,3487014,0,Kymenlaakso,60.8837,26.7578
+23529,529,L_vt6_Utti,"Tie 6 Utti","Väg 6 Uttis","Road 6 Utti",6,202,2931,6753000,3490353,0,Kymenlaakso,60.8866,26.8192
+23592,592,L_vt6_Metso,"Tie 6 Metso","Väg 6 Metso","Road 6 Metso",6,203,5891,6755136,3500280,0,Kymenlaakso,60.9059,27.002
+23578,578,L_vt7_Ahvenkoski_Itä,"Tie 7 Ahvenkoski2","Väg 7 Abborrfors2","Road 7 Ahvenkoski2",7,23,700,6708936,3470499,0,Kymenlaakso,60.4901,26.4603
+23575,575,L_vt7_Pyhtää2,"Tie 7 Pyhtää2","Väg 7 Pyttis2","Road 7 Pyhtää2",7,24,3091,6708479,3475235,0,Kymenlaakso,60.4864,26.5465
+23579,579,L_vt7_Siltakylä2,"Tie 7 Pyhtää, Siltakylä2","Väg 7 Pyttis, Broby2","Road 7 Pyhtää, Siltakylä2",7,25,625,6709964,3483775,0,Kymenlaakso,60.5001,26.7017
+23580,580,L_vt7_Mokra,"Tie 7 Pyhtää, Mokra","Väg 7 Pyttis, Mokra","Road 7 Pyhtää, Mokra",7,27,2160,6710047,3489784,0,Kymenlaakso,60.5011,26.811
+23583,583,L_vt7_Petäjäsuo,"Tie 7 Petäjäsuo","Väg 7 Petäjäsuo","Road 7 Petäjäsuo",7,27,3982,6709643,3492207,0,Kymenlaakso,60.4975,26.8551
+23599,599,L_vt7_Leppäsaari,"Tie 7 Leppäsaari","Väg 7 Leppäsaari","Road 7 Leppäsaari",7,28,701,6710028,3493715,7,Kymenlaakso,60.501,26.8826
+23574,574,L_vt7_Kyminlinna,"Tie 7 Kyminlinna","Väg 7 Kyminlinna","Road 7 Kyminlinna",7,29,230,6710493,3494804,0,Kymenlaakso,60.5052,26.9024
+23576,576,L_vt7_Karhula_Länsi,"Tie 7 Kotka, Karhula-Länsi","Väg 7 Kotka, Karhula-Länsi","Road 7 Kotka, Karhula-Länsi",7,29,1958,6711520,3496156,0,Kymenlaakso,60.5144,26.9269
+23585,585,L_vt7_Karhula,"Tie 7 Kotka, Karhula","Väg 7 Kotka, Karhula","Road 7 Kotka, Karhula",7,29,2700,6711940,3496852,0,Kymenlaakso,60.5182,26.9396
+23577,577,L_vt7_Otsola_Länsi,"Tie 7 Kotka, Otsola-Länsi","Väg 7 Kotka, Otsola-Länsi","Road 7 Kotka, Otsola-Länsi",7,30,605,6712871,3497662,0,Kymenlaakso,60.5266,26.9543
+23571,571,L_vt7_Otsola,"Tie 7 Kotka, Otsola","Väg 7 Kotka, Otsola","Road 7 Kotka, Otsola",7,30,1120,6713261,3497937,0,Kymenlaakso,60.5301,26.9593
+23572,572,L_vt7_Salminlahti,"Tie 7 Salminlahti","Väg 7 Salminlahti","Road 7 Salminlahti",7,31,1616,6715549,3499944,0,Kymenlaakso,60.5506,26.9959
+23573,573,L_vt7_Summa,"Tie 7 Hamina, Summa","Väg 7 Fredrikshamn, Summa","Road 7 Hamina, Summa",7,32,4501,6717641,3504924,0,Kymenlaakso,60.5693,27.0867
+23555,555,L_vt7_Tallinmäki,"Tie 7 Hamina, Tallinmäki","Väg 7 Fredrikshamn, Tallinmäki","Road 7 Hamina, Tallinmäki",7,35,3670,6719798,3539538,0,Kymenlaakso,60.5868,27.7183
+23525,525,L_vt7_Lelu,"Tie 7 Hamina, Lelu","Väg 7 Fredrikshamn, Lelu","Road 7 Hamina, Lelu",7,36,6551,6717394,3521153,0,Kymenlaakso,60.5666,27.3826
+23551,551,L_vt7_LAM030706,"Tie 7 Virolahti, Harjula","Väg 7 Vederlax, Harjula","Road 7 Virolahti, Harjula",7,38,3860,6719798,3539538,0,Kymenlaakso,60.5868,27.7183
+23550,550,L_vt7_Vaahterikonsuo,"Tie 7 Virolahti, Vaahterikonsuo","Väg 7 Vederlax, Vaahterikonsuo","Road 7 Virolahti, Vaahterikonsuo",7,39,4710,6719798,3539538,0,Kymenlaakso,60.5868,27.7183
+23540,540,L_vt7_Virojoki,"Tie 7 Virolahti, Virojoki","Väg 7 Vederlax, Virojoki","Road 7 Virolahti, Virojoki",7,41,450,6719813,3539478,0,Kymenlaakso,60.5869,27.7172
+23542,542,L_vt7_Turkkisuo,"Tie 7 Virolahti, Turkkisuo","Väg 7 Vederlax, Turkkisuo","Road 7 Virolahti, Turkkisuo",7,41,3524,6720623,3542421,0,Kymenlaakso,60.5939,27.7711
+23541,541,L_vt7_Mestarmäki,"Tie 7 Virolahti, Mestarmäki","Väg 7 Vederlax, Mestarmäki","Road 7 Virolahti, Mestarmäki",7,41,6000,6721329,3544723,0,Kymenlaakso,60.6,27.8132
+23581,581,L_vt7_Vaalimaa,"Tie 7 Virolahti, Vaalimaa","Väg 7 Vederlax, Vaalimaa","Road 7 Virolahti, Vaalimaa",7,42,2500,6721840,3547668,0,Kymenlaakso,60.6043,27.8671
+23598,598,L_vt7_Vaalimaa_rask,"Tie 7 Virolahti, Vaalimaa, raskas","Väg 7 Vederlax, Vaalimaa","Road 7 Virolahti, Vaalimaa",7,42,2510,6722062,3547787,0,Kymenlaakso,60.6062,27.8693
+23502,502,L_vt12_Iitti,"Tie 12 Iitti","Väg 12 Itis","Road 12 Iitti",12,228,1257,6756308,3455559,0,Kymenlaakso,60.9139,26.1777
+23590,590,L_vt12_Tillola,"Tie 12 Iitti, Tillola","Väg 12 Tillola","Road 12 Iitti, Tillola",12,231,1078,6752409,3469244,0,Kymenlaakso,60.8802,26.4306
+23586,586,L_vt15_Kotkansaari,"Tie 15 Kotka, Kotkansaari","Väg 15 Kotka, Kotkansaari","Road 15 Kotka, Kotkansaari",15,1,1769,6705946,3495912,0,Kymenlaakso,60.4644,26.9226
+23530,530,L_vt15_Juurikorpi,"Tie 15 Juurikorpi","Väg 15 Juurikorpi","Road 15 Juurikorpi",15,3,2985,6723793,3495980,0,Kymenlaakso,60.6246,26.9235
+23591,591,L_vt15_Kiehuva,"Tie 15 Kouvola, Kiehuva","Väg 15 Kouvola, Kiehuva","Road 15 Kouvola, Kiehuva",15,6,5538,6745340,3488642,0,Kymenlaakso,60.8178,26.7882
+23527,527,L_vt15_Valkeala,"Tie 15 Valkeala","Väg 15 Valkeala","Road 15 Valkeala",15,15,705,6774179,3503503,0,Kymenlaakso,61.0768,27.0617
+23503,503,L_vt26_Saaramaa,"Tie 26 Kouvola, Saaramaa","Väg 26 Kouvola, Saaramaa","Road 26 Kouvola, Saaramaa",26,8,4792,6748600,3522100,0,Kymenlaakso,60.8466,27.4034
+23584,584,L_st170_Pyhtää,"Tie 170 Pyhtää","Väg 170 Pyttis","Road 170 Pyhtää",170,25,962,6708732,3482689,0,Kymenlaakso,60.489,26.682
+23501,501,L_st170_Siltakylä,"Tie 170 Pyhtää, Siltakylä","Väg 170 Pyttis, Broby","Road 170 Pyhtää, Siltakylä",170,26,1491,6709494,3486878,0,Kymenlaakso,60.496,26.7582
+23587,587,L_vt6_Somerharju,"Tie 6 Somerharju","Väg 6 Somerharju","Road 6 Somerharju",6,207,2047,6756234,3521091,0,Etelä-Karjala,60.9152,27.3856
+23522,522,L_vt6_Luumäki,"Tie 6 Luumäki","Väg 6 Luumäki","Road 6 Luumäki",6,210,1914,6758467,3535946,0,Etelä-Karjala,60.9341,27.6598
+23556,556,L_vt6_Selkäharju,"Tie 6 Selkäharju","Väg 6 Selkäharju","Road 6 Selkäharju",6,215,1100,6769265,3557507,0,Etelä-Karjala,61.0285,28.0607
+23557,557,L_vt6_Lavola,"Tie 6 Lavola","Väg 6 Lavola","Road 6 Lavola",6,216,617,6770245,3561037,0,Etelä-Karjala,61.0368,28.1263
+23558,558,L_vt6_Mattila,"Tie 6 Mattila","Väg 6 Mattila","Road 6 Mattila",6,216,2568,6770793,3562905,0,Etelä-Karjala,61.0414,28.161
+23559,559,L_vt6_Myllymäki,"Tie 6 Myllymäki","Väg 6 Myllymäki","Road 6 Myllymäki",6,301,1248,6770999,3564962,0,Etelä-Karjala,61.0429,28.1991
+23560,560,L_vt6_Karhuvuori,"Tie 6 Karhuvuori","Väg 6 Karhuvuori","Road 6 Karhuvuori",6,302,1989,6771980,3567477,0,Etelä-Karjala,61.0513,28.246
+23561,561,L_vt6_Hartikkala,"Tie 6 Hartikkala","Väg 6 Hartikkala","Road 6 Hartikkala",6,302,4277,6773200,3569426,0,Etelä-Karjala,61.0619,28.2825
+23562,562,L_vt6_Mälkiä,"Tie 6 Mälkiä","Väg 6 Mälkiä","Road 6 Mälkiä",6,303,1081,6774334,3570888,0,Etelä-Karjala,61.0718,28.31
+23534,534,L_vt6_Muukko,"Tie 6 Muukko","Väg 6 Muukko","Road 6 Muukko",6,304,3636,6777754,3575948,0,Etelä-Karjala,61.1016,28.4051
+23563,563,L_vt6_Joutseno,"Tie 6 Joutseno","Väg 6 Joutseno","Road 6 Joutseno",6,305,2500,6779982,3580767,0,Etelä-Karjala,61.1206,28.4953
+23564,564,L_vt6_Vesivalo,"Tie 6 Vesivalo","Väg 6 Vesivalo","Road 6 Vesivalo",6,307,3915,6785277,3590545,0,Etelä-Karjala,61.1659,28.6792
+23531,531,L_vt6_Vuoksenniska,"Tie 6 Vuoksenniska","Väg 6 Vuoksenniska","Road 6 Vuoksenniska",6,311,1070,6793463,3600642,0,Etelä-Karjala,61.2369,28.871
+23524,524,L_vt6_Rautjärvi,"Tie 6 Rautjärvi","Väg 6 Rautjärvi","Road 6 Rautjärvi",6,318,2733,6812671,3623429,0,Etelä-Karjala,61.4026,29.3076
+23533,533,L_vt13_Karhusjärvi,"Tie 13 Karhusjärvi","Väg 13 Karhusjärvi","Road 13 Karhusjärvi",13,240,391,6770506,3573957,0,Etelä-Karjala,61.0369,28.3654
+23547,547,L_vt13_Nuijamaa_MP5,"Tie 13 Nuijamaa","Väg 13 Nuijamaa","Road 13 Nuijamaa",13,241,3443,6764025,3580954,0,Etelä-Karjala,60.9774,28.4921
+23582,582,L_vt13_Nuijamaa,"Tie 13 Nuijamaa","Väg 13 Nuijamaa","Road 13 Nuijamaa",13,241,5078,6761483,3583369,0,Etelä-Karjala,60.9541,28.5355
+23597,597,L_vt13_Nuijamaa_rask,"Tie 13 Nuijamaa, raskaat","Väg 13 Nuijamaa","Road 13 Nuijamaa",13,241,5705,6761483,3583369,0,Etelä-Karjala,60.9541,28.5355
+23528,528,L_kt62_Ruokolahti,"Tie 62 Ruokolahti","Väg 62 Ruokolax","Road 62 Ruokolahti",62,20,2843,6808608,3588566,0,Etelä-Karjala,61.3757,28.6534
+23535,535,L_kt62_Imatra_raja1,"Tie 62 Imatra raja 1","Väg 62 Imatra gränsen 1","Road 62 Imatra border 1",62,25,3997,6782061,3598161,0,Etelä-Karjala,61.1353,28.8189
+23532,532,L_kt62_Imatra_raja2,"Tie 62 Imatra raja 2","Väg 62 Imatra gränsen 2","Road 62 Imatra border 2",62,27,71,6781258,3599040,0,Etelä-Karjala,61.1279,28.8348
+23593,593,L_st387_Ylämaa,"Tie 387 Ylämaa","Väg 387 Ylämaa","Road 387 Ylämaa",387,7,3343,6739938,3554252,0,Etelä-Karjala,60.7658,27.9923
+23630,630,L_vt5_Kuortti,"Tie 5 Pertunmaa, Kuortti","Väg 5 Pertunmaa, Kuortti","Road 5 Pertunmaa, Kuortti",5,116,6696,6810793,3467131,0,Etelä-Savo,61.4039,26.3815
+23602,602,L_vt5_Toivola,"Tie 5 Mäntyharju","Väg 5 Mäntyharju","Road 5 Mäntyharju",5,120,79,6818210,3486098,0,Etelä-Savo,61.4716,26.736
+23627,627,L_vt5_Nuutilanmäki,"Tie 5 Juva, Nuutilanmäki","Väg 5 Jockas, Nuutilanmäki","Road 5 Juva, Nuutilanmäki",5,133,6185,6854502,3531763,0,Etelä-Savo,61.7963,27.5989
+23603,603,L_vt5_Joroinen,"Tie 5 Joroinen","Väg 5 Jorois","Road 5 Joroinen",5,142,483,6892744,3543873,0,Etelä-Savo,62.1382,27.8379
+23631,631,L_vt5_Kuvansi_uusi,"Tie 5 Kuvansi","Väg 5 Kuvansi","Road 5 Kuvansi",5,145,1883,6908188,3545093,0,Etelä-Savo,62.2766,27.8652
+23622,622,L_vt13_Kangasniemi,"Tie 13 Kangasniemi","Väg 13 Kangasniemi","Road 13 Kangasniemi",13,206,480,6887788,3474045,0,Etelä-Savo,62.0953,26.4998
+23604,604,L_vt13_Ristiina,"Tie 13 Ristiina","Väg 13 Kristina","Road 13 Ristiina",13,223,2830,6827660,3513696,0,Etelä-Savo,61.5565,27.2544
+23526,526,L_vt13_Suomenniemi,"Tie 13 Suomenniemi","Väg 13 Suomenniemi","Road 13 Suomenniemi",13,230,3106,6801226,3520769,0,Etelä-Savo,61.3189,27.3846
+23605,605,L_vt14_Juva1,"Tie 14 Juva","Väg 14 Jockas","Road 14 Juva",14,1,1203,6866015,3543347,0,Etelä-Savo,61.8984,27.8213
+23632,632,L_vt14_Hevonpäänniemi,"Tie 14 Savonlinna, Hevonpäänniemi","Väg 13 Nyslott, Hevonpäänniemi","Road 14 Savonlinna, Hevonpäänniemi",14,14,1866,6862146,3597479,0,Etelä-Savo,61.8537,28.8484
+23606,606,L_vt14_Savonlinna,"Tie 14 Savonlinna","Väg 14Nyslott","Road 14 Savonlinna",14,16,1750,6864448,3602736,0,Etelä-Savo,61.873,28.9495
+23629,629,L_vt23_Siikamäki,"Tie 23 Pieksämäki, Siikamä","Väg 23 Pieksämäki, Siikamäki","Road 23 Pieksämäki, Siikamäki",23,314,2634,6909476,3520861,0,Etelä-Savo,62.2903,27.3987
+23607,607,L_kt72_Virtasalmi,"Tie 72 Virtasalmi","Väg 72 Virtasalmi","Road 72 Virtasalmi",72,13,1100,6891011,3513083,0,Etelä-Savo,62.1249,27.2474
+23801,801,L_vt5_Leppävirta,"Tie 5 Leppävirta","Väg 5 Leppävirta","Road 5 Leppävirta",5,151,5000,6935156,3535305,0,Pohjois-Savo,62.5196,27.6822
+23825,825,L_vt5_Hiltulanlahti,"Tie 5 Hiltulanlahti","Väg 5 Hiltulanlahti","Road 5 Hiltulanlahti",5,158,1170,6967474,3530638,0,Pohjois-Savo,62.8099,27.5974
+23832,832,L_vt5_Levänen,"Tie 5 Levänen","Väg 5 Levänen","Road 5 Levänen",5,159,3490,6974162,3531704,98,Pohjois-Savo,62.8699,27.6195
+23828,828,L_vt5_Rahusenlampi,"Tie 5 Rahusenlampi","Väg 5 Rahusenlampi","Road 5 Rahusenlampi",5,201,2150,6979519,3534141,0,Pohjois-Savo,62.9177,27.6685
+23803,803,L_vt5_Siilinjärvi,"Tie 5 Siilinjärvi","Väg 5 Siilinjärvi","Road 5 Siilinjärvi",5,206,3500,7000273,3532866,0,Pohjois-Savo,63.104,27.6475
+23826,826,L_vt5_Iisalmi,"Tie 5 Iisalmi","Väg 5 Idensalmi","Road 5 Iisalmi",5,217,4750,7051401,3512541,0,Pohjois-Savo,63.5639,27.2489
+23821,821,L_vt9_Suonenjoki,"Tie 9 Suonenjoki","Väg 9 Suonenjoki","Road 9 Suonenjoki",9,323,4500,6952578,3521477,0,Pohjois-Savo,62.6769,27.4159
+23827,827,L_vt9_Jännevirta,"Tie 17 Jännevirta","Väg 17 Jännevirta","Road 17 Jännevirta",9,329,3786,6983226,3544965,0,Pohjois-Savo,62.9498,27.8825
+23804,804,L_vt9_Tuusniemi,"Tie 9 Tuusniemi","Väg 9 Tuusniemi","Road 9 Tuusniemi",9,333,5100,6974745,3567977,0,Pohjois-Savo,62.8701,28.3322
+23807,807,L_vt27_Kiuruvesi,"Tie 27 Kiuruvesi","Väg 27 Idensalmi, Kiuruvesi","Road 27 Kiuruvesi",27,21,1757,7063713,3472289,0,Pohjois-Savo,63.6735,26.4367
+23833,833,L_kt75_Pajukoski,"Tie 75 Pajukoski","Väg 75 Pajukoski","Road 75 Pajukoski",75,3,2610,7003815,3541797,0,Pohjois-Savo,63.1349,27.8253
+23824,824,L_kt75_Nilsiä,"Tie 75 Nilsiä","Väg 75 Nilsiä","Road 75 Nilsiä",75,6,3000,7006285,3553885,0,Pohjois-Savo,63.1554,28.0657
+23805,805,L_kt75_Rautavaara,"Tie 75 Rautavaara","Väg 75 Rautavaara","Road 75 Rautavaara",75,13,6500,7030621,3578760,0,Pohjois-Savo,63.3691,28.5709
+23806,806,L_kt77_Pielavesi,"Tie 77 Pielavesi","Väg 77 Pielavesi","Road 77 Pielavesi",77,24,2183,7010232,3485789,0,Pohjois-Savo,63.1945,26.7143
+23822,822,L_kt88_Vieremä,"Tie 88 Vieremä","Väg 88 Vieremä","Road 88 Vieremä",88,28,6760,7072217,3498927,0,Pohjois-Savo,63.7509,26.9748
+23732,732,L_vt6_Kousa,"Tie 6 Kesälahti, Kousa","Väg 6 Kesälax, Kousa","Road 6 Kesälahti, Kousa",6,334,6447,6877507,3650833,0,Pohjois-Karjala,61.9741,29.8736
+23731,731,L_vt6_Reijola,"Tie 6 Reijola","Väg 6 Reijola","Road 6 Reijola",6,348,1096,6939495,3647498,0,Pohjois-Karjala,62.5309,29.8623
+23733,733,L_vt6_Joensuu2,"Tie 6 Joensuu","Väg 6 Åminne","Road 6 Joensuu",6,350,2080,6948594,3642910,0,Pohjois-Karjala,62.6142,29.7809
+23727,727,L_vt6_Kontiolahti2,"Tie 6 Kontiolahti","Väg 6 Kontiolax","Road 6 Kontiolahti",6,401,5210,6953705,3642978,0,Pohjois-Karjala,62.66,29.7865
+23725,725,L_vt6_Juuka2,"Tie 6 Juuka 2","Väg 6 Juga 2","Road 6 Juuka 2",6,414,5400,7022419,3611604,0,Pohjois-Karjala,63.2868,29.2212
+23701,701,L_vt9_Viinijärvi,"Tie 9 Viinijärvi","Väg 9 Viinijärvi","Road 9 Viinijärvi",9,345,140,6955045,3607950,0,Pohjois-Karjala,62.6839,29.1045
+23726,726,L_vt9_Ylämylly,"Tie 9 Liperi, Ylämylly","Väg 9 Liperi, Ylämylly","Road 9 Liperi, Ylämylly",9,351,2175,6949426,3632687,0,Pohjois-Karjala,62.6255,29.5826
+23730,730,L_vt9_Noljakka,"Tie 9 Noljakka","Väg 9 Noljakka","Road 9 Noljakka",9,353,808,6949606,3639320,86,Pohjois-Karjala,62.6247,29.7118
+23729,729,L_vt9_Kaurila,"Tie 70 Tohmajärvi, Kaurila","Väg 70 Tohmajärvi, Kaurila","Road 70 Tohmajärvi, Kaurila",9,360,4645,6901747,3684206,0,Pohjois-Karjala,62.1764,30.5339
+23724,724,L_vt9_Niirala,"Tie 9 Niirala","Väg 9 Niirala","Road 9 Niirala",9,361,4290,6900900,3689342,0,Pohjois-Karjala,62.1663,30.6314
+23723,723,L_vt23_Liperi,"Tie 23 Liperi","Väg 23 Libelits","Road 23 Liperi",23,417,1290,6946681,3616009,0,Pohjois-Karjala,62.6065,29.256
+23704,704,L_kt71_Kesälahti,"Tie 71 Kesälahti","Väg 71 Kesälax","Road 71 Kesälahti",71,8,4550,6885577,3636582,0,Pohjois-Karjala,62.0518,29.6083
+23705,705,L_kt73_Lieksa,"Tie 73 Lieksa","Väg 73 Lieksa","Road 73 Lieksa",73,18,300,7026098,3652952,0,Pohjois-Karjala,63.3046,30.0477
+23928,928,L_vt4_Joutsa,"Tie 4 Joutsa","Väg 4 Joutsa","Road 4 Joutsa",4,222,4252,6854984,3452442,0,Keski-Suomi,61.7989,26.0951
+23935,935,L_vt4_Toivakka2,"Tie 4 Toivakka","Väg 4 Toivakka","Road 4 Toivakka",4,229,0,6889335,3446854,0,Keski-Suomi,62.1063,25.9789
+23929,929,L_vt4_Hupeli,"Tie 4 Hupeli","Väg 4 Hupeli","Road 4 Hupeli",4,232,526,6903660,3442578,0,Keski-Suomi,62.2342,25.8923
+23923,923,L_vt4_Jyväskylä,"Tie 4 Jyväskylä","Väg 4 Jyväskylä","Road 4 Jyväskylä",4,233,4845,6904748,3437052,0,Keski-Suomi,62.2431,25.7857
+23933,933,L_vt4_Palokka,"Tie 4 Palokka","Väg 4 Palokka","Road 4 Palokka",4,301,4620,6908741,3434144,0,Keski-Suomi,62.2784,25.7282
+23901,901,L_vt4_Tikkakoski,"Tie 4 Tikkakoski","Väg 4 Tikkakoski","Road 4 Tikkakoski",4,303,3210,6918924,3433129,0,Keski-Suomi,62.3696,25.7048
+23902,902,L_vt4_Äänekoski,"Tie 4 Äänekoski","Väg 4 Äänekoski","Road 4 Äänekoski",4,310,1450,6950954,3434916,0,Keski-Suomi,62.6572,25.7271
+23932,932,L_vt4_Hännilänsalmi,"Tie 4 Hännilänsalmi","Väg 4 Hännilänsalmi","Road 4 Hännilänsalmi",4,318,150,6993806,3440310,0,Keski-Suomi,63.0425,25.8169
+23925,925,L_vt4_Viitasaari,"Tie 4 Viitasaari","Väg 4 Viitasaari","Road 4 Viitasaari",4,323,659,7014174,3433260,0,Keski-Suomi,63.2239,25.6693
+23930,930,L_vt9_Jämsä,"Tie 9 Jämsä","Väg 9 Jämsä","Road 9 Jämsä",9,220,870,6861528,3403256,0,Keski-Suomi,61.8483,25.1594
+23927,927,L_vt9_Korpilahti,"Tie 9 Korpilahti","Väg 9 Korpilax","Road 9 Korpilahti",9,228,955,6875524,3416224,0,Keski-Suomi,61.9769,25.399
+23922,922,L_vt9_Muurame,"Tie 9 Muurame","Väg 9 Muurame","Road 9 Muurame",9,232,4133,6887125,3427670,0,Keski-Suomi,62.0833,25.6125
+23903,903,L_vt9_Lievestuore,"Tie 9 Laukaa, Lievestuore","Väg 9 Laukas, Lievestuore","Road 9 Laukaa, Lievestuore",9,305,3273,6905060,3456413,0,Keski-Suomi,62.2487,26.158
+23904,904,L_vt13_Saarijärvi,"Tie 13 Saarijärvi","Väg 13 Saarijärvi","Road 13 Saarijärvi",13,131,2211,6967183,3401399,0,Keski-Suomi,62.7953,25.0641
+23931,931,L_vt18_Petäjävesi,"Tie 18 Petäjävesi","Väg 18 Petäjävesi","Road 18 Petäjävesi",18,47,2950,6908373,3416805,0,Keski-Suomi,62.2717,25.3946
+23905,905,L_vt23_Keuruu1,"Tie 23 Keuruu","Väg 23 Keuru","Road 23 Keuruu",23,217,4363,6906780,3373520,0,Keski-Suomi,62.2452,24.5629
+23921,921,L_vt24_Kuhmoinen,"Tie 24 Kuhmoinen","Väg 24 Kuhmoinen","Road 24 Kuhmoinen",24,13,3194,6821328,3401314,0,Keski-Suomi,61.4873,25.1443
+23934,934,L_st637_Tiituspohja,"Tie 637 Tiituspohja","Väg 637 Tiituspohja","Road 637 Tiituspohja",637,2,1015,6911169,3439038,0,Keski-Suomi,62.301,25.8216
+24021,1021,L_vt3_Koskue,"Tie 3 Koskue","Väg 3 Koskue","Road 3 Koskue",3,224,4016,6927882,3282670,0,Etelä-Pohjanmaa,62.3924,22.7928
+24047,1047,L_vt3_Kurikka_Tuiskula,"Tie 3 Kurikka","Väg 3 Kurikka","Road 3 Kurikka",3,234,1760,6953800,3265888,0,Etelä-Pohjanmaa,62.6141,22.4339
+24058,1058,L_vt16_Ylistaro,"Tie 16 Ylistaro","Väg 16 Ylistaro","Road 16 Ylistaro",16,7,3480,6991901,3274373,0,Etelä-Pohjanmaa,62.9602,22.5474
+24027,1027,L_vt16_Alajärvi,"Tie 16 Alajärvi","Väg 16 Alajärvi","Road 16 Alajärvi",16,20,1345,6994847,3332013,0,Etelä-Pohjanmaa,63.0178,23.6784
+24032,1032,L_vt18_Nurmo_Munakka,"Tie 18 Nurmo, Munakka","Väg 18 Nurmo, Munakka","Road 18 Nurmo, Munakka",18,9,5264,6978921,3285440,0,Etelä-Pohjanmaa,62.8507,22.7817
+24061,1061,L_vt18_Seinäjöki_Pajuneva,"Tie 18 Seinäjoki, Pajuneva","Väg 18 Seinäjoki, Pajuneva","Road 18 Seinäjoki, Pajuneva",18,10,4645,6974223,3288717,0,Etelä-Pohjanmaa,62.8106,22.8518
+24037,1037,L_vt18_Nurmo_Uittoo,"Tie 18 Nurmo","Väg 18 Nurmo","Road 18 Nurmo",18,13,615,6969506,3296491,0,Etelä-Pohjanmaa,62.7728,23.0096
+24056,1056,L_vt18_Alavus_Kuivaskylä,"Tie 18 Alavus","Väg 18 Alavo","Road 18 Alavus",18,18,3464,6945137,3318646,0,Etelä-Pohjanmaa,62.5662,23.4687
+24033,1033,L_vt18_Alavus_Tuuri,"Tie 18 Alavus","Väg 18 Alavo","Road 18 Alavus",18,20,4096,6947619,3330185,0,Etelä-Pohjanmaa,62.5939,23.6902
+24062,1062,L_vt18_Töysä_Jokikylä,"Tie 18 Töysä, Jokikylä","Väg 18 Töysä, Jokikylä","Road 18 Töysä, Jokikylä",18,21,1542,6949606,3334051,0,Etelä-Pohjanmaa,62.6135,23.7634
+24005,1005,L_vt19_Luopajärvi,"Tie 19 Luopajärvi","Väg 19 Luopajärvi","Road 19 Luopajärvi",19,2,4824,6949578,3281894,0,Etelä-Pohjanmaa,62.5861,22.7502
+24034,1034,L_vt19_Seinäjoki,"Tie 19 Seinäjoki","Väg 19 Seinäjoki","Road 19 Seinäjoki",19,6,902,6972825,3288215,0,Etelä-Pohjanmaa,62.7978,22.8438
+24059,1059,L_vt19_Nurmo,"Tie 19 Nurmo","Väg 19 Nurmo","Road 19 Nurmo",19,8,602,6975797,3292594,0,Etelä-Pohjanmaa,62.8269,22.9257
+24007,1007,L_vt19_Lapua,"Tie 19 Lapua","Väg 19 Lappo","Road 19 Lapua",19,11,4146,6987966,3299139,0,Etelä-Pohjanmaa,62.9395,23.0391
+24049,1049,L_vt19_Lapua_Voitilanjärvi,"Tie 19 Lapua","Väg 19 Lappo","Road 19 Lapua",19,14,3943,6993901,3300417,0,Etelä-Pohjanmaa,62.9933,23.0571
+24031,1031,L_vt19_Alahärmä_Voltti,"Tie 19 Alahärmä, Voltti","Väg 19 Alahärmä, Voltti","Road 19 Alahärmä, Voltti",19,21,676,7027657,3289540,0,Etelä-Pohjanmaa,63.2892,22.7995
+24054,1054,L_kt44_Kauhajoki,"Tie 44 Kauhajoki","Väg 44 Kauhajoki","Road 44 Kauhajoki",44,29,3429,6931704,3252634,0,Etelä-Pohjanmaa,62.4079,22.2086
+24035,1035,L_kt63_Kauhava,"Tie 63 Kauhava","Väg 63 Kauhava","Road 63 Kauhava",63,2,1950,7008433,3301838,0,Etelä-Pohjanmaa,63.1242,23.0675
+24024,1024,L_kt66_Alavus_Sampsalampi,"Tie 66 Alavus","Väg 66 Alavo","Road 66 Alavus",66,19,4217,6930222,3325854,0,Etelä-Pohjanmaa,62.4361,23.6238
+24060,1060,L_kt66_Alavus_Pohjoinen,"Tie 66 Alavus, pohjoinen","Väg 66 Alavus, nord","Road 66 Alavus, north",66,25,2656,6952513,3324564,0,Etelä-Pohjanmaa,62.6351,23.576
+24044,1044,L_kt66_Kuortane,"Tie 66 Kuortane","Väg 66 Kuortane","Road 66 Kuortane",66,30,1502,6971608,3322558,0,Etelä-Pohjanmaa,62.8052,23.5169
+24046,1046,L_kt67_Teuva,"Tie 67 Teuva","Väg 67 Östermark","Road 67 Teuva",67,7,3516,6941055,3226890,0,Etelä-Pohjanmaa,62.4734,21.6978
+24042,1042,L_kt67_Kauhajoki_P,"Tie 67 Kauhajoki, pohjoine","Väg 67 Kauhajoki, pohjoinen","Road 67 Kauhajoki, north",67,14,5158,6939879,3256506,0,Etelä-Pohjanmaa,62.4835,22.2716
+24006,1006,L_kt67_Ilmajoki,"Tie 67 Ilmajoki","Väg 67 Ilmola","Road 67 Ilmajoki",67,21,1753,6967293,3277093,0,Etelä-Pohjanmaa,62.7417,22.6337
+24039,1039,L_kt68_Ähtäri,"Tie 68 Ähtäri","Väg 68 Etseri","Road 68 Ähtäri",68,7,542,6940473,3347973,0,Etelä-Pohjanmaa,62.5377,24.0424
+24055,1055,L_kt68_Lehtimäki,"Tie 68 Lehtimäki","Väg 68 Lehtimäki","Road 68 Lehtimäki",68,15,2135,6967939,3343914,0,Etelä-Pohjanmaa,62.7821,23.9383
+24028,1028,L_kt68_Evijärvi,"Tie 68 Evijärvi","Väg 68 Evijärvi","Road 68 Evijärvi",68,27,5360,7030321,3325677,0,Etelä-Pohjanmaa,63.3325,23.5155
+24043,1043,L_yt17367_Kurikka_Panttil,"Tie 17367 Kurikka, Panttil","Väg 17367 Kurikka, Panttila","Road 17367 Kurikka, Panttila",17367,1,2650,6959948,3263314,0,Etelä-Pohjanmaa,62.6674,22.3754
+24001,1001,L_vt3_Huissi,"Tie 3 Huissi","Väg 3 Huissi","Road 3 Huissi",3,239,6476,6974000,3259400,0,Pohjanmaa,62.7905,22.2792
+24051,1051,L_vt3_Laihia_Perälä,"Tie 3 Laihia, Perälä","Väg 3 Laihela, Perälä","Road 3 Laihia, Perälä",3,244,2250,6990347,3248868,0,Pohjanmaa,62.9296,22.049
+24002,1002,L_vt3_Hälsingby,"Tie 3 Hälsingby","Väg 3 Hälsingby","Road 3 Hälsingby",3,248,5183,7001388,3237435,0,Pohjanmaa,63.0202,21.8073
+24030,1030,L_vt3_Vaasa_Mt,"Tie 3 Vaasa","Väg 3 Vasa","Road 3 Vaasa",3,250,4648,7006459,3232548,0,Pohjanmaa,63.0619,21.7029
+24050,1050,L_vt8_Kristiinankaupunki,"Tie 8 Kristiinankaupunki","Väg 8 Kristinestad","Road 8 Kristiinankaupunki",8,213,5065,6893775,3214418,0,Pohjanmaa,62.0418,21.5344
+24022,1022,L_vt8_Närpiö,"Tie 8 Närpiö","Väg 8 Närpes","Road 8 Närpiö",8,223,775,6938798,3212484,0,Pohjanmaa,62.4424,21.4236
+24045,1045,L_vt8_Mustasaari_Riimal,"Tie 8 Mustasaari, Riimala","Väg 8 Korsholm, Riimala","Road 8 Mustasaari, Riimala",8,237,4418,6994011,3234562,0,Pohjanmaa,62.9522,21.7626
+24057,1057,L_vt8_Vaasa_Yhdystie,"Tie 8 Vaasa, Yhdystie","Väg 8 Vasa, Yhdystie","Road 8 Vaasa, Yhdystie",8,239,1850,7009387,3231175,0,Pohjanmaa,63.0871,21.6711
+24003,1003,L_vt8_Koivulahti,"Tie 8 Mustasaari, Koivulah","Väg 8 Korsholm, Kvevlax","Road 8 Mustasaari, Koivulahti",8,303,4434,7015141,3237293,0,Pohjanmaa,63.1429,21.7825
+24063,1063,L_vt8_Kaitsor_Vöyri-Maksamaa,"Tie 8 Kaitsor, Vöyri-Maksamaa","Väg 8 Kaitsor, Vöyri-Maksamaa","Road 8 Kaitsor, Vöyri-Maksamaa",8,311,799,7025805,3263362,0,Pohjanmaa,63.2563,22.2821
+24026,1026,L_vt8_Kovjoki,"Tie 8 Kovjoki","Väg 8 Kovik","Road 8 Kovjoki",8,321,2820,7056934,3286608,0,Pohjanmaa,63.5494,22.7021
+24053,1053,L_vt18_Laihia_Vedenoja,"Tie 18 Laihia, Vedenoja","Tie 18 Laihela, Vedenoja","Road 18 Laihia, Vedenoja",18,2,948,6994218,3250865,0,Pohjanmaa,62.9656,22.0823
+24004,1004,L_vt16_Isokyrö,"Tie 16 Isokyrö","Väg 16 Storkyro","Road 16 Isokyrö",18,5,2200,6994874,3264231,0,Pohjanmaa,62.9803,22.344
+24036,1036,L_kt68_Pietarsaari,"Tie 68 Pietarsaari","Väg 68 Jakobstad","Road 68 Pietarsaari",68,38,1860,7066804,3292762,0,Pohjanmaa,63.6414,22.8126
+24029,1029,L_st724_Raippaluoto,"Tie 724 Raippaluoto","Väg 724 Replot","Road 724 Raippaluoto",724,4,1915,7023198,3223017,0,Pohjanmaa,63.2042,21.487
+24023,1023,L_vt8_Kokkola,"Tie 8 Kokkola","Väg 8 Karleby","Road 8 Kokkola",8,404,550,7089738,3315358,0,Keski-Pohjanmaa,63.8592,23.2403
+24048,1048,L_vt13_Kokkola_Ribacken,"Tie 13 Kokkola","Väg 13 Karleby","Road 13 Kokkola",13,102,3475,7080530,3313133,0,Keski-Pohjanmaa,63.7756,23.2063
+24041,1041,L_vt13_Kaustinen_Viiperi,"Tie 13 Kaustinen","Väg 13 Kaustby","Road 13 Kaustinen",13,108,2516,7060483,3324904,0,Keski-Pohjanmaa,63.6022,23.4669
+24122,1122,L_vt13_Veteli,"Tie 13 Veteli","Väg 13 Vetil","Road 13 Veteli",13,113,3516,7039935,3346308,0,Keski-Pohjanmaa,63.4281,23.9175
+24064,1064,L_vt13_Perho_Möttönen,"Tie 13 Perho, Möttönen","Väg 13 Perho, Möttönen","Road 13 Perho, Möttönen",13,121,1621,7009577,3375363,0,Keski-Pohjanmaa,63.1673,24.5223
+24065,1065,L_vt18_Ähtäri_Inha,"Tie 18 Ähtäri, Inha","Väg 18 Ähtäri, Inha","Road 18 Ähtäri, Inha",18,26,984,6942275,3352166,0,Keski-Pohjanmaa,62.5555,24.1222
+24040,1040,L_vt28_Kannus,"Tie 28 Kannus","Väg 28 Kannus","Road 28 Kannus",28,6,603,7092571,3346052,0,Keski-Pohjanmaa,63.8994,23.8606
+24038,1038,L_kt63_Kaustinen,"Tie 63 Kaustinen","Väg 63 Kaustby","Road 63 Kaustinen",63,17,3460,7054965,3338765,0,Keski-Pohjanmaa,63.5593,23.7514
+24101,1101,L_vt4_Pyhäjärvi,"Tie 4 Pyhäjärvi","Väg 4 Pyhäjärvi","Road 4 Pyhäjärvi",4,332,2902,7058414,3440090,0,Pohjois-Pohjanmaa,63.6219,25.7884
+24121,1121,L_vt4_Kärsämäki,"Tie 4 Kärsämäki","Väg 4 Kärsämäki","Road 4 Kärsämäki",4,341,3360,7094619,3441502,0,Pohjois-Pohjanmaa,63.9469,25.8032
+24221,1221,L_vt4_Rantsila,"Tie 4 Rantsila","Väg 4 Frantsila","Road 4 Rantsila",4,352,2390,7143390,3444833,0,Pohjois-Pohjanmaa,64.3849,25.8532
+24236,1236,L_vt4_Ala-Temmes,"Tie 4 Alatemmes","Väg 4 Alatemmes","Road 4 Alatemmes",4,362,5270,7187098,3431022,0,Pohjois-Pohjanmaa,64.7742,25.5463
+24243,1243,L_vt4_Luhasto,"Tie 4 Luhasto","Väg 4 Luhasto","Road 4 Luhasto",4,363,3300,7194780,3429176,0,Pohjois-Pohjanmaa,64.8427,25.5038
+24226,1226,L_vt4_Kempele,"Tie 4 Kempele","Väg 4 Kempele","Road 4 Kempele",4,364,4245,7202649,3431016,0,Pohjois-Pohjanmaa,64.9137,25.5387
+24201,1201,L_vt4_Oulu_Mäntylä,"Tie 4 Oulu, Mäntylä","Väg 4 Uleåborg, Mäntylä","Road 4 Oulu, Mäntylä",4,367,2297,7209985,3430154,0,Pohjois-Pohjanmaa,64.9793,25.5168
+24251,1251,L_vt4_Oulu_Lintula,"Tie 4 Oulu, Lintula","Väg 4 Uleåborg, Lintula","Road 4 Oulu, Lintula",4,367,4096,7208766,3429542,0,Pohjois-Pohjanmaa,64.9682,25.5045
+24250,1250,L_vt4_Välkkylä,"Tie 4 Välkkylä","Väg 4 Välkkylä","Road 4 Välkkylä",4,401,450,7213504,3429900,0,Pohjois-Pohjanmaa,65.0108,25.5097
+24237,1237,L_vt4_Oulu,"Tie 4 Oulu, Intiö","Väg 4 Uleåborg, Intiö","Road 4 Oulu, Intiö",4,401,1657,7214649,3429950,0,Pohjois-Pohjanmaa,65.0211,25.5102
+24244,1244,L_vt4_Laanila,"Tie 4 Oulu, Laanila","Väg 4 Uleåborg, Laanila","Road 4 Oulu, Laanila",4,402,862,7215842,3429419,0,Pohjois-Pohjanmaa,65.0316,25.4983
+24238,1238,L_vt4_Isko,"Tie 4 Linnanmaa","Väg 4 Linnanmaa","Road 4 Linnanmaa",4,403,844,7217510,3427946,0,Pohjois-Pohjanmaa,65.0463,25.4662
+24246,1246,L_vt4_Kuivasjärvi,"Tie 4 Oulu, Kuivasjärvi","Väg 4 Uleåborg, Kuivasjärvi","Road 4 Oulu, Kuivasjärvi",4,403,4120,7220662,3426724,0,Pohjois-Pohjanmaa,65.0743,25.4386
+24231,1231,L_vt4_Kalimenoja,"Tie 4 Kello","Väg 4 Kello","Road 4 Kello",4,405,1508,7226094,3426448,0,Pohjois-Pohjanmaa,65.1229,25.4299
+24202,1202,L_vt4_Ii,"Tie 4 Ii","Väg 4 Ijo","Road 4 Ii",4,409,4295,7246097,3424280,0,Pohjois-Pohjanmaa,65.3018,25.3727
+24229,1229,L_vt4_Kuivaniemi,"Tie 4 Ii, Kuivaniemi","Väg 4 Ijo, Kuivaniemi","Road 4 Ii, Kuivaniemi",4,416,685,7273453,3418766,0,Pohjois-Pohjanmaa,65.5457,25.2382
+24234,1234,L_vt5_Toranki,"Tie 5 Kuusamo, Toranki","Väg 5 Kuusamo, Toranki","Road 5 Kuusamo, Toranki",5,355,5106,7318805,3598631,0,Pohjois-Pohjanmaa,65.9474,29.1643
+24203,1203,L_vt5_Kuusamo,"Tie 5 Kuusamo","Väg 5 Kuusamo","Road 5 Kuusamo",5,359,2479,7331368,3597314,0,Pohjois-Pohjanmaa,66.0604,29.1449
+24052,1052,L_vt8_Himanka,"Tie 8 Himanka","Väg 8 Himango","Road 8 Himanka",8,412,1023,7109824,3336189,0,Pohjois-Pohjanmaa,64.0494,23.6416
+24124,1124,L_vt8_Rahvo,"Tie 8 Kalajoki, Rahvo","Väg 8 Kalajoki, Rahvo","Road 8 Kalajoki, Rahvo",8,418,2347,7134793,3352579,0,Pohjois-Pohjanmaa,64.2805,23.9522
+24204,1204,L_vt8_Raahe,"Tie 8 Raahe","Väg 8 Brahestad","Road 8 Raahe",8,429,5217,7178735,3383815,0,Pohjois-Pohjanmaa,64.6863,24.5616
+24235,1235,L_vt8_Lapinkangas,"Tie 8 Liminka","Väg 8 Limingo","Road 8 Liminka",8,438,1905,7188120,3421646,0,Pohjois-Pohjanmaa,64.7814,25.3488
+24254,1254,L_vt20_Rusko2,"Tie 20 Oulu, Rusko","Väg 20 Uleåborg, Rusko","Road 20 Oulu, Rusko",20,3,4706,7218295,3434626,0,Pohjois-Pohjanmaa,65.0547,25.6076
+24223,1223,L_vt20_Kiiminki,"Tie 20 Kiiminki","Väg 20 Kiiminki","Road 20 Kiiminki",20,4,280,7219433,3436054,0,Pohjois-Pohjanmaa,65.0652,25.6374
+24230,1230,L_vt20_Rankkila,"Tie 20 Pudasjärvi, Rankkil","Väg 20 Pudasjärvi, Rankkila","Road 20 Pudasjärvi, Rankkila",20,14,4277,7241476,3487590,0,Pohjois-Pohjanmaa,65.2689,26.7306
+24232,1232,L_vt20_Kettumäki,"Tie 20 Kettumäki","Väg 20 Kettumäki","Road 20 Kettumäki",20,22,3706,7257973,3519786,0,Pohjois-Pohjanmaa,65.4165,27.4223
+24224,1224,L_vt20_Pintamo,"Tie 20 Pudasjärvi, Pintamo","Väg 20 Pudasjärvi, Pintamo","Road 20 Pudasjärvi, Pintamo",20,23,3509,7261016,3528005,0,Pohjois-Pohjanmaa,65.4432,27.5999
+24241,1241,L_vt22_Maikkula,"Tie 22 Maikkula","Väg 22 Maikkula","Road 22 Maikkula",22,2,2500,7211049,3431451,0,Pohjois-Pohjanmaa,64.9891,25.5438
+24227,1227,L_vt22_Muhos,"Tie 22 Muhos","Väg 22 Muhos","Road 22 Muhos",22,6,5994,7195713,3447383,0,Pohjois-Pohjanmaa,64.8545,25.887
+24104,1104,L_vt27_Alavieska,"Tie 27 Alavieska","Väg 27 Alavieska","Road 27 Alavieska",27,4,1058,7116583,3371203,0,Pohjois-Pohjanmaa,64.1248,24.3519
+24105,1105,L_vt27_Haapajärvi,"Tie 27 Haapajärvi","Väg 27 Haapajärvi","Road 27 Haapajärvi",27,14,7519,7072238,3431325,0,Pohjois-Pohjanmaa,63.7443,25.6056
+24103,1103,L_vt28_Sievi,"Tie 28 Sievi","Väg 28 Sievi","Road 28 Sievi",28,17,426,7087806,3388872,0,Pohjois-Pohjanmaa,63.873,24.7353
+24225,1225,L_kt78_Pudasjärvi,"Tie 78 Pudasjärvi","Väg 78 Pudasjärvi","Road 78 Pudasjärvi",78,208,3300,7286044,3485785,0,Pohjois-Pohjanmaa,65.6685,26.6872
+24123,1123,L_kt86_Oulainen,"Tie 86 Oulainen","Väg 86 Oulais","Road 86 Oulainen",86,12,2326,7128853,3394930,0,Pohjois-Pohjanmaa,64.2428,24.83
+24205,1205,L_kt86_Liminka,"Tie 86 Liminka","Väg 86 Limingo","Road 86 Liminka",86,26,5350,7180148,3422949,0,Pohjois-Pohjanmaa,64.7102,25.3804
+24233,1233,L_kt88_Alpua,"Tie 88 Vihanti, Alpua","Väg 88 Vihanti, Alpua","Road 88 Vihanti, Alpua",88,7,1583,7151880,3411120,0,Pohjois-Pohjanmaa,64.4538,25.1498
+24239,1239,L_st815_Lentokentäntie,"Tie 815 Oulunsalo","Väg 815 Uleåsalo","Road 815 Oulunsalo",815,2,1700,7206797,3428877,0,Pohjois-Pohjanmaa,64.9504,25.4914
+24248,1248,L_st815_Oulunsalo,"Tie 815 Oulunsalo","Väg 815 Uleåsalo","Road 815 Oulunsalo",815,3,350,7205264,3425144,0,Pohjois-Pohjanmaa,64.9359,25.4133
+24249,1249,L_st815_Lunki,"Tie 815 Lunki","Väg 815 Lunki","Road 815 Lunki",815,3,1585,7205037,3424417,0,Pohjois-Pohjanmaa,64.9337,25.398
+24253,1253,L_st816_Hailuoto,"Tie 816 Hailuoto","Väg 816 Karlö","Road 816 Hailuoto",816,5,850,7217467,3408543,0,Pohjois-Pohjanmaa,65.0411,25.0545
+24222,1222,L_st847_Tupos,"Tie 4 Liminka, Tupos","Väg 4 Limingo, Tupos","Road 4 Liminka, Tupos",847,1,1774,7193445,3428523,0,Pohjois-Pohjanmaa,64.8306,25.4907
+24247,1247,L_st847_Oulunlahti,"Tie 847 Oulunlahti","Väg 847 Oulunlahti","Road 847 Oulunlahti",847,3,1770,7209217,3429141,0,Pohjois-Pohjanmaa,64.9722,25.4958
+24228,1228,L_st847_Haukipudas,"Tie 847 Haukipudas","Väg 847 Haukipudas","Road 847 Haukipudas",847,5,1860,7225695,3423768,0,Pohjois-Pohjanmaa,65.1187,25.3731
+24252,1252,L_st866_Kuusamo_T,"Tie 866 Kuusamo","Väg 866 Kuusamo","Road 866 Kuusamo",866,7,6365,7301109,3641334,0,Pohjois-Pohjanmaa,65.7729,30.0826
+24321,1321,L_vt5_Hatulanmäki,"Tie 5 Hatulanmäki","Väg 5 Hatulanmäki","Road 5 Hatulanmäki",5,228,3116,7099260,3520177,0,Kainuu,63.9929,27.4087
+24322,1322,L_vt5_Nuottijärvi,"Tie 5 Nuottijärvi","Väg 5 Nuottijärvi","Road 5 Nuottijärvi",5,233,400,7117856,3525697,0,Kainuu,64.1594,27.5246
+24301,1301,L_vt5_Rytivaara,"Tie 5 Rytivaara","Väg 5 Rytivaara","Road 5 Rytivaara",5,306,3986,7135823,3550537,0,Kainuu,64.3177,28.0412
+24302,1302,L_vt5_Ristijärvi,"Tie 5 Ristijärvi","Väg 5 Ristijärvi","Road 5 Ristijärvi",5,311,1905,7154760,3556739,0,Kainuu,64.4866,28.1766
+24328,1328,L_vt5_Tapiola,"Tie 5 Tapiola","Väg 5 Tapiola","Road 5 Tapiola",5,337,4546,7253761,3595431,0,Kainuu,65.3654,29.0475
+24323,1323,L_vt6_Korholanmäki,"Tie 6 Sotkamo, Korholanmäk","Väg 6 Sotkamo, Korholanmäki","Road 6 Sotkamo, Korholanmäki",6,435,450,7115767,3548604,0,Kainuu,64.1382,27.9947
+24324,1324,L_vt22_Törmäkylä,"Tie 22 Törmäkylä","Väg 22 Törmäkylä","Road 22 Törmäkylä",22,17,1660,7167509,3483448,0,Kainuu,64.6052,26.6506
+24329,1329,L_vt22_Mieslahti,"Tie 22 Paltamo, Mieslahti","Väg 22 Paltamo, Mieslahti","Road 22 Paltamo, Mieslahti",22,30,5881,7143972,3546160,0,Kainuu,64.3915,27.9532
+24326,1326,L_vt28_Vuottolahti,"Tie 28 Vuottolahti","Väg 28 Vuottolahti","Road 28 Vuottolahti",28,45,1816,7112842,3513103,0,Kainuu,64.1151,27.2654
+24303,1303,L_kt75_Kankivaara,"Tie 75 Kankivaara","Väg 75 Kankivaara","Road 75 Kankivaara",75,33,2720,7101948,3628874,0,Kainuu,63.9938,29.6302
+24327,1327,L_kt78_Aska,"Tie 78 Arska","Väg 78 Arska","Road 78 Arska",78,116,1860,7217063,3533137,0,Kainuu,65.0485,27.7
+24325,1325,L_kt89_Vartius,"Tie 89 Vartius","Väg 89 Vartius","Road 89 Vartius",89,18,522,7158177,3639589,0,Kainuu,64.4934,29.9012
+24452,1452,L_vt4_Marostenmäki,"Tie 4 Kemi, Marostenmäki","Väg 4 Kemi, Marostenmäki","Road 4 Kemi, Marostenmäki",4,423,3125,7290602,3393846,0,Lappi,65.6921,24.6857
+24453,1453,L_vt4_Siikalahti,"Tie 4 Kemi, Siikalahti","Väg 4 Kemi, Siikalahti","Road 4 Kemi, Siikalahti",4,424,2764,7292819,3391202,0,Lappi,65.7111,24.6264
+24454,1454,L_vt4_Peurasaari,"Tie 4 Kemi, Peurasaari","Väg 4 Kemi, Peurasaari","Road 4 Kemi, Peurasaari",4,425,1622,7294701,3389763,0,Lappi,65.7275,24.5935
+24455,1455,L_vt4_Karjalahti,"Tie 4 Kemi, Karjalahti","Väg 4 Kemi, Karjalahti","Road 4 Kemi, Karjalahti",4,425,2981,7296028,3389527,0,Lappi,65.7393,24.5872
+24456,1456,L_vt4_Kivikko,"Tie 4 Kemi, Kivikko","Väg 4 Kemi, Kivikko","Road 4 Kemi, Kivikko",4,425,4583,7297519,3388960,0,Lappi,65.7525,24.5736
+24457,1457,L_vt4_Ristikangas,"Tie 4 Kemi, Ristikangas","Väg 4 Kemi, Ristikangas","Road 4 Kemi, Ristikangas",4,426,562,7298695,3388922,0,Lappi,65.763,24.5718
+24437,1437,L_vt4_mp3_Jokisuu,"Tie 4 Jokisuu","Väg 4 Jokisuu","Road 4 Jokisuu",4,426,4377,7301900,3386878,0,Lappi,65.791,24.5245
+24438,1438,L_vt4_mp2_Jokisuu,"Tie 4 Jokisuu","Väg 4 Jokisuu","Road 4 Jokisuu",4,426,4934,7302315,3386756,0,Lappi,65.7947,24.5215
+24401,1401,L_vt4_Tervola,"Tie 4 Tervola","Väg 4 Tervola","Road 4 Tervola",4,435,716,7333787,3398836,0,Lappi,66.0807,24.7607
+24451,1451,L_vt4_Ala-Korkalo,"Tie 4 Rovaniemi, Ala-Korkalo","Väg 4 Rovaniemi, Ala-Korkalo","Road 4 Rovaniemi, Ala-Korkalo",4,448,2546,7374184,3435738,0,Lappi,66.4526,25.5551
+24450,1450,L_vt4_Revontuli,"Tie 4 Rovaniemi","Väg 4 Rovaniemi","Road 4 Rovaniemi",4,501,650,7379747,3443458,0,Lappi,66.5039,25.7256
+24424,1424,L_vt4_Olkkajärvi,"Tie 4 Rovaniemi, Olkkajärv","Väg 4 Rovaniemi, Olkkajärvi","Road 4 Rovaniemi, Olkkajärvi",4,504,3500,7390161,3459036,0,Lappi,66.5998,26.0721
+24448,1448,L_vt4_Torvinen,"Tie 4 Torvinen","Väg 4 Torvinen","Road 4 Torvinen",4,517,11153,7452184,3484498,0,Lappi,67.1583,26.6383
+24449,1449,L_vt4_Yläpostojoki,"Tie 4 Yläpostojoki","Väg 4 Yläpostojoki","Road 4 Yläpostojoki",4,531,2960,7513326,3489756,0,Lappi,67.7067,26.7541
+24402,1402,L_vt4_Ivalo,"Tie 4 Ivalo","Väg 4 Ivalo","Road 4 Ivalo",4,550,4680,7603726,3520712,0,Lappi,68.5166,27.5024
+24444,1444,L_vt4_Utsjoki,"Tie 4 Utsjoki","Väg 4 Utsjoki","Road 4 Utsjoki",4,582,5750,7758695,3501156,0,Lappi,69.9066,27.0257
+24426,1426,L_vt5_Suomu,"Tie 5 Suomu","Väg 5 Suomu","Road 5 Suomu",5,375,529,7384815,3549439,0,Lappi,66.5507,28.1091
+24403,1403,L_vt5_Kemijärvi,"Tie 5 Kemijärvi","Väg 5 Kemi träsk","Road 5 Kemijärvi",5,405,5100,7419151,3519853,0,Lappi,66.8618,27.4486
+24458,1458,L_v21_Tornio,"Tie 21 Tornio","Väg 21 Torneå","Road 21 Tornio",21,106,30,7311570,3370911,0,Lappi,65.8716,24.1666
+24459,1459,L_v21_Ylitornio,"Tie 21 Ylitornio","Väg 21 Övertorneåo","Road 21 Ylitornio",21,118,1340,7367585,3352342,0,Lappi,66.365,23.6956
+24421,1421,L_vt21_Kolari,"Tie 21 Kolari","Väg 21 Kolari","Road 21 Kolari",21,140,2278,7463252,3365941,0,Lappi,67.2278,23.8925
+24447,1447,L_vt21_Kilpisjärvi_T,"Tie 21 Enontekiö, Kilpisjä","Väg 21 Enontekis, Kilpisjärv","Road 21 Enontekiö, Kilpisjärvi",21,238,125,7674869,3251739,0,Lappi,69.042,20.7697
+24439,1439,L_vt29_Luukkaankangas,"Tie 29 Kemi, Luukkaankanga","Väg 29 Kemi, Luukkaankangas","Road 29 Kemi, Luukkaankangas",29,1,4688,7306167,3381116,0,Lappi,65.8271,24.3949
+24440,1440,L_vt29_mp1c_Tornio,"Tie 29 Tornio 1","Väg 29 Torneå 1","Road 29 Tornio 1",29,2,3350,7308066,3372629,0,Lappi,65.8409,24.2076
+24441,1441,L_vt29_mp1a_Tornio,"Tie 29 Tornio 2","Väg 29 Torneå 2","Road 29 Tornio 2",29,2,3500,7308089,3372482,0,Lappi,65.841,24.2044
+24431,1431,L_vt29_Tornio,"Tie 9211 Tornio","Väg 9211 Torneå","Road 9211 Tornio",29,3,2510,7308203,3369705,0,Lappi,65.8409,24.1436
+24425,1425,L_kt78_Saukkokangas,"Tie 78 Ranua, Saukkokangas","Väg 78 Ranua, Saukkokangas","Road 78 Ranua, Saukkokangas",78,217,5531,7340759,3466219,0,Lappi,66.1577,26.2475
+24422,1422,L_kt79_Jääskö,"Tie 79 Jääskö","Väg 79 Jääskö","Road 79 Jääskö",79,14,1737,7434586,3423714,0,Lappi,66.9913,25.2476
+24423,1423,L_kt81_Peräposio,"Tie 81 Posio, Peräposio","Väg 81 Posio, Peräposio","Road 81 Posio, Peräposio",81,20,8600,7344005,3533969,0,Lappi,66.1868,27.7498
+24405,1405,L_kt82_Misi,"Tie 82 Rovaniemi, Misi","Väg 82 Rovaniemi, Misi","Road 82 Rovaniemi, Misi",82,4,4690,7398266,3483936,0,Lappi,66.6748,26.6327
+24430,1430,L_kt82_Salla_Kelloselkä,"Tie 82 Salla, Kelloselkä","Väg 82 Salla, Kelloselkä","Road 82 Salla, Kelloselkä",82,20,3180,7429669,3589057,0,Lappi,66.9438,29.0333
+24427,1427,L_kt83_Raanujärvi,"Tie 83 Ylitornio, Raanujär","Väg 83 Övertorneå, Raanujärv","Road 83 Ylitornio, Raanujärvi",83,10,5189,7396411,3405051,0,Lappi,66.6439,24.8504
+24429,1429,L_kt91_Rajajooseppi,"Tie 91 Inari, Rajajooseppi","Väg 91 Enare, Rajajooseppi","Road 91 Inari, Rajajooseppi",91,7,9035,7599825,3560481,0,Lappi,68.4759,28.4725
+24445,1445,L_kt92_Karigasniemi,"Tie 92 Karigasniemi","Väg 92 Karigasniemi","Road 92 Karigasniemi",92,12,5200,7702500,3454237,0,Lappi,69.3989,25.8307
+24446,1446,L_kt93_Kivilompolo,"Tie 93 Enontekiö, Kivilomp","Väg 21 Enontekis, Kivilompol","Road 93 Enontekiö, Kivilompolo",93,12,4368,7624124,3350800,0,Lappi,68.6602,23.3215
+24432,1432,L_kt98_Aavasaksa,"Tie 98 Aavasaksa","Väg 98 Aavasaksa","Road 98 Aavasaksa",98,1,400,7369437,3351779,0,Lappi,66.3814,23.6809
+24404,1404,L_st921_Kaakamo,"Tie 921 Tornio","Väg 921 Torneå","Road 921 Tornio",921,2,1419,7303813,3383706,0,Lappi,65.807,24.4536
+24433,1433,L_st937_Pello,"Tie 937 Pello","Väg 937 Pello","Road 937 Pello",937,1,250,7415643,3367857,0,Lappi,66.8024,23.9901
+24434,1434,L_st943_Kolari,"Tie 943 Kolari","Väg 943 Kolari","Road 943 Kolari",943,1,4900,7473131,3360238,0,Lappi,67.3137,23.7488
+24435,1435,L_st954_Muonio,"Tie 954 Muonio","Väg 954 Muonio","Road 954 Muonio",954,1,119,7543157,3360186,0,Lappi,67.9404,23.66
+24436,1436,L_st959_Karesuvanto,"Tie 959 Enontekiö, Karesuv","Väg 21 Enontekis, Karesuvant","Road 959 Enontekiö, Karesuvant",959,1,700,7602613,3315138,0,Lappi,68.4466,22.4851
+24443,1443,L_st970_Nuorgam,"Tie 970 Utsjoki, Nuorgam","Väg 970 Utsjoki, Nuorgam","Road 970 Utsjoki, Nuorgam",970,22,2330,7778995,3536983,0,Lappi,70.0859,27.968
+24442,1442,L_st971_Näätämö,"Tie 971 Inari, Näätämö","Väg 971 Enare, Näätämö","Road 971 Inari, Näätämö",971,18,6200,7733846,3582380,0,Lappi,69.6711,29.1198
+24499,1499,L_vt29_mp1b_Tornio,"Tie 971 Tornio 3","Väg 971 Torneå 3","Road 971 Tornio 3",971,18,6200,7733666,3582609,0,Lappi,69.6694,29.1256
