@@ -22,6 +22,7 @@
 
 ### xls/
 (static excel files)
+
 |file |fi |en |
 |:-----|:---|:---|
 |kelikamerat_digitraficiin_2015_01_27.xlsx|Kelikameroiden staattiset tiedot|The static information of weather cameras|
@@ -33,6 +34,7 @@
 
 ### csv/
 (versioned CSV data, currently beta)
+
 |file |fi |en |
 |:-----|:---|:---|
 |meta_traffic_stations.csv|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|
