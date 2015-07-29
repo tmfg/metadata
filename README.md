@@ -23,11 +23,11 @@
 ### xls/
 |file |fi |en |
 |:-----|:---|:---|
-|kelikamerat_digitraficiin_2015_01_27.xlsx|||
-|meta_rws_stations_2014_09_23.xlsx|||
-|meta_traffic_stations_2014_09_23.xlsx|||
-|tiejaksot.xlsx|||
-|tiesaaasemien_anturit.xls|||
+|kelikamerat_digitraficiin_2015_01_27.xlsx|Kelikameroiden staattiset tiedot|The static information of weather cameras|
+|meta_rws_stations_2014_09_23.xlsx|Tiesääasemien staattiset tiedot|The static information of road weather station|
+|meta_traffic_stations_2014_09_23.xlsx|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|
+|tiejaksot.xlsx|Keliennusteiden tiejaksot|Road weather forecast sections|
+|tiesaaasemien_anturit.xls|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|
 
 
 ### csv/
