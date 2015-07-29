@@ -11,3 +11,9 @@
 |file |fi |en |
 |-----|:---:|:---:|
 |linkkiverkosto.pdf|Matka-aikalinkkiverkoston yleiskuvaus karttapohjalla|Description of travel time link network on map|
+|weather_symbol.pdf|Keliennusteiden sääsymbolien selitteet|Road weather forecast symbols|
+
+### shapefiles
+|file |fi |en |
+|-----|:---:|:---:|
+|tiejaksot_shapefiles.zip|Keliennusteiden tiejaksojen vektorit|Road weather forecast vectors|
