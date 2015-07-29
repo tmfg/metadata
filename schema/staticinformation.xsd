@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://FTT.arstraffic.com/schemas/LocationData/"
+    targetNamespace="http://FTT.arstraffic.com/schemas/LocationData/"
+    elementFormDefault="qualified">
+    <xsd:annotation>
+        <xsd:documentation xml:lang="en-GB">
+            Journey-time time-invariant data schema for Tiehallinto.
+            Copyright 2006 Non-Cooperative Target Recognition Ltd. All
+            rights reserved.
+        </xsd:documentation>
+    </xsd:annotation>
+    <xsd:element name="jtdata">
+        <xsd:complexType>
+            <xsd:sequence>
+
+                <xsd:element name="SUP" type="xsd:string"
+                    fixed="FI_FINNRA" />
+                <xsd:element name="service" type="xsd:string"
+                    fixed="Finland_TravelTimes" />
+                <xsd:element name="version">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="major"
+                                type="xsd:nonNegativeInteger"
+                                minOccurs="1" maxOccurs="1">
+                            </xsd:element>
+                            <xsd:element name="minor"
+                                type="xsd:nonNegativeInteger"
+                                minOccurs="1" maxOccurs="1">
+                            </xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="timestamp" type="ObstimeType" />
+                <xsd:element name="sitelist">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="site" type="SiteType"
+                                maxOccurs="unbounded" />
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="linklist">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="link" type="LinkType"
+                                maxOccurs="unbounded" />
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:complexType name="SiteType">
+        <xsd:sequence>
+            <xsd:element name="number" type="SiteNumberType" />
+            <xsd:element name="name" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:simpleContent>
+                        <xsd:extension base="xsd:string">
+                            <xsd:attribute name="language"
+                                type="xsd:language" />
+                        </xsd:extension>
+
+                    </xsd:simpleContent>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="RNO" type="RNOType" />
+            <xsd:element name="TRO" type="TROType" />
+            <xsd:element name="WGS84" type="Wgs84CoordinatesType" />
+        </xsd:sequence>
+
+    </xsd:complexType>
+    <xsd:complexType name="LinkType">
+        <xsd:sequence>
+            <xsd:element name="linkno" type="LinkNumberType" />
+            <xsd:element name="startsite" type="SiteNumberType" />
+            <xsd:element name="endsite" type="SiteNumberType" />
+            <xsd:element name="name" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:simpleContent>
+                        <xsd:extension base="xsd:string">
+                            <xsd:attribute name="language"
+                                type="xsd:language" />
+                        </xsd:extension>
+                    </xsd:simpleContent>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="distance">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="value">
+                            <xsd:simpleType>
+                                <xsd:restriction base="xsd:float">
+                                    <xsd:minExclusive value="0.0" />
+                                </xsd:restriction>
+                            </xsd:simpleType>
+                        </xsd:element>
+                        <xsd:element name="unit">
+                            <xsd:simpleType>
+                                <xsd:restriction base="xsd:string">
+                                    <xsd:enumeration value="m" />
+                                </xsd:restriction>
+                            </xsd:simpleType>
+                        </xsd:element>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:simpleType name="SiteNumberType">
+        <xsd:restriction base="xsd:nonNegativeInteger" />
+    </xsd:simpleType>
+
+    <xsd:simpleType name="RNOType">
+        <xsd:restriction base="xsd:nonNegativeInteger" />
+    </xsd:simpleType>
+
+    <xsd:simpleType name="TROType">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="\d+/\d+-\d+" />
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:complexType name="Wgs84CoordinatesType">
+        <xsd:attribute name="lat" type="latitudeType" />
+        <xsd:attribute name="lon" type="longitudeType" />
+    </xsd:complexType>
+
+    <xsd:simpleType name="latitudeType">
+        <xsd:restriction base="xsd:decimal">
+            <xsd:minInclusive value="-90.0" />
+            <xsd:maxInclusive value="90.0" />
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="longitudeType">
+        <xsd:restriction base=" xsd:decimal ">
+            <xsd:minInclusive value="-180.0" />
+            <xsd:maxExclusive value="180.0" />
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:complexType name="ObstimeType">
+        <xsd:sequence>
+            <xsd:element name="utc" type="xsd:dateTime" />
+            <xsd:element name="localtime" type="xsd:dateTime" />
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:simpleType name="LinkNumberType">
+        <xsd:restriction base="xsd:nonNegativeInteger" />
+    </xsd:simpleType>
+</xsd:schema>
