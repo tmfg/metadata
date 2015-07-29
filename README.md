@@ -38,3 +38,8 @@
 |file |fi |en |
 |:-----|:---|:---|
 |meta_traffic_stations.csv|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|
+
+
+![Creative Commons -lisenssi](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+Digitraffic, jonka tekijä on Liikennevirasto, on lisensoitu Creative Commons Nimeä 4.0 Kansainvälinen -lisenssillä. Tämän lisenssin antamia oikeuksia laajempia lupia voi olla saatavilla osoitteessa http://www.liikennevirasto.fi.
