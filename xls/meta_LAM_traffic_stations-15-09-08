@@ -1,0 +1,589 @@
+NUMERO	LAM_NUMERO	TSA_NIMI	NIMI_FI	NIMI_SE	NIMI_EN	TIE	TIEOSA	ETAISYYS	X	Y	KORKEUS	MAAKUNNAN_NIMI
+23117	117	L_vt1_Munkkiniemi	Tie 1 Munkkiniemi	Väg 1 Munksnäs	Road 1 Munkkiniemi	1	3	500	6675908	382080	0	Uusimaa
+23103	103	L_vt1_Huopalahti	Tie 1 Huopalahti	Väg 1 Hoplax	Road 1 Huopalahti	1	3	2210	6676244	380439	0	Uusimaa
+23144	144	L_vt1_Friisinmäki	Tie 1 Friisinmäki	Väg 1 Frisbacka	Road 1 Friisinmäki	1	4	1200	6676527	377730	0	Uusimaa
+23167	167	L_vt1_Sepänkylä	Tie 1 Sepänkylä	Väg 1 Smedsby	Road 1 Sepänkylä	1	5	900	6676185	374799	0	Uusimaa
+23175	175	L_vt1_Lommila	Tie 1, Espoo, Lommila	Väg 1, Esbo; Lommila	Road 1, Espoo, Lommila	1	5	5820	6677702	370424	0	Uusimaa
+23139	139	L_vt1_Nupuri	Tie 1 Nupuri	Väg 1 Nupurböle	Road 1 Nupuri	1	6	2930	6679497	367058	0	Uusimaa
+23191	191	L_vt1_Kolmiranta	Tie 1 Espoo, Kolmiranta	Väg 1 Esbo, Kolmiranta	Road 1 Espoo, Kolmiranta	1	7	4030	6682714	361701	0	Uusimaa
+23192	192	L_vt1_Veikkola	Tie 1 Veikkola	Väg 1 Veikkola	Road 1 Veikkola	1	8	2638	6686176	357185	0	Uusimaa
+23104	104	L_vt1_Palojärvi	Tie 1 Palojärvi	Väg 1 Palojärvi	Road 1 Palojärvi	1	9	1058	6686926	353186	0	Uusimaa
+23193	193	L_vt1_Hevoskallio	Tie 1 Hevoskallio	Väg 1 Hevoskallio	Road 1 Hevoskallio	1	10	2100	6688221	348231	0	Uusimaa
+23194	194	L_vt1_Lehmijärvi	Tie 1 Lohja, Lehmijärvi	Väg 1 Lojo, Lehmijärvi	Road 1 Lohja, Lehmijärvi	1	11	3797	6686870	342934	0	Uusimaa
+24607	1607	L_vt1_Karnainen	Tie 1 Karnainen	Väg 1 Karnais	Road 1 Karnainen	1	12	2234	6687149	338543	0	Uusimaa
+24606	1606	L_vt1_Pitkämäki	Tie 1 Pitkämäki	Väg 1 Pitkämäki	Road 1 Pitkämäki	1	14	2233	6691946	330789	0	Uusimaa
+24605	1605	L_vt1_Hauklampi	Tie 1 Hauklampi	Väg 1 Hauklampi	Road 1 Hauklampi	1	15	3515	6696360	327489	0	Uusimaa
+23106	106	L_vt2_Huhmari	Tie 2 Huhmari	Väg 2 Huhmari	Road 2 Huhmari	2	1	3767	6688796	353330	0	Uusimaa
+23122	122	L_vt2_Karkkila	Tie 2 Karkkila	Väg 2 Högfors	Road 2 Karkkila	2	15	5038	6718596	344047	0	Uusimaa
+23164	164	L_vt3_Kivihaka	Tie 3 Kivihaka	Väg 3 Stenhagen	Road 3 Kivihaka	3	101	2700	6676863	383747	0	Uusimaa
+23152	152	L_vt3_Pirkkola	Tie 3 Pirkkola	Väg 3 Britas	Road 3 Pirkkola	3	101	4400	6678474	383857	0	Uusimaa
+23165	165	L_vt3_Hakuninmaa	Tie 3 Hakuninmaa	Väg 3 Håkansåker	Road 3 Hakuninmaa	3	101	8550	6682238	382554	0	Uusimaa
+23107	107	L_vt3_Kaivoksela	Tie 3 Kaivoksela	Väg 3 Gruvsta	Road 3 Kaivoksela	3	102	799	6683225	382384	0	Uusimaa
+23137	137	L_vt3_Keimola	Tie 3 Keimola	Väg 3 Käinby	Road 3 Keimola	3	103	4180	6689682	379810	0	Uusimaa
+23108	108	L_vt3_Karhunkorpi	Tie 3 Karhunkorpi	Väg 3 Karhunkorpi	Road 3 Karhunkorpi	3	106	4555	6708633	382006	0	Uusimaa
+23154	154	L_vt4_Viikinmäki	Tie 4 Viikinmäki	Väg 4 Viksbacka	Road 4 Viikinmäki	4	102	1000	6677716	388568	0	Uusimaa
+23109	109	L_vt4_Jakomäki	Tie 4 Jakomäki	Väg 4 Jakobacka	Road 4 Jakomäki	4	103	2500	6681366	393115	0	Uusimaa
+23110	110	L_vt4_Mäntsälä	Tie 4 Mäntsälä	Väg 4 Mäntsälä	Road 4 Mäntsälä	4	110	4543	6718426	403180	0	Uusimaa
+23998	998	L_vt4_Mäntsälä_E	Tie 4 Mäntsälä, etelä	Väg 4 Mäntsälä, söder	Road 4 Mäntsälä, south	4	111	1000	6719385	403987	0	Uusimaa
+23999	999	L_vt4_Mäntsälä_P	Tie 4 Mäntsälä, pohjoinen	Väg 4 Mäntsälä, norr	Road 4 Mäntsälä, north	4	114	1000	6728098	410744	0	Uusimaa
+23142	142	L_vt4_Levanto	Tie 4 Mäntsälä, Levanto	Väg 4 Mäntsälä, Levanto	Road 4 Mäntsälä, Levanto	4	115	4391	6734462	415051	0	Uusimaa
+23111	111	L_vt6_Liljendal	Tie 6 Liljendal	Väg 6 Liljendal	Road 6 Liljendal	6	117	2820	6713956	447847	0	Uusimaa
+23179	179	L_vt7_Fazerila	Tie 7 Länsimäentie	Väg 7 Västerkullavägen	Road 7 Länsimäentie	7	1	2300	6681219	395512	0	Uusimaa
+23141	141	L_vt7_Box	Tie 7 Sipoo, Box	Väg 7 Sibbo, Box	Road 7 Sipoo, Box	7	5	1360	6686113	410475	0	Uusimaa
+23112	112	L_vt7_Treksilä	Tie 7 Porvoo, Treksilä	Väg 7 Borgå, Drägsby	Road 7 Porvoo, Treksilä	7	7	3888	6691863	418936	0	Uusimaa
+23001	1	L_vt7_Rita	Tie 7 Porvoo, Rita	Väg 7 Borgå, Rita	Road 7 Porvoo, Rita	7	10	1050	6698674	427934	0	Uusimaa
+23184	184	L_vt7_Porvoo_Uusikrouvi	Tie 7 Porvoo_Uusikrouvi	Väg 7 Porvoo_Uusikrouvi	Road 7 Porvoo_Uusikrouvi	7	11	2519	6699480	431163	0	Uusimaa
+23185	185	L_vt7_Porvoo_Lohijärvi	Tie 7 Porvoo_Lohijärvi	Väg 7 Porvoo_Lohijärvi	Road 7 Porvoo_Lohijärvi	7	12	2281	6700957	435244	0	Uusimaa
+23186	186	L_vt7_Loviisa_Gammelbyviken	Tie 7 Loviisa_Gammelbyviken	Väg 7 Loviisa_Gammelbyviken	Road 7 Loviisa_Gammelbyviken	7	14	1243	6706533	440304	0	Uusimaa
+23187	187	L_vt7_Loviisa_Kärrbacka	Tie 7 Loviisa_Kärrbacka	Väg 7 Loviisa_Kärrbacka	Road 7 Loviisa_Kärrbacka	7	17	4483	6704427	451561	0	Uusimaa
+23188	188	L_vt7_Loviisa	Tie 7 Loviisa	Väg 7 Loviisa	Road 7 Loviisa	7	19	1181	6703458	456656	0	Uusimaa
+23189	189	L_vt7_Loviisa_Itä	Tie 7 Loviisa_Itä	Väg 7 Loviisa_Öster	Road 7 Loviisa_East	7	20	976	6704982	460356	0	Uusimaa
+23124	124	L_vt25_Dragsvik	Tie 25 Dragsvik	Väg 25 Dragsvik	Road 25 Dragsvik	25	11	2220	6656312	305972	0	Uusimaa
+23114	114	L_vt25_Virkkala	Tie 25 Virkkala	Väg 25 Virkby	Road 25 Virkkala	25	19	5020	6677770	334498	0	Uusimaa
+23129	129	L_vt25_Selki	Tie 25 Vihti, Selki	Väg 25 Vichtis, Selki	Road 25 Vihti, Selki	25	27	1550	6705061	364063	0	Uusimaa
+23133	133	L_vt25_Noppo	Tie 25 Hyvinkää, Noppo	Tie 25 Hyvinge, Noppo	Road 25 Hyvinkää, Noppo	25	32	2220	6717984	381344	0	Uusimaa
+23130	130	L_vt25_Keravanjärvi	Tie 25 Mäntsälä, Keravanjä	Väg 25 Mäntsälä, Keravanjärv	Road 25 Mäntsälä, Keravanjärvi	25	34	5000	6721690	395326	0	Uusimaa
+23153	153	L_kt45_Oulunkylä	Tie 45 Oulunkylä	Väg 45 Åggelby	Road 45 Oulunkylä	45	1	4900	6677982	386053	0	Uusimaa
+23131	131	L_kt45_Tammisto	Tie 45 Tammisto	Väg 45 Rosendal	Road 45 Tammisto	45	2	3200	6681789	387481	0	Uusimaa
+23127	127	L_kt45_Rusutjärvi	Tie 45 Tuusula, Rusutjärvi	Väg 45 Tusby, Rusutjärvi	Road 45 Tuusula, Rusutjärvi	45	6	3360	6701271	389153	0	Uusimaa
+23125	125	L_kt50_Bemböle	Tie 50 Bemböle	Väg 50 Bemböle	Road 50 Bemböle	50	2	2400	6676391	367386	0	Uusimaa
+23140	140	L_kt50_Järvenperä	Tie 50 Järvenperä	Väg 50 Träskända	Road 50 Järvenperä	50	3	3703	6680265	372446	0	Uusimaa
+23183	183	L_kt50_Järvenperä2	Tie 50 Järvenperä 2	Väg 50 Träskända 2	Road 50 Järvenperä 2	50	4	0	6681672	373487	0	Uusimaa
+23168	168	L_kt50_Askisto	Tie 50 Askisto	Väg 50 Askis	Road 50 Askisto	50	4	4322	6683892	377033	0	Uusimaa
+23159	159	L_kt50_Petikko	Tie 50 Petikko	Väg 50 Petikko	Road 50 Petikko	50	5	650	6684296	379140	0	Uusimaa
+23128	128	L_kt50_Voutila	Tie 50 Voutila	Väg 50 Brutuby	Road 50 Voutila	50	6	1351	6686385	382905	0	Uusimaa
+23169	169	L_kt50_Pakkala	Tie 50 Pakkala	Väg 50 Backas	Road 50 Pakkala	50	6	4908	6686102	386299	0	Uusimaa
+23150	150	L_kt50_Vantaanportti	Tie 50 Vantaanportti	Väg 50 Vandaporten	Road 50 Vantaanportti	50	6	6748	6685466	387912	0	Uusimaa
+23160	160	L_kt50_Heidehof	Tie 50 Heidehof	Väg 50 Heidehof	Road 50 Heidehof	50	7	3800	6684239	391965	0	Uusimaa
+23182	182	L_kt50_Hakunila	Tie 50 Hakunila	Väg 50 Håkansböle	Road 50 Hakunila	50	8	660	6683145	394779	0	Uusimaa
+23101	101	L_kt51_Hanasaari	Tie 51 Hanasaari	Väg 51 Hanaholmen	Road 51 Hanasaari	51	2	1614	6671756	380562	0	Uusimaa
+23102	102	L_kt51_Soukka	Tie 51 Soukka	Väg 51 Sökö	Road 51 Soukka	51	6	3600	6671408	369171	0	Uusimaa
+23143	143	L_kt51_Sundsberg	Tie 51 Sundsberg	Väg 51 Sundsberg	Road 51 Sundsberg	51	7	3950	6669685	364195	0	Uusimaa
+23156	156	L_kt51_Jorvas	Tie 51 Jorvas	Väg 51 Jorvas	Road 51 Jorvas	51	8	2700	6667943	360905	0	Uusimaa
+23134	134	L_kt51_Inkoo	Tie 51 Inkoo	Väg 51 Ingå	Road 51 Inkoo	51	13	2030	6661785	337223	0	Uusimaa
+23115	115	L_kt55_Saksala	Tie 55 Saksala	Väg 55 Saxby	Road 55 Saksala	55	1	4229	6698605	422683	0	Uusimaa
+23197	197	L_st100_Kivihaan_tunneli	Tie 100, Hakamäen tunneli	Väg 100, Hakamäen tunneli	Rod 100, Hakamäen tunneli	100	1	770	6676439	384073	0	Uusimaa
+23118	118	L_st101_Keilaniemi	Tie 101 Keilaniemi	Väg 101 Kägeludden	Road 101 Keilaniemi	101	1	278	6672635	379386	0	Uusimaa
+23116	116	L_st101_Leppävaara	Tie 101 Leppävaara	Väg 101 Alberga	Road 101 Leppävaara	101	3	490	6677147	378948	0	Uusimaa
+23126	126	L_st101_Konala	Tie 101 Konala	Väg 101 Kånala	Road 101 Konala	101	4	2045	6678813	380580	0	Uusimaa
+23145	145	L_st101_Kannelmäki	Tie 101 Kannelmäki	Väg 101 Gamlas	Road 101 Kannelmäki	101	5	1000	6679379	382456	0	Uusimaa
+23146	146	L_st101_Länsi-Pakila	Tie 101 Länsi-Pakila	Väg 101 Västra Baggböle	Road 101 Länsi-Pakila	101	6	700	6679703	383931	0	Uusimaa
+23147	147	L_st101_Pakila	Tie 101 Pakila	Väg 101 Baggböle	Road 101 Pakila	101	6	2600	6680241	386013	0	Uusimaa
+23148	148	L_st101_Pukinmäki	Tie 101 Pukinmäki	Väg 101 Bocksbacka	Road 101 Pukinmäki	101	7	1800	6680380	387942	0	Uusimaa
+23149	149	L_st101_Malmi	Tie 101 Malmi	Väg 101 Malm	Road 101 Malmi	101	7	4000	6680071	390191	0	Uusimaa
+23162	162	L_st102_Olarinluoma	Tie 102 Olarinluoma	Väg 102 Olarsbäcken	Road 102 Olarinluoma	102	1	1331	6673158	375250	0	Uusimaa
+23163	163	L_st102_Kokinkylä	Tie 102 Kokinkylä	Väg 102 Kockby	Road 102 Kokinkylä	102	2	1071	6674967	375030	0	Uusimaa
+23195	195	L_st103_Satamatie	Tie 103, Satamatie	Väg 103, Satamatie	 Road 103, Satamatie	103	1	2160	6679674	397783	0	Uusimaa
+23105	105	L_st110_Hiidenvesi	Tie 110 Hiidenvesi	Väg 110 Hiidenvesi	Road 110 Hiidenvesi	110	14	2530	6696109	342048	0	Uusimaa
+23151	151	L_st120_Pitäjänmäki	Tie 120 Pitäjänmäki	Väg 120 Sockenbacka	Road 120 Pitäjänmäki	120	2	250	6678163	382410	0	Uusimaa
+23123	123	L_st120_Pähkinärinne	Tie 120 Pähkinärinne	Väg 120 Hasselbacken	Road 120 Pähkinärinne	120	3	2580	6681399	379841	0	Uusimaa
+23138	138	L_st120_Odilampi	Tie 120 Odilampi	Väg 120 Odilampi	Road 120 Odilampi	120	4	5000	6687322	375348	0	Uusimaa
+23136	136	L_st140_Arola	Tie 140 Arola	Väg 140 Arola	Road 140 Arola	140	9	4240	6713501	400809	0	Uusimaa
+23155	155	L_st170_Kulosaari	Tie 170 Kulosaari	Väg 170 Brändö	Road 170 Kulosaari	170	1	1400	6674402	388829	0	Uusimaa
+23135	135	L_st170_Ilola	Tie 170 Ilola	Väg 170 Illby	Road 170 Ilola	170	12	4360	6701930	430951	0	Uusimaa
+23158	158	L_st170_Hagaböle	Tie 170 Hagaböle	Väg 170 Hagaböle	Road 170 Hagaböle	170	16	3330	6705977	444612	0	Uusimaa
+23121	121	L_yt11888_Liljendal2	Tie 11888 Liljendal	Väg 11888 Liljendal	Road 11888 Liljendal	11888	2	2388	6713154	446481	0	Uusimaa
+23196	196	L_Niinisaarentie	Helsinki, Niinisaarentie	Helsingfors, Niinisaarentie	Helsinki, Niinisaarentie	40946	3	590	6677390	398025	0	Uusimaa
+23199	199	L_Olari	Merituulentie, Espoo	Havsvindsvägen, Esbo	Merituulentie, Espoo	99999	1	1199	6672520	376327	0	Uusimaa
+24604	1604	L_vt1_Lahnajärvi	Tie 1 Lahnajärvi	Väg 1 Lahnajärvi	Road 1 Lahnajärvi	1	17	2205	6697783	319500	0	Varsinais-Suomi
+24603	1603	L_vt1_Syvälampi	Tie 1 Syvälampi	Väg 1 Syvälampi	Road 1 Syvälampi	1	18	4586	6698242	314320	0	Varsinais-Suomi
+24602	1602	L_vt1_Kruusila	Tie 1 Salo, Kruusila	Väg 1 Salo, Kruusila	Road 1 Salo, Kruusila	1	20	6303	6698961	305869	0	Varsinais-Suomi
+24601	1601	L_vt1_Lakiamäki	Tie 1 Lakiamäki	Väg 1 Lakiamäki	Road 1 Lakiamäki	1	21	4143	6698335	300283	0	Varsinais-Suomi
+23248	248	L_vt1_Muurla	Tie 1 Muurla	Väg 1 Muurla	Road 1 Muurla	1	22	1444	6699972	296355	0	Varsinais-Suomi
+23247	247	L_vt1_Isokylä_läntinen	Tie 1 Isokylä	Väg 1 Storby	Road 1 Isokylä	1	24	958	6703840	288033	0	Varsinais-Suomi
+23246	246	L_vt1_Halikko	Tie 1 Halikko	Väg 1 Halikko	Road 1 Halikko	1	25	63	6704186	286259	0	Varsinais-Suomi
+23245	245	L_vt1_Hajala	Tie 1 Hajala	Väg 1 Hajala	Road 1 Hajala	1	26	4392	6705950	278162	0	Varsinais-Suomi
+23244	244	L_vt1_Vista	Tie 1 Vista	Väg 1 Vista	Road 1 Vista	1	28	3278	6707148	263887	0	Varsinais-Suomi
+23243	243	L_vt1_Paimionmäki	Tie 1 Paimionmäki	Väg 1 Paimionmäki	Road 1 Paimionmäki	1	29	2299	6706612	262552	0	Varsinais-Suomi
+23242	242	L_vt1_Paimionjoki	Tie 1 Paimionjoki	Väg 1 Pemarån	Road 1 Paimionjoki	1	30	1067	6707101	261005	0	Varsinais-Suomi
+23227	227	L_vt1_Kirismäki	Tie 1 Piikkiö, Kirismäki	Väg 1 Pikis, Kirismäki	Road 1 Piikkiö, Kirismäki	1	31	4794	6709166	253081	0	Varsinais-Suomi
+23240	240	L_vt1_Piikkiö	Tie 1 Piikkiö	Väg 1 Pikis	Road 1 Piikkiö	1	32	905	6708863	251073	0	Varsinais-Suomi
+23239	239	L_vt1_Kaarina	Tie 1 Kaarina	Väg 1 S:t Karins	Road 1 Kaarina	1	33	2485	6707636	247007	0	Varsinais-Suomi
+23238	238	L_vt1_Kurkela_itäinen	Tie 1 Kurkela I	Väg 1 Kurkela Ö	Road 1 Kurkela E	1	34	867	6707368	244731	0	Varsinais-Suomi
+23237	237	L_vt1_Kurkela_läntinen	Tie 1 Kurkela L	Väg 1 Kurkela V	Road 1 Kurkela W	1	35	812	6707708	243281	0	Varsinais-Suomi
+23236	236	L_vt1_Huhkola	Tie 1 Huhkola	Väg 1 Huhkola	Road 1 Huhkola	1	35	1413	6707959	242946	0	Varsinais-Suomi
+23235	235	L_vt1_Kupittaa	Tie 1 Kupittaa	Väg 1 Kupittaa	Road 1 Kupittaa	1	36	1302	6710204	241882	0	Varsinais-Suomi
+23249	249	L_vt8_Ihala	Tie 8 Ihala	Väg 8 Ihala	Road 8 Ihala	8	102	5700	6714128	235535	0	Varsinais-Suomi
+23205	205	L_vt8_Raisio	Tie 8 Raisio	Väg 8 Reso	Road 8 Raisio	8	103	1870	6716293	234549	0	Varsinais-Suomi
+23250	250	L_vt8_Masku	Tie 8 Masku	Väg 8 Masko	Road 8 Masku	8	105	1512	6726405	231119	0	Varsinais-Suomi
+23206	206	L_vt8_Pyhäranta	Tie 8 Pyhäranta	Väg 8 Pyhäranta	Road 8 Pyhäranta	8	114	3265	6773262	207045	0	Varsinais-Suomi
+23208	208	L_vt9_Aura	Tie 9 Aura	Väg 9 Aura	Road 9 Aura	9	105	2993	6726048	251921	0	Varsinais-Suomi
+23253	253	L_vt10_Satiaismäki	Tie 10 Lieto, Satiaismäki	Väg 10 Lundo, Satiaismäki	Road 10 Lieto, Satiaismäki	10	2	649	6713397	245514	0	Varsinais-Suomi
+23230	230	L_vt10_Lieto	Tie 10 Lieto	Väg 10 Lundo	Road 10 Lieto	10	2	4686	6715408	248934	0	Varsinais-Suomi
+23209	209	L_vt10_Marttila	Tie 10 Marttila	Väg 10 S:t Mårtens	Road 10 Marttila	10	7	4084	6726982	276938	0	Varsinais-Suomi
+23231	231	L_kt40_Vanto	Tie 40 Raisio, Vanto	Väg 40 Reso, Vanto	Road 40 Raisio, Vanto	40	1	3657	6713730	229946	0	Varsinais-Suomi
+23251	251	L_kt40_Krookila	Tie 40 Raisio, Krookila	Väg 40 Reso, Krookila	Road 40 Raisio, Krookila	40	2	2039	6713674	233176	0	Varsinais-Suomi
+23233	233	L_kt40_Hauninen	Tie 40 Raisio, Hauninen	Väg 40 Reso, Hauninen	Road 40 Raisio, Hauninen	40	3	2525	6715782	237542	0	Varsinais-Suomi
+23234	234	L_kt40_Oriketo	Tie 40 Turku, Oriketo	Väg 40 Åbo, Oriketo	Road 40 Turku, Oriketo	40	4	1992	6714723	242676	0	Varsinais-Suomi
+23229	229	L_kt40_Tuulissuo	Tie 40 Tuulisuo	Väg 40 Tuulisuo	Road 40 Tuulisuo	40	5	5682	6711506	248323	0	Varsinais-Suomi
+23201	201	L_st110_Muurla1	Tie 110 Muurla	Väg 110 Muurla	Road 110 Muurla	110	23	3240	6697881	299085	0	Varsinais-Suomi
+23228	228	L_st110_Kevola	Tie 110 Kevola	Väg 110 Kevola	Road 110 Kevola	110	30	2767	6704521	268189	0	Varsinais-Suomi
+23254	254	L_st180_Kuusisto	Tie 180 Kuusisto	Väg 180 Kuusisto	Road 180 Kuusisto	180	1	7180	6701349	244132	0	Varsinais-Suomi
+23225	225	L_st180_Parainen	Tie 180 Parainen	Väg 180 Pargas	Road 180 Parainen	180	6	3660	6688156	233388	0	Varsinais-Suomi
+23255	255	L_st180_Simonby	Tie 180 Simonby	Väg 180 Simonby	Road 180 Simonby	180	8	4614	6683306	225321	0	Varsinais-Suomi
+23252	252	L_st185_Artukainen	Tie 185 Turku, Artukainen	Väg 185 Åbo, Artukainen	Road 185 Turku, Artukainen	185	1	1320	6712420	235262	0	Varsinais-Suomi
+23257	257	L_yt1851_Turku_Härkämäki	Tie 42505, Turku, Suikkilantie	Väg 42505, Åbo, Suikkilantie	Road 42505, Turku, Suikkilantie	1851	1	2054	6712566	236237	0	Varsinais-Suomi
+23221	221	L_vt2_Nakkila	Tie 2 Nakkila	Väg 2 Nakkila	Road 2 Nakkila	2	45	601	6813355	232111	0	Satakunta
+23232	232	L_vt2_Porin_lentokent	Tie 2 Pori, lentokenttä	Väg 2 Björneborg, flygplats	Road 2 Pori, airport	2	47	1126	6824289	223867	0	Satakunta
+23223	223	L_vt8_Eurajoki	Tie 8 Eurajoki	Väg 8 Euraåminne	Road 8 Eurajoki	8	120	381	6793570	211146	0	Satakunta
+23207	207	L_vt8_Pori	Tie 8 Pori	Väg 8 Björneborg	Road 8 Pori	8	202	2395	6834489	224238	0	Satakunta
+23224	224	L_vt11_Kullaa	Tie 11 Kullaa	Väg 11 Kulla	Road 11 Kullaa	11	15	3553	6823756	255230	0	Satakunta
+23211	211	L_vt12_Lappi_tl	Tie 12 Lappi tl	Väg 12 Lappi tl	Road 12 Lappi tl	12	104	2365	6786181	216056	0	Satakunta
+23226	226	L_vt23_Kankaanpää	Tie 23 Kankaanpää	Väg 23 Kankaanpää	Road 23 Kankaanpää	23	106	2790	6860012	249263	0	Satakunta
+23403	403	L_vt2_Humppila	Tie 2 Humppila	Väg 2 Humppila	Road 2 Humppila	2	28	3240	6764749	299039	0	Kanta-Häme
+23429	429	L_vt3_Riihimäki_Herajoki	Tie 3 Riihimäki	Väg 3 Riihimäki	Road 3 Riihimäki	3	110	6230	6732931	376354	0	Kanta-Häme
+23432	432	L_vt3_Janakkala	Tie 3 Janakkala	Väg 3 Janakkala	Road 3 Janakkala	3	114	333	6749150	369295	0	Kanta-Häme
+23465	465	L_vt3_Hämeenlinna_E	Tie 3 Hämeenlinna, etelä	Väg 3 Tavastehus, söder	Road 3 Hämeenlinna, south	3	116	2329	6764297	362573	0	Kanta-Häme
+23466	466	L_vt3_Hämeenlinna_P	Tie 3 Hämeenlinna, pohjoinen	Väg 3 Tavastehus, nord	Road 3 Hämeenlinna, north	3	116	3526	6765491	362178	0	Kanta-Häme
+23437	437	L_vt3_Hlinna_Mo3	Tie 3 Hämeenlinna	Väg 3 Tavastehus	Road 3 Hämeenlinna	3	117	435	6767051	360229	0	Kanta-Häme
+23425	425	L_vt10_Tammela	Tie 10 Tammela	Väg 10 Tammela	Road 10 Tammela	10	18	3950	6747970	325310	0	Kanta-Häme
+23405	405	L_vt10_Hämeenlinna	Tie 10 Hämeenlinna	Väg 10 Tavastehus	Road 10 Hämeenlinna	10	29	3190	6770188	373983	0	Kanta-Häme
+23426	426	L_vt12_Hauho	Tie 12 Hauho	Väg 12 Hauho	Road 12 Hauho	12	213	1449	6782633	375439	0	Kanta-Häme
+23428	428	L_kt54_Loppi	Tie 54 Loppi	Väg 54 Loppi	Road 54 Loppi	54	6	2460	6735916	357970	0	Kanta-Häme
+23408	408	L_kt54_Hausjärvi	Tie 54 Hausjärvi	Väg 54 Hausjärvi	Road 54 Hausjärvi	54	13	4511	6741223	389740	0	Kanta-Häme
+23440	440	L_vt3_Lempäälä_Lippo	Tie 3 Lempäälä	Väg 3 Lembois	Road 3 Lempäälä	3	124	3390	6795061	330298	0	Pirkanmaa
+23401	401	L_vt3_Lempäälä_Sääksjärvi	Tie 3 Lempäälä, Kulju	Väg 3 Lembois, Kulju	Road 3 Lempäälä, Kulju	3	134	5138	6812693	327607	0	Pirkanmaa
+23449	449	L_vt3_Tre_Sarankulma	Tie 3 Sarankulma	Väg 3 Sarankulma	Road 3 Sarankulma	3	136	1340	6818410	326671	0	Pirkanmaa
+23460	460	L_vt3_Pirkkala_Huovi	Tie 3 Pirkkala, Huovi	Väg 3 Birkala, Huovi	Road 3 Pirkkala, Huovi	3	137	230	6817834	320671	0	Pirkanmaa
+23463	463	L_vt3_Pirkkala_Sankila	Tie 3 Pirkkala, Sankila	Väg 3 Birkala, Sankila	Road 3 Pirkkala, Sankila	3	137	1476	6818632	319773	0	Pirkanmaa
+23462	462	L_vt3_Nokia_Rajasalmi	Tie 3 Nokia, Rajasalmi	Väg 3 Nokia, Rajasalmi	Road 3 Nokia, Rajasalmi	3	138	1660	6820796	318305	0	Pirkanmaa
+23450	450	L_vt3_Myllypuro	Tie 3 Myllypuro	Väg 3 Myllypuro	Road 3 Myllypuro	3	139	1406	6825020	317305	0	Pirkanmaa
+23203	203	L_vt3_Hämeenkyrö	Tie 3 Hämeenkyrö	Väg 3 Tavastkyro	Road 3 Hämeenkyrö	3	204	2289	6833267	310572	0	Pirkanmaa
+23204	204	L_vt3_Ikaalinen	Tie 3 Ikaalinen	Väg 3 Ikalis	Road 3 Ikaalinen	3	214	1530	6870752	288743	0	Pirkanmaa
+23445	445	L_vt9_Kylmäkoski	Tie 9 Kylmäkoski	Väg 9 Kylmäkoski	Road 9 Kylmäkoski	9	122	7250	6780101	319520	0	Pirkanmaa
+23435	435	L_vt9_Tre_Karkuvuori	Tie 9 Karkuvuori	Väg 9 Karkuvuori	Road 9 Karkuvuori	9	204	2190	6818439	329993	0	Pirkanmaa
+23451	451	L_vt9_Tre_Aitovuori	Tie 9 Aitovuori	Väg 9 Aitovuori	Road 9 Aitovuori	9	206	4470	6824992	337269	0	Pirkanmaa
+23404	404	L_vt9_Kangasala_Suinula	Tie 9 Suinula	Väg 9 Suinula	Road 9 Suinula	9	208	1525	6828070	344002	0	Pirkanmaa
+23448	448	L_vt9_Längelmäki	Tie 9 Längelmäki, Solttila	Väg 9 Längelmäki, Solttila	Road 9 Längelmäki, Solttila	9	214	3028	6846653	378703	0	Pirkanmaa
+23406	406	L_vt11_Nokia_Linnavuori	Tie 11 Nokia	Väg 11 Nokia	Road 11 Nokia	11	4	3655	6824081	306705	0	Pirkanmaa
+23210	210	L_vt12_Vammala	Tie 12 Vammala	Väg 12 Vammala	Road 12 Vammala	12	118	1600	6804815	277250	0	Pirkanmaa
+23438	438	L_vt12_Tre_Paasikiventie	Tie 12 Uittotunneli	Väg 12 Flottningstunnel	Road 12 Log floating tunnel	12	127	480	6823923	324357	0	Pirkanmaa
+23453	453	L_vt12_Tre_Mustalahti	Tie 12 Särkänniemi	Väg 12 Särkänniemi	Road 12 Särkänniemi	12	127	3125	6823081	326568	0	Pirkanmaa
+23454	454	L_vt12_Tre_Tampella	Tie 12 Tampella	Väg 12 Tampella	Road 12 Tampella	12	127	4160	6823485	327594	0	Pirkanmaa
+23457	457	L_vt12_Tre_Petsamo	Tie 12 Petsamo	Väg 12 Petsamo	Road 12 Petsamo	12	127	5750	6823418	329034	0	Pirkanmaa
+23439	439	L_vt12_Tre_Teiskontie	Tie 12 Tampere, Keskussair	Väg 12 Tampere, Teiskontie	Road 12 Tampere, Teiskontie	12	201	1050	6823069	330891	0	Pirkanmaa
+23458	458	L_vt12_Tre_Ruotula	Tie 12 Ruotula	Väg 12 Ruotula	Road 12 Ruotula	12	201	2758	6823993	332559	0	Pirkanmaa
+23431	431	L_vt12_Kangasala_Suorama	Tie 12 Suorama	Väg 12 Suorama	Road 12 Suorama	12	202	6100	6819803	338746	0	Pirkanmaa
+23456	456	L_kt65_Tre_Lielahti	Tie 65 Tampere, Lielahti	Väg 65 Tammerfors, Lielahti	Road 65 Tampere, Lielahti	65	1	584	6824291	323337	0	Pirkanmaa
+23455	455	L_kt65_Tre_Epilänharju	Tie 65 Tampere, Epilänharju	Väg 65 Tammerfors, Epilänharju	Road 65 Tampere, Epilänharju	65	1	2072	6825022	321986	0	Pirkanmaa
+23421	421	L_kt65_Ylöjärvi	Tie 65 Ylöjärvi	Väg 65 Ylöjärvi	Road 65 Ylöjärvi	65	1	6000	6828028	319668	0	Pirkanmaa
+23409	409	L_kt66_Ruovesi	Tie 66 Ruovesi	Väg 66 Ruovesi	Road 66 Ruovesi	66	9	4500	6878914	344576	0	Pirkanmaa
+23402	402	L_st130_Jutikkala	Tie 130 Iittala	Väg 130 Iittala	Road 130 Iittala	130	19	3115	6783022	341602	0	Pirkanmaa
+23433	433	L_st130_Pispantie	Tie 130 Valkeakoski	Väg 130 Valkeakoski	Road 130 Valkeakoski	130	23	2356	6798405	336857	0	Pirkanmaa
+23422	422	L_st190_Viiala	Tie 190 Viiala	Väg 190 Viiala	Road 190 Viiala	190	2	2050	6793705	325065	0	Pirkanmaa
+23464	464	L_yt3495_Rautaharkko	Tie 3495 Rautaharkko	Väg 3495 Rautaharkko	Road 3495 Rautaharkko	3495	1	1903	6820203	328209	0	Pirkanmaa
+23436	436	L_yt13782_Nokia_Rajasalmi	Tie 13782 Nokia, Rajasalmi	Väg 13782 Nokia, Rajasalmi	Road 13782 Nokia, Rajasalmi	13782	1	1944	6820832	318243	0	Pirkanmaa
+23443	443	L_Tre_Pispalan_valtatie	Tampere, Pispalan valtatie	Tammefors, Pispalan valtatie	Tampere, Pispalan valtatie	99999	0	0	6823610	324476	0	Pirkanmaa
+23424	424	L_vt4_Renkomäki	Tie 4 Renkomäki	Väg 4 Renkomäki	Road 4 Renkomäki	4	119	3557	6753237	424633	0	Päijät-Häme
+23461	461	L_vt4_Vierumäki	Tie 4 Vierumäki	Väg 4 Vierumäki	Road 4 Vierumäki	4	205	1657	6774253	440997	0	Päijät-Häme
+23628	628	L_vt4_Murhamäki	Tie 4 Heinola, Murhamäki	Väg 4 Heinola, Murhamäki	Road 4 Heinola, Murhamäki	4	210	1626	6793992	450160	0	Päijät-Häme
+23442	442	L_vt4_Heinola_Lusi	Tie 4 Heinola, Lusi	Väg 4 Heinola, Lusi	Road 4 Heinola, Lusi	4	211	5700	6800653	449026	0	Päijät-Häme
+23623	623	L_vt4_Hartola	Tie 4 Hartola	Väg 4 Hartola	Road 4 Hartola	4	214	5196	6817932	445701	0	Päijät-Häme
+23407	407	L_vt12_Hollola	Tie 12 Hollola	Väg 12 Hollola	Road 12 Hollola	12	219	4749	6764416	407134	0	Päijät-Häme
+23446	446	L_vt12_Lahti_Kärpäsen	Tie 12 Lahti, Kärpäsenmäki	Väg 12 Lahtis, Kärpäsenmäki	Road 12 Lahti, Kärpäsenmäki	12	222	3363	6761521	423971	0	Päijät-Häme
+23447	447	L_vt12_Lahti_Joutjärvi	Tie 12 Lahti, Joutjärvi	Väg 12 Lahtis, Joutjärvi	Road 12 Lahti, Joutjärvi	12	223	3280	6760527	429546	0	Päijät-Häme
+23430	430	L_vt24_Asikkala	Tie 24 Asikkala	Väg 24 Asikkala	Road 24 Asikkala	24	4	2150	6777591	426450	0	Päijät-Häme
+23441	441	L_st140_Hollola	Tie 140 Hollola	Väg 140 Hollola	Road 140 Hollola	140	25	1530	6767679	432255	0	Päijät-Häme
+23521	521	L_vt6_Elimäki	Tie 6 Elimäki	Väg 6 Elimä	Road 6 Elimäki	6	127	610	6737970	471940	0	Kymenlaakso
+23594	594	L_vt6_Hevossuo	Tie 6 Hevossuo	Väg 6 Hevossuo	Road 6 Hevossuo	6	128	1638	6744963	475433	0	Kymenlaakso
+23595	595	L_vt6_Puhjo	Tie 6 Kuusankoski, Puhjo	Väg 6 Puhjo	Road 6 Kuusankoski, Puhjo	6	129	2018	6748569	479983	0	Kymenlaakso
+23596	596	L_vt6_Käyrälampi	Tie 6 Kouvola, Käyrälampi	Väg 6 Kouvola, Käyrälampi	Road 6 Kouvola, Käyrälampi	6	201	2887	6749853	486860	0	Kymenlaakso
+23529	529	L_vt6_Utti	Tie 6 Utti	Väg 6 Uttis	Road 6 Utti	6	202	2931	6750154	490196	0	Kymenlaakso
+23592	592	L_vt6_Metso	Tie 6 Metso	Väg 6 Metso	Road 6 Metso	6	203	5891	6752291	500120	0	Kymenlaakso
+23578	578	L_vt7_Ahvenkoski_Itä	Tie 7 Ahvenkoski2	Väg 7 Abborrfors2	Road 7 Ahvenkoski2	7	23	589	6706107	470351	0	Kymenlaakso
+23575	575	L_vt7_Pyhtää2	Tie 7 Pyhtää2	Väg 7 Pyttis2	Road 7 Pyhtää2	7	24	3091	6705650	475085	0	Kymenlaakso
+23579	579	L_vt7_Siltakylä2	Tie 7 Pyhtää, Siltakylä2	Väg 7 Pyttis, Broby2	Road 7 Pyhtää, Siltakylä2	7	25	1650	6707135	483621	0	Kymenlaakso
+23580	580	L_vt7_Mokra	Tie 7 Pyhtää, Mokra	Väg 7 Pyttis, Mokra	Road 7 Pyhtää, Mokra	7	26	3854	6707218	489629	0	Kymenlaakso
+23583	583	L_vt7_Petäjäsuo	Tie 7 Petäjäsuo	Väg 7 Petäjäsuo	Road 7 Petäjäsuo	7	27	1757	6706814	492051	0	Kymenlaakso
+23599	599	L_vt7_Leppäsaari	Tie 7 Leppäsaari	Väg 7 Leppäsaari	Road 7 Leppäsaari	7	28	701	6707199	493558	7	Kymenlaakso
+23574	574	L_vt7_Kyminlinna	Tie 7 Kyminlinna	Väg 7 Kyminlinna	Road 7 Kyminlinna	7	29	230	6707665	494647	0	Kymenlaakso
+23576	576	L_vt7_Karhula_Länsi	Tie 7 Kotka, Karhula-Länsi	Väg 7 Kotka, Karhula-Länsi	Road 7 Kotka, Karhula-Länsi	7	29	1958	6708690	495998	0	Kymenlaakso
+23577	577	L_vt7_Otsola_Länsi	Tie 7 Kotka, Otsola-Länsi	Väg 7 Kotka, Otsola-Länsi	Road 7 Kotka, Otsola-Länsi	7	30	605	6710042	497504	0	Kymenlaakso
+23572	572	L_vt7_Salminlahti	Tie 7 Salminlahti	Väg 7 Salminlahti	Road 7 Salminlahti	7	31	1616	6712719	499785	0	Kymenlaakso
+23573	573	L_vt7_Hamina_Summa	Tie 7 Hamina, Summa	Väg 7 Fredrikshamn, Summa	Road 7 Hamina, Summa	7	32	4545	6714808	504821	0	Kymenlaakso
+23302	302	L_vt7_Hamina_Lankamalmi	Tie 7 Hamina_Lnkamalmi	Väg 7 Fredrikshamn_Lnkamalmi	Road 7 Hamina_Lnkamalmi	7	32	6853	6715121	507075	0	Kymenlaakso
+23303	303	L_vt7_Hamina_Ruissalo	Tie 7 Hamina_Ruissalo	Väg 7 Fredrikshamn_Ruissalo	Road 7 Hamina_Ruissalo	7	33	764	6715955	507827	0	Kymenlaakso
+23304	304	L_vt7_Hamina_Husula	Tie 7 Hamina_Hususla	Väg 7 Fredrikshamn_Hususla	Road 7 Hamina_Hususla	7	34	942	6717383	509114	0	Kymenlaakso
+23555	555	L_vt7_Tallinmäki	Tie 7 Hamina, Tallinmäki	Väg 7 Fredrikshamn, Tallinmäki	Road 7 Hamina, Tallinmäki	7	35	3670	6716966	539365	0	Kymenlaakso
+23305	305	L_vt7_Hamina_Kolsila_itä	Tie 7 Hamina_Kolsila_itä	Väg 7 FredrikshamnKolsila_itä	Road 7 HaminaKolsila_itä	7	35	3691	6717722	514030	0	Kymenlaakso
+23525	525	L_vt7_Lelu	Tie 7 Hamina, Lelu	Väg 7 Fredrikshamn, Lelu	Road 7 Hamina, Lelu	7	36	6551	6714563	520986	0	Kymenlaakso
+23551	551	L_vt7_LAM030706	Tie 7 Virolahti, Harjula	Väg 7 Vederlax, Harjula	Road 7 Virolahti, Harjula	7	38	3860	6716966	539365	0	Kymenlaakso
+23550	550	L_vt7_Vaahterikonsuo	Tie 7 Virolahti, Vaahterikonsuo	Väg 7 Vederlax, Vaahterikonsuo	Road 7 Virolahti, Vaahterikonsuo	7	39	4710	6716966	539365	0	Kymenlaakso
+23540	540	L_vt7_Virojoki	Tie 7 Virolahti, Virojoki	Väg 7 Vederlax, Virojoki	Road 7 Virolahti, Virojoki	7	41	447	6716981	539305	0	Kymenlaakso
+23542	542	L_vt7_Turkkisuo	Tie 7 Virolahti, Turkkisuo	Väg 7 Vederlax, Turkkisuo	Road 7 Virolahti, Turkkisuo	7	41	3533	6717791	542246	0	Kymenlaakso
+23541	541	L_vt7_Mestarmäki	Tie 7 Virolahti, Mestarmäki	Väg 7 Vederlax, Mestarmäki	Road 7 Virolahti, Mestarmäki	7	41	5998	6718497	544549	0	Kymenlaakso
+23581	581	L_vt7_Vaalimaa	Tie 7 Virolahti, Vaalimaa	Väg 7 Vederlax, Vaalimaa	Road 7 Virolahti, Vaalimaa	7	42	2500	6719009	547491	0	Kymenlaakso
+23598	598	L_vt7_Vaalimaa_rask	Tie 7 Virolahti, Vaalimaa, raskas	Väg 7 Vederlax, Vaalimaa	Road 7 Virolahti, Vaalimaa	7	42	2510	6719229	547610	0	Kymenlaakso
+23502	502	L_vt12_Iitti	Tie 12 Iitti	Väg 12 Itis	Road 12 Iitti	12	228	1257	6753462	455414	0	Kymenlaakso
+23590	590	L_vt12_Tillola	Tie 12 Iitti, Tillola	Väg 12 Tillola	Road 12 Iitti, Tillola	12	231	1078	6749564	469096	0	Kymenlaakso
+23586	586	L_vt15_Kotkansaari	Tie 15 Kotka, Kotkansaari	Väg 15 Kotka, Kotkansaari	Road 15 Kotka, Kotkansaari	15	1	1769	6703120	495754	0	Kymenlaakso
+23530	530	L_vt15_Juurikorpi	Tie 15 Juurikorpi	Väg 15 Juurikorpi	Road 15 Juurikorpi	15	3	2985	6720959	495822	0	Kymenlaakso
+23591	591	L_vt15_Kiehuva	Tie 15 Kouvola, Kiehuva	Väg 15 Kouvola, Kiehuva	Road 15 Kouvola, Kiehuva	15	6	5538	6742499	488486	0	Kymenlaakso
+23527	527	L_vt15_Valkeala	Tie 15 Valkeala	Väg 15 Valkeala	Road 15 Valkeala	15	15	705	6771327	503342	0	Kymenlaakso
+23503	503	L_vt26_Saaramaa	Tie 26 Kouvola, Saaramaa	Väg 26 Kouvola, Saaramaa	Road 26 Kouvola, Saaramaa	26	8	4792	6745759	521931	0	Kymenlaakso
+23584	584	L_st170_Pyhtää	Tie 170 Pyhtää	Väg 170 Pyttis	Road 170 Pyhtää	170	25	962	6705903	482537	0	Kymenlaakso
+23501	501	L_st170_Siltakylä	Tie 170 Pyhtää, Siltakylä	Väg 170 Pyttis, Broby	Road 170 Pyhtää, Siltakylä	170	26	1491	6706665	486724	0	Kymenlaakso
+23587	587	L_vt6_Somerharju	Tie 6 Somerharju	Väg 6 Somerharju	Road 6 Somerharju	6	207	2047	6753388	520924	0	Etelä-Karjala
+23522	522	L_vt6_Luumäki	Tie 6 Luumäki	Väg 6 Luumäki	Road 6 Luumäki	6	210	1914	6755622	535774	0	Etelä-Karjala
+23556	556	L_vt6_Selkäharju	Tie 6 Selkäharju	Väg 6 Selkäharju	Road 6 Selkäharju	6	215	1100	6766415	557326	0	Etelä-Karjala
+23557	557	L_vt6_Lavola	Tie 6 Lavola	Väg 6 Lavola	Road 6 Lavola	6	216	617	6767395	560854	0	Etelä-Karjala
+23558	558	L_vt6_Mattila	Tie 6 Mattila	Väg 6 Mattila	Road 6 Mattila	6	216	2568	6767943	562723	0	Etelä-Karjala
+23559	559	L_vt6_Myllymäki	Tie 6 Myllymäki	Väg 6 Myllymäki	Road 6 Myllymäki	6	301	1248	6768149	564779	0	Etelä-Karjala
+23560	560	L_vt6_Karhuvuori	Tie 6 Karhuvuori	Väg 6 Karhuvuori	Road 6 Karhuvuori	6	302	1989	6769129	567293	0	Etelä-Karjala
+23561	561	L_vt6_Hartikkala	Tie 6 Hartikkala	Väg 6 Hartikkala	Road 6 Hartikkala	6	302	4277	6770349	569241	0	Etelä-Karjala
+23562	562	L_vt6_Mälkiä	Tie 6 Mälkiä	Väg 6 Mälkiä	Road 6 Mälkiä	6	303	1081	6771482	570701	0	Etelä-Karjala
+23534	534	L_vt6_Muukko	Tie 6 Muukko	Väg 6 Muukko	Road 6 Muukko	6	304	3636	6774901	575760	0	Etelä-Karjala
+23563	563	L_vt6_Joutseno	Tie 6 Joutseno	Väg 6 Joutseno	Road 6 Joutseno	6	305	2500	6777128	580577	0	Etelä-Karjala
+23564	564	L_vt6_Vesivalo	Tie 6 Vesivalo	Väg 6 Vesivalo	Road 6 Vesivalo	6	307	3915	6782422	590351	0	Etelä-Karjala
+23531	531	L_vt6_Vuoksenniska	Tie 6 Vuoksenniska	Väg 6 Vuoksenniska	Road 6 Vuoksenniska	6	311	1070	6790605	600445	0	Etelä-Karjala
+23524	524	L_vt6_Rautjärvi	Tie 6 Rautjärvi	Väg 6 Rautjärvi	Road 6 Rautjärvi	6	318	2733	6809806	623224	0	Etelä-Karjala
+23533	533	L_vt13_Karhusjärvi	Tie 13 Karhusjärvi	Väg 13 Karhusjärvi	Road 13 Karhusjärvi	13	240	391	6767656	573770	0	Etelä-Karjala
+23547	547	L_vt13_Nuijamaa_MP5	Tie 13 Nuijamaa	Väg 13 Nuijamaa	Road 13 Nuijamaa	13	241	3443	6761178	580764	0	Etelä-Karjala
+23582	582	L_vt13_Nuijamaa	Tie 13 Nuijamaa	Väg 13 Nuijamaa	Road 13 Nuijamaa	13	241	5078	6758637	583178	0	Etelä-Karjala
+23597	597	L_vt13_Nuijamaa_rask	Tie 13 Nuijamaa, raskaat	Väg 13 Nuijamaa	Road 13 Nuijamaa	13	241	5705	6758637	583178	0	Etelä-Karjala
+23306	306	L_vt13_Nuijamaa_Uusi	Tie 13 Nuijamaa	Väg 13 Nuijamaa	Road 13 Nuijamaa	13	241	6586	6761178	580764	0	Etelä-Karjala
+23528	528	L_kt62_Ruokolahti	Tie 62 Ruokolahti	Väg 62 Ruokolax	Road 62 Ruokolahti	62	20	2843	6805745	588373	0	Etelä-Karjala
+23535	535	L_kt62_Imatra_raja1	Tie 62 Imatra raja 1	Väg 62 Imatra gränsen 1	Road 62 Imatra border 1	62	25	3997	6779208	597965	0	Etelä-Karjala
+23532	532	L_kt62_Imatra_raja2	Tie 62 Imatra raja 2	Väg 62 Imatra gränsen 2	Road 62 Imatra border 2	62	27	71	6778405	598844	0	Etelä-Karjala
+23593	593	L_st387_Ylämaa	Tie 387 Ylämaa	Väg 387 Ylämaa	Road 387 Ylämaa	387	7	3343	6737099	554074	0	Etelä-Karjala
+23630	630	L_vt5_Kuortti	Tie 5 Pertunmaa, Kuortti	Väg 5 Pertunmaa, Kuortti	Road 5 Pertunmaa, Kuortti	5	116	6696	6807927	466982	0	Etelä-Savo
+23602	602	L_vt5_Toivola	Tie 5 Mäntyharju	Väg 5 Mäntyharju	Road 5 Mäntyharju	5	120	79	6815341	485943	0	Etelä-Savo
+23627	627	L_vt5_Nuutilanmäki	Tie 5 Juva, Nuutilanmäki	Väg 5 Jockas, Nuutilanmäki	Road 5 Juva, Nuutilanmäki	5	133	6185	6851622	531591	0	Etelä-Savo
+23603	603	L_vt5_Joroinen	Tie 5 Joroinen	Väg 5 Jorois	Road 5 Joroinen	5	142	483	6889849	543696	0	Etelä-Savo
+23631	631	L_vt5_Kuvansi_uusi	Tie 5 Kuvansi	Väg 5 Kuvansi	Road 5 Kuvansi	5	145	1883	6905287	544915	0	Etelä-Savo
+23622	622	L_vt13_Kangasniemi	Tie 13 Kangasniemi	Väg 13 Kangasniemi	Road 13 Kangasniemi	13	206	480	6884894	473893	0	Etelä-Savo
+23604	604	L_vt13_Ristiina	Tie 13 Ristiina	Väg 13 Kristina	Road 13 Ristiina	13	223	2830	6824788	513530	0	Etelä-Savo
+23526	526	L_vt13_Suomenniemi	Tie 13 Suomenniemi	Väg 13 Suomenniemi	Road 13 Suomenniemi	13	230	3106	6798364	520602	0	Etelä-Savo
+23605	605	L_vt14_Juva1	Tie 14 Juva	Väg 14 Jockas	Road 14 Juva	14	1	1203	6863130	543170	0	Etelä-Savo
+23632	632	L_vt14_Hevonpäänniemi	Tie 14 Savonlinna, Hevonpäänniemi	Väg 13 Nyslott, Hevonpäänniemi	Road 14 Savonlinna, Hevonpäänniem	14	14	1866	6859263	597282	0	Etelä-Savo
+23606	606	L_vt14_Savonlinna	Tie 14 Savonlinna	Väg 14Nyslott	Road 14 Savonlinna	14	16	1750	6861564	602538	0	Etelä-Savo
+23629	629	L_vt23_Siikamäki	Tie 23 Pieksämäki, Siikamä	Väg 23 Pieksämäki, Siikamäki	Road 23 Pieksämäki, Siikamäki	23	314	2634	6906574	520692	0	Etelä-Savo
+23607	607	L_kt72_Virtasalmi	Tie 72 Virtasalmi	Väg 72 Virtasalmi	Road 72 Virtasalmi	72	13	1100	6888117	512916	0	Etelä-Savo
+23801	801	L_vt5_Leppävirta	Tie 5 Leppävirta	Väg 5 Leppävirta	Road 5 Leppävirta	5	151	5000	6932245	535130	0	Pohjois-Savo
+23825	825	L_vt5_Hiltulanlahti	Tie 5 Hiltulanlahti	Väg 5 Hiltulanlahti	Road 5 Hiltulanlahti	5	158	1170	6964552	530463	0	Pohjois-Savo
+23832	832	L_vt5_Levänen	Tie 5 Levänen	Väg 5 Levänen	Road 5 Levänen	5	159	3490	6971237	531530	98	Pohjois-Savo
+23828	828	L_vt5_Rahusenlampi	Tie 5 Rahusenlampi	Väg 5 Rahusenlampi	Road 5 Rahusenlampi	5	201	2216	6976724	534436	0	Pohjois-Savo
+23834	834	L_vt5_Tikkalansaari				5	202	2230	6980535	534541	0	Pohjois-Savo
+23835	835	L_vt5_Sorsasalo_Vuorela				5	202	3820	6981771	535355	0	Pohjois-Savo
+23836	836	L_vt5_Vuorela				5	203	1084	6983782	535795	0	Pohjois-Savo
+23803	803	L_vt5_Siilinjärvi	Tie 5 Siilinjärvi	Väg 5 Siilinjärvi	Road 5 Siilinjärvi	5	206	3500	6997339	532690	0	Pohjois-Savo
+23826	826	L_vt5_Iisalmi	Tie 5 Iisalmi	Väg 5 Idensalmi	Road 5 Iisalmi	5	217	4750	7048448	512372	0	Pohjois-Savo
+23821	821	L_vt9_Suonenjoki	Tie 9 Suonenjoki	Väg 9 Suonenjoki	Road 9 Suonenjoki	9	323	4500	6949661	521306	0	Pohjois-Savo
+23827	827	L_vt9_Jännevirta	Tie 17 Jännevirta	Väg 17 Jännevirta	Road 17 Jännevirta	9	329	3786	6980299	544787	0	Pohjois-Savo
+23804	804	L_vt9_Tuusniemi	Tie 9 Tuusniemi	Väg 9 Tuusniemi	Road 9 Tuusniemi	9	333	5100	6971820	567789	0	Pohjois-Savo
+23807	807	L_vt27_Kiuruvesi	Tie 27 Kiuruvesi	Väg 27 Idensalmi, Kiuruvesi	Road 27 Kiuruvesi	27	21	1757	7060756	472134	0	Pohjois-Savo
+23833	833	L_kt75_Pajukoski	Tie 75 Pajukoski	Väg 75 Pajukoski	Road 75 Pajukoski	75	3	2610	7000879	541619	0	Pohjois-Savo
+23824	824	L_kt75_Nilsiä	Tie 75 Nilsiä	Väg 75 Nilsiä	Road 75 Nilsiä	75	6	3000	7003348	553703	0	Pohjois-Savo
+23805	805	L_kt75_Rautavaara	Tie 75 Rautavaara	Väg 75 Rautavaara	Road 75 Rautavaara	75	13	6500	7027677	578569	0	Pohjois-Savo
+23806	806	L_kt77_Pielavesi	Tie 77 Pielavesi	Väg 77 Pielavesi	Road 77 Pielavesi	77	24	2183	7007293	485630	0	Pohjois-Savo
+23822	822	L_kt88_Vieremä	Tie 88 Vieremä	Väg 88 Vieremä	Road 88 Vieremä	88	28	6760	7069255	498764	0	Pohjois-Savo
+23732	732	L_vt6_Kousa	Tie 6 Kesälahti, Kousa	Väg 6 Kesälax, Kousa	Road 6 Kesälahti, Kousa	6	334	6447	6874619	650616	0	Pohjois-Karjala
+23731	731	L_vt6_Reijola	Tie 6 Reijola	Väg 6 Reijola	Road 6 Reijola	6	348	1096	6936584	647282	0	Pohjois-Karjala
+23733	733	L_vt6_Joensuu2	Tie 6 Joensuu	Väg 6 Åminne	Road 6 Joensuu	6	350	2080	6945679	642696	0	Pohjois-Karjala
+23727	727	L_vt6_Kontiolahti2	Tie 6 Kontiolahti	Väg 6 Kontiolax	Road 6 Kontiolahti	6	401	5210	6950789	642764	0	Pohjois-Karjala
+23725	725	L_vt6_Juuka2	Tie 6 Juuka 2	Väg 6 Juga 2	Road 6 Juuka 2	6	414	5400	7019477	611400	0	Pohjois-Karjala
+23701	701	L_vt9_Viinijärvi	Tie 9 Viinijärvi	Väg 9 Viinijärvi	Road 9 Viinijärvi	9	345	140	6952127	607748	0	Pohjois-Karjala
+23726	726	L_vt9_Ylämylly	Tie 9 Liperi, Ylämylly	Väg 9 Liperi, Ylämylly	Road 9 Liperi, Ylämylly	9	351	2175	6946512	632476	0	Pohjois-Karjala
+23730	730	L_vt9_Noljakka	Tie 9 Noljakka	Väg 9 Noljakka	Road 9 Noljakka	9	353	808	6946692	639108	86	Pohjois-Karjala
+23729	729	L_vt9_Kaurila	Tie 70 Tohmajärvi, Kaurila	Väg 70 Tohmajärvi, Kaurila	Road 70 Tohmajärvi, Kaurila	9	360	4645	6898852	683978	0	Pohjois-Karjala
+23724	724	L_vt9_Niirala	Tie 9 Niirala	Väg 9 Niirala	Road 9 Niirala	9	361	4290	6898004	689113	0	Pohjois-Karjala
+23723	723	L_vt23_Liperi	Tie 23 Liperi	Väg 23 Libelits	Road 23 Liperi	23	417	1290	6943767	615805	0	Pohjois-Karjala
+23704	704	L_kt71_Kesälahti	Tie 71 Kesälahti	Väg 71 Kesälax	Road 71 Kesälahti	71	8	4550	6882686	636371	0	Pohjois-Karjala
+23705	705	L_kt73_Lieksa	Tie 73 Lieksa	Väg 73 Lieksa	Road 73 Lieksa	73	18	300	7023156	652733	0	Pohjois-Karjala
+23928	928	L_vt4_Joutsa	Tie 4 Joutsa	Väg 4 Joutsa	Road 4 Joutsa	4	222	4252	6852102	452298	0	Keski-Suomi
+23935	935	L_vt4_Toivakka2	Tie 4 Toivakka	Väg 4 Toivakka	Road 4 Toivakka	4	229	0	6886440	446711	0	Keski-Suomi
+23929	929	L_vt4_Hupeli	Tie 4 Hupeli	Väg 4 Hupeli	Road 4 Hupeli	4	232	526	6900759	442438	0	Keski-Suomi
+23923	923	L_vt4_Jyväskylä	Tie 4 Jyväskylä	Väg 4 Jyväskylä	Road 4 Jyväskylä	4	233	4845	6901848	436913	0	Keski-Suomi
+23933	933	L_vt4_Palokka	Tie 4 Palokka	Väg 4 Palokka	Road 4 Palokka	4	301	4620	6905839	434006	0	Keski-Suomi
+23901	901	L_vt4_Tikkakoski	Tie 4 Tikkakoski	Väg 4 Tikkakoski	Road 4 Tikkakoski	4	303	3210	6916018	432990	0	Keski-Suomi
+23902	902	L_vt4_Äänekoski	Tie 4 Äänekoski	Väg 4 Äänekoski	Road 4 Äänekoski	4	310	1450	6948036	434776	0	Keski-Suomi
+23932	932	L_vt4_Hännilänsalmi	Tie 4 Hännilänsalmi	Väg 4 Hännilänsalmi	Road 4 Hännilänsalmi	4	318	150	6990873	440169	0	Keski-Suomi
+23925	925	L_vt4_Viitasaari	Tie 4 Viitasaari	Väg 4 Viitasaari	Road 4 Viitasaari	4	323	659	7011232	433119	0	Keski-Suomi
+23930	930	L_vt9_Jämsä	Tie 9 Jämsä	Väg 9 Jämsä	Road 9 Jämsä	9	220	870	6858643	403130	0	Keski-Suomi
+23927	927	L_vt9_Korpilahti	Tie 9 Korpilahti	Väg 9 Korpilax	Road 9 Korpilahti	9	228	955	6872633	416094	0	Keski-Suomi
+23922	922	L_vt9_Muurame	Tie 9 Muurame	Väg 9 Muurame	Road 9 Muurame	9	232	4133	6884231	427535	0	Keski-Suomi
+23903	903	L_vt9_Lievestuore	Tie 9 Laukaa, Lievestuore	Väg 9 Laukas, Lievestuore	Road 9 Laukaa, Lievestuore	9	305	3273	6902160	456267	0	Keski-Suomi
+23904	904	L_vt13_Saarijärvi	Tie 13 Saarijärvi	Väg 13 Saarijärvi	Road 13 Saarijärvi	13	131	2211	6964259	401272	0	Keski-Suomi
+23931	931	L_vt18_Petäjävesi	Tie 18 Petäjävesi	Väg 18 Petäjävesi	Road 18 Petäjävesi	18	47	2950	6905470	416673	0	Keski-Suomi
+23905	905	L_vt23_Keuruu1	Tie 23 Keuruu	Väg 23 Keuru	Road 23 Keuruu	23	217	4363	6903877	373404	0	Keski-Suomi
+23921	921	L_vt24_Kuhmoinen	Tie 24 Kuhmoinen	Väg 24 Kuhmoinen	Road 24 Kuhmoinen	24	13	3194	6818457	401189	0	Keski-Suomi
+23934	934	L_st637_Tiituspohja	Tie 637 Tiituspohja	Väg 637 Tiituspohja	Road 637 Tiituspohja	637	2	1015	6908266	438898	0	Keski-Suomi
+24021	1021	L_vt3_Koskue	Tie 3 Koskue	Väg 3 Koskue	Road 3 Koskue	3	224	4016	6924970	282586	0	Etelä-Pohjanmaa
+24047	1047	L_vt3_Kurikka_Tuiskula	Tie 3 Kurikka	Väg 3 Kurikka	Road 3 Kurikka	3	234	1760	6950880	265810	0	Etelä-Pohjanmaa
+24058	1058	L_vt16_Ylistaro	Tie 16 Ylistaro	Väg 16 Ylistaro	Road 16 Ylistaro	16	7	3480	6988966	274291	0	Etelä-Pohjanmaa
+24027	1027	L_vt16_Alajärvi	Tie 16 Alajärvi	Väg 16 Alajärvi	Road 16 Alajärvi	16	20	1345	6991913	331911	0	Etelä-Pohjanmaa
+24032	1032	L_vt18_Nurmo_Munakka	Tie 18 Nurmo, Munakka	Väg 18 Nurmo, Munakka	Road 18 Nurmo, Munakka	18	9	5264	6975992	285355	0	Etelä-Pohjanmaa
+24061	1061	L_vt18_Seinäjöki_Pajuneva	Tie 18 Seinäjoki, Pajuneva	Väg 18 Seinäjoki, Pajuneva	Road 18 Seinäjoki, Pajuneva	18	10	4645	6971294	288629	0	Etelä-Pohjanmaa
+24037	1037	L_vt18_Nurmo_Uittoo	Tie 18 Nurmo	Väg 18 Nurmo	Road 18 Nurmo	18	13	615	6966579	296401	0	Etelä-Pohjanmaa
+24056	1056	L_vt18_Alavus_Kuivaskylä	Tie 18 Alavus	Väg 18 Alavo	Road 18 Alavus	18	18	3464	6942219	318548	0	Etelä-Pohjanmaa
+24033	1033	L_vt18_Alavus_Tuuri	Tie 18 Alavus	Väg 18 Alavo	Road 18 Alavus	18	20	4096	6944702	330084	0	Etelä-Pohjanmaa
+24062	1062	L_vt18_Töysä_Jokikylä	Tie 18 Töysä, Jokikylä	Väg 18 Töysä, Jokikylä	Road 18 Töysä, Jokikylä	18	21	1542	6946688	333948	0	Etelä-Pohjanmaa
+24005	1005	L_vt19_Luopajärvi	Tie 19 Luopajärvi	Väg 19 Luopajärvi	Road 19 Luopajärvi	19	2	4824	6946658	281809	0	Etelä-Pohjanmaa
+24034	1034	L_vt19_Seinäjoki	Tie 19 Seinäjoki	Väg 19 Seinäjoki	Road 19 Seinäjoki	19	6	902	6969897	288129	0	Etelä-Pohjanmaa
+24059	1059	L_vt19_Nurmo	Tie 19 Nurmo	Väg 19 Nurmo	Road 19 Nurmo	19	8	602	6972868	292506	0	Etelä-Pohjanmaa
+24007	1007	L_vt19_Lapua	Tie 19 Lapua	Väg 19 Lappo	Road 19 Lapua	19	11	4146	6985033	299048	0	Etelä-Pohjanmaa
+24049	1049	L_vt19_Lapua_Voitilanjärvi	Tie 19 Lapua	Väg 19 Lappo	Road 19 Lapua	19	14	3943	6990967	300324	0	Etelä-Pohjanmaa
+24031	1031	L_vt19_Alahärmä_Voltti	Tie 19 Alahärmä, Voltti	Väg 19 Alahärmä, Voltti	Road 19 Alahärmä, Voltti	19	21	676	7024710	289453	0	Etelä-Pohjanmaa
+24054	1054	L_kt44_Kauhajoki	Tie 44 Kauhajoki	Väg 44 Kauhajoki	Road 44 Kauhajoki	44	29	3429	6928790	252560	0	Etelä-Pohjanmaa
+24035	1035	L_kt63_Kauhava	Tie 63 Kauhava	Väg 63 Kauhava	Road 63 Kauhava	63	2	1950	7005493	301746	0	Etelä-Pohjanmaa
+24024	1024	L_kt66_Alavus_Sampsalampi	Tie 66 Alavus	Väg 66 Alavo	Road 66 Alavus	66	19	4217	6927311	325755	0	Etelä-Pohjanmaa
+24060	1060	L_kt66_Alavus_Pohjoinen	Tie 66 Alavus, pohjoinen	Väg 66 Alavus, nord	Road 66 Alavus, north	66	25	2656	6949594	324464	0	Etelä-Pohjanmaa
+24044	1044	L_kt66_Kuortane	Tie 66 Kuortane	Väg 66 Kuortane	Road 66 Kuortane	66	30	1502	6968682	322459	0	Etelä-Pohjanmaa
+24046	1046	L_kt67_Teuva	Tie 67 Teuva	Väg 67 Östermark	Road 67 Teuva	67	7	3516	6938137	226826	0	Etelä-Pohjanmaa
+24042	1042	L_kt67_Kauhajoki_P	Tie 67 Kauhajoki, pohjoine	Väg 67 Kauhajoki, pohjoinen	Road 67 Kauhajoki, north	67	14	5158	6936963	256432	0	Etelä-Pohjanmaa
+24006	1006	L_kt67_Ilmajoki	Tie 67 Ilmajoki	Väg 67 Ilmola	Road 67 Ilmajoki	67	21	1753	6964367	277010	0	Etelä-Pohjanmaa
+24039	1039	L_kt68_Ähtäri	Tie 68 Ähtäri	Väg 68 Etseri	Road 68 Ähtäri	68	7	542	6937559	347866	0	Etelä-Pohjanmaa
+24055	1055	L_kt68_Lehtimäki	Tie 68 Lehtimäki	Väg 68 Lehtimäki	Road 68 Lehtimäki	68	15	2135	6965013	343807	0	Etelä-Pohjanmaa
+24028	1028	L_kt68_Evijärvi	Tie 68 Evijärvi	Väg 68 Evijärvi	Road 68 Evijärvi	68	27	5360	7027373	325576	0	Etelä-Pohjanmaa
+24043	1043	L_yt17367_Kurikka_Panttil	Tie 17367 Kurikka, Panttil	Väg 17367 Kurikka, Panttila	Road 17367 Kurikka, Panttila	17367	1	2650	6957024	263237	0	Etelä-Pohjanmaa
+24001	1001	L_vt3_Huissi	Tie 3 Huissi	Väg 3 Huissi	Road 3 Huissi	3	239	6476	6971071	259323	0	Pohjanmaa
+24051	1051	L_vt3_Laihia_Perälä	Tie 3 Laihia, Perälä	Väg 3 Laihela, Perälä	Road 3 Laihia, Perälä	3	244	2250	6987413	248794	0	Pohjanmaa
+24002	1002	L_vt3_Hälsingby	Tie 3 Hälsingby	Väg 3 Hälsingby	Road 3 Hälsingby	3	248	5183	6998449	237366	0	Pohjanmaa
+24030	1030	L_vt3_Vaasa_Mt	Tie 3 Vaasa	Väg 3 Vasa	Road 3 Vaasa	3	250	4648	7003518	232481	0	Pohjanmaa
+24050	1050	L_vt8_Kristiinankaupunki	Tie 8 Kristiinankaupunki	Väg 8 Kristinestad	Road 8 Kristiinankaupunki	8	213	5065	6890874	214359	0	Pohjanmaa
+24022	1022	L_vt8_Närpiö	Tie 8 Närpiö	Väg 8 Närpes	Road 8 Närpiö	8	223	775	6935881	212424	0	Pohjanmaa
+24045	1045	L_vt8_Mustasaari_Riimal	Tie 8 Mustasaari, Riimala	Väg 8 Korsholm, Riimala	Road 8 Mustasaari, Riimala	8	237	4418	6991075	234494	0	Pohjanmaa
+24057	1057	L_vt8_Vaasa_Yhdystie	Tie 8 Vaasa, Yhdystie	Väg 8 Vasa, Yhdystie	Road 8 Vaasa, Yhdystie	8	239	1850	7006445	231107	0	Pohjanmaa
+24067	1067	L_vt8_Vaasa_Böle	Tie 8 Vaasa, Böle	Väg 8 Vasa, Böle	Road 8 Vaasa, Böle	8	302	802	7008792	230439	0	Pohjanmaa
+24066	1066	L_vt8_Mustasaari_Lintuvuori	Tie 8 Mustassaari, Lintuvuori	Väg 8 Korsholm, Fågelberg	Road 8 Mustasaari, Lintuvuori	8	303	1074	7011025	233956	0	Pohjanmaa
+24003	1003	L_vt8_Koivulahti	Tie 8 Mustasaari, Koivulah	Väg 8 Korsholm, Kvevlax	Road 8 Mustasaari, Koivulahti	8	303	4434	7012198	237224	0	Pohjanmaa
+24063	1063	L_vt8_Kaitsor_Vöyri-Maksamaa	Tie 8 Kaitsor, Vöyri-Maksamaa	Väg 8 Kaitsor, Vöyri-Maksamaa	Road 8 Kaitsor, Vöyri-Maksamaa	8	311	799	7022859	263283	0	Pohjanmaa
+24026	1026	L_vt8_Kovjoki	Tie 8 Kovjoki	Väg 8 Kovik	Road 8 Kovjoki	8	321	2820	7053976	286521	0	Pohjanmaa
+24053	1053	L_vt18_Laihia_Vedenoja	Tie 18 Laihia, Vedenoja	Tie 18 Laihela, Vedenoja	Road 18 Laihia, Vedenoja	18	2	948	6991282	250790	0	Pohjanmaa
+24004	1004	L_vt16_Isokyrö	Tie 16 Isokyrö	Väg 16 Storkyro	Road 16 Isokyrö	18	5	2200	6991938	264152	0	Pohjanmaa
+24036	1036	L_kt68_Pietarsaari	Tie 68 Pietarsaari	Väg 68 Jakobstad	Road 68 Pietarsaari	68	38	1860	7063842	292672	0	Pohjanmaa
+24029	1029	L_st724_Raippaluoto	Tie 724 Raippaluoto	Väg 724 Replot	Road 724 Raippaluoto	724	4	1915	7020251	222952	0	Pohjanmaa
+24023	1023	L_vt8_Kokkola	Tie 8 Kokkola	Väg 8 Karleby	Road 8 Kokkola	8	404	550	7086768	315260	0	Keski-Pohjanmaa
+24048	1048	L_vt13_Kokkola_Ribacken	Tie 13 Kokkola	Väg 13 Karleby	Road 13 Kokkola	13	102	3475	7077564	313036	0	Keski-Pohjanmaa
+24041	1041	L_vt13_Kaustinen_Viiperi	Tie 13 Kaustinen	Väg 13 Kaustby	Road 13 Kaustinen	13	108	2516	7057524	324802	0	Keski-Pohjanmaa
+24122	1122	L_vt13_Veteli	Tie 13 Veteli	Väg 13 Vetil	Road 13 Veteli	13	113	3516	7036983	346200	0	Keski-Pohjanmaa
+24064	1064	L_vt13_Perho_Möttönen	Tie 13 Perho, Möttönen	Väg 13 Perho, Möttönen	Road 13 Perho, Möttönen	13	121	1621	7006637	375244	0	Keski-Pohjanmaa
+24065	1065	L_vt18_Ähtäri_Inha	Tie 18 Ähtäri, Inha	Väg 18 Ähtäri, Inha	Road 18 Ähtäri, Inha	18	26	984	6939360	352057	0	Keski-Pohjanmaa
+24040	1040	L_vt28_Kannus	Tie 28 Kannus	Väg 28 Kannus	Road 28 Kannus	28	6	603	7089600	345942	0	Keski-Pohjanmaa
+24038	1038	L_kt63_Kaustinen	Tie 63 Kaustinen	Väg 63 Kaustby	Road 63 Kaustinen	63	17	3460	7052008	338660	0	Keski-Pohjanmaa
+24101	1101	L_vt4_Pyhäjärvi	Tie 4 Pyhäjärvi	Väg 4 Pyhäjärvi	Road 4 Pyhäjärvi	4	332	2902	7055458	439946	0	Pohjois-Pohjanmaa
+24121	1121	L_vt4_Kärsämäki	Tie 4 Kärsämäki	Väg 4 Kärsämäki	Road 4 Kärsämäki	4	341	3360	7091649	441359	0	Pohjois-Pohjanmaa
+24221	1221	L_vt4_Rantsila	Tie 4 Rantsila	Väg 4 Frantsila	Road 4 Rantsila	4	352	2390	7140402	444688	0	Pohjois-Pohjanmaa
+24236	1236	L_vt4_Ala-Temmes	Tie 4 Alatemmes	Väg 4 Alatemmes	Road 4 Alatemmes	4	362	5270	7184096	430880	0	Pohjois-Pohjanmaa
+24243	1243	L_vt4_Luhasto	Tie 4 Luhasto	Väg 4 Luhasto	Road 4 Luhasto	4	363	3300	7191775	429035	0	Pohjois-Pohjanmaa
+24226	1226	L_vt4_Kempele	Tie 4 Kempele	Väg 4 Kempele	Road 4 Kempele	4	364	4245	7199641	430874	0	Pohjois-Pohjanmaa
+24201	1201	L_vt4_Oulu_Mäntylä	Tie 4 Oulu, Mäntylä	Väg 4 Uleåborg, Mäntylä	Road 4 Oulu, Mäntylä	4	367	2297	7206975	430014	0	Pohjois-Pohjanmaa
+24251	1251	L_vt4_Oulu_Lintula	Tie 4 Oulu, Lintula	Väg 4 Uleåborg, Lintula	Road 4 Oulu, Lintula	4	367	4096	7205755	429402	0	Pohjois-Pohjanmaa
+24250	1250	L_vt4_Välkkylä	Tie 4 Välkkylä	Väg 4 Välkkylä	Road 4 Välkkylä	4	401	450	7210491	429760	0	Pohjois-Pohjanmaa
+24237	1237	L_vt4_Oulu	Tie 4 Oulu, Intiö	Väg 4 Uleåborg, Intiö	Road 4 Oulu, Intiö	4	401	1657	7211637	429810	0	Pohjois-Pohjanmaa
+24244	1244	L_vt4_Laanila	Tie 4 Oulu, Laanila	Väg 4 Uleåborg, Laanila	Road 4 Oulu, Laanila	4	402	862	7212828	429279	0	Pohjois-Pohjanmaa
+24238	1238	L_vt4_Isko	Tie 4 Linnanmaa	Väg 4 Linnanmaa	Road 4 Linnanmaa	4	403	844	7214497	427805	0	Pohjois-Pohjanmaa
+24246	1246	L_vt4_Kuivasjärvi	Tie 4 Oulu, Kuivasjärvi	Väg 4 Uleåborg, Kuivasjärvi	Road 4 Oulu, Kuivasjärvi	4	403	4120	7217646	426584	0	Pohjois-Pohjanmaa
+24231	1231	L_vt4_Kalimenoja	Tie 4 Kello	Väg 4 Kello	Road 4 Kello	4	405	1508	7223077	426308	0	Pohjois-Pohjanmaa
+24202	1202	L_vt4_Ii	Tie 4 Ii	Väg 4 Ijo	Road 4 Ii	4	409	4295	7243073	424141	0	Pohjois-Pohjanmaa
+24229	1229	L_vt4_Kuivaniemi	Tie 4 Ii, Kuivaniemi	Väg 4 Ijo, Kuivaniemi	Road 4 Ii, Kuivaniemi	4	416	685	7270421	418629	0	Pohjois-Pohjanmaa
+24234	1234	L_vt5_Toranki	Tie 5 Kuusamo, Toranki	Väg 5 Kuusamo, Toranki	Road 5 Kuusamo, Toranki	5	355	5106	7315755	598431	0	Pohjois-Pohjanmaa
+24203	1203	L_vt5_Kuusamo	Tie 5 Kuusamo	Väg 5 Kuusamo	Road 5 Kuusamo	5	359	2479	7328314	597113	0	Pohjois-Pohjanmaa
+24052	1052	L_vt8_Himanka	Tie 8 Himanka	Väg 8 Himango	Road 8 Himanka	8	412	1023	7106847	336083	0	Pohjois-Pohjanmaa
+24124	1124	L_vt8_Rahvo	Tie 8 Kalajoki, Rahvo	Väg 8 Kalajoki, Rahvo	Road 8 Kalajoki, Rahvo	8	418	2347	7131807	352466	0	Pohjois-Pohjanmaa
+24204	1204	L_vt8_Raahe	Tie 8 Raahe	Väg 8 Brahestad	Road 8 Raahe	8	429	5217	7175735	383690	0	Pohjois-Pohjanmaa
+24235	1235	L_vt8_Lapinkangas	Tie 8 Liminka	Väg 8 Limingo	Road 8 Liminka	8	438	1905	7185116	421508	0	Pohjois-Pohjanmaa
+24254	1254	L_vt20_Rusko2	Tie 20 Oulu, Rusko	Väg 20 Uleåborg, Rusko	Road 20 Oulu, Rusko	20	3	4706	7215280	434484	0	Pohjois-Pohjanmaa
+24223	1223	L_vt20_Kiiminki	Tie 20 Kiiminki	Väg 20 Kiiminki	Road 20 Kiiminki	20	4	280	7216419	435911	0	Pohjois-Pohjanmaa
+24230	1230	L_vt20_Rankkila	Tie 20 Pudasjärvi, Rankkil	Väg 20 Pudasjärvi, Rankkila	Road 20 Pudasjärvi, Rankkila	20	14	4277	7238454	487428	0	Pohjois-Pohjanmaa
+24232	1232	L_vt20_Kettumäki	Tie 20 Kettumäki	Väg 20 Kettumäki	Road 20 Kettumäki	20	22	3706	7254946	519612	0	Pohjois-Pohjanmaa
+24224	1224	L_vt20_Pintamo	Tie 20 Pudasjärvi, Pintamo	Väg 20 Pudasjärvi, Pintamo	Road 20 Pudasjärvi, Pintamo	20	23	3509	7257988	527829	0	Pohjois-Pohjanmaa
+24241	1241	L_vt22_Maikkula	Tie 22 Maikkula	Väg 22 Maikkula	Road 22 Maikkula	22	2	2500	7208037	431310	0	Pohjois-Pohjanmaa
+24227	1227	L_vt22_Muhos	Tie 22 Muhos	Väg 22 Muhos	Road 22 Muhos	22	6	5994	7192706	447237	0	Pohjois-Pohjanmaa
+24104	1104	L_vt27_Alavieska	Tie 27 Alavieska	Väg 27 Alavieska	Road 27 Alavieska	27	4	1058	7113605	371084	0	Pohjois-Pohjanmaa
+24105	1105	L_vt27_Haapajärvi	Tie 27 Haapajärvi	Väg 27 Haapajärvi	Road 27 Haapajärvi	27	14	7519	7069276	431185	0	Pohjois-Pohjanmaa
+24103	1103	L_vt28_Sievi	Tie 28 Sievi	Väg 28 Sievi	Road 28 Sievi	28	17	426	7084837	388747	0	Pohjois-Pohjanmaa
+24225	1225	L_kt78_Pudasjärvi	Tie 78 Pudasjärvi	Väg 78 Pudasjärvi	Road 78 Pudasjärvi	78	208	3300	7283008	485624	0	Pohjois-Pohjanmaa
+24123	1123	L_kt86_Oulainen	Tie 86 Oulainen	Väg 86 Oulais	Road 86 Oulainen	86	12	2326	7125871	394802	0	Pohjois-Pohjanmaa
+24205	1205	L_kt86_Liminka	Tie 86 Liminka	Väg 86 Limingo	Road 86 Liminka	86	26	5350	7177148	422812	0	Pohjois-Pohjanmaa
+24233	1233	L_kt88_Alpua	Tie 88 Vihanti, Alpua	Väg 88 Vihanti, Alpua	Road 88 Vihanti, Alpua	88	7	1583	7148890	410987	0	Pohjois-Pohjanmaa
+24239	1239	L_st815_Lentokentäntie	Tie 815 Oulunsalo	Väg 815 Uleåsalo	Road 815 Oulunsalo	815	2	1700	7203787	428736	0	Pohjois-Pohjanmaa
+24248	1248	L_st815_Oulunsalo	Tie 815 Oulunsalo	Väg 815 Uleåsalo	Road 815 Oulunsalo	815	3	350	7202256	425006	0	Pohjois-Pohjanmaa
+24249	1249	L_st815_Lunki	Tie 815 Lunki	Väg 815 Lunki	Road 815 Lunki	815	3	1585	7202029	424278	0	Pohjois-Pohjanmaa
+24253	1253	L_st816_Hailuoto	Tie 816 Hailuoto	Väg 816 Karlö	Road 816 Hailuoto	816	5	850	7214454	408409	0	Pohjois-Pohjanmaa
+24222	1222	L_st847_Tupos	Tie 4 Liminka, Tupos	Väg 4 Limingo, Tupos	Road 4 Liminka, Tupos	847	1	1774	7190439	428382	0	Pohjois-Pohjanmaa
+24247	1247	L_st847_Oulunlahti	Tie 847 Oulunlahti	Väg 847 Oulunlahti	Road 847 Oulunlahti	847	3	1770	7206206	429000	0	Pohjois-Pohjanmaa
+24228	1228	L_st847_Haukipudas	Tie 847 Haukipudas	Väg 847 Haukipudas	Road 847 Haukipudas	847	5	1860	7222678	423629	0	Pohjois-Pohjanmaa
+24252	1252	L_st866_Kuusamo_T	Tie 866 Kuusamo	Väg 866 Kuusamo	Road 866 Kuusamo	866	7	6365	7298065	641119	0	Pohjois-Pohjanmaa
+24321	1321	L_vt5_Hatulanmäki	Tie 5 Hatulanmäki	Väg 5 Hatulanmäki	Road 5 Hatulanmäki	5	228	3116	7096290	520006	0	Kainuu
+24322	1322	L_vt5_Nuottijärvi	Tie 5 Nuottijärvi	Väg 5 Nuottijärvi	Road 5 Nuottijärvi	5	233	400	7114879	525522	0	Kainuu
+24301	1301	L_vt5_Rytivaara	Tie 5 Rytivaara	Väg 5 Rytivaara	Road 5 Rytivaara	5	306	3986	7132840	550353	0	Kainuu
+24302	1302	L_vt5_Ristijärvi	Tie 5 Ristijärvi	Väg 5 Ristijärvi	Road 5 Ristijärvi	5	311	1905	7151769	556554	0	Kainuu
+24328	1328	L_vt5_Tapiola	Tie 5 Tapiola	Väg 5 Tapiola	Road 5 Tapiola	5	337	4546	7250736	595231	0	Kainuu
+24323	1323	L_vt6_Korholanmäki	Tie 6 Sotkamo, Korholanmäk	Väg 6 Sotkamo, Korholanmäki	Road 6 Sotkamo, Korholanmäki	6	435	450	7112791	548421	0	Kainuu
+24324	1324	L_vt22_Törmäkylä	Tie 22 Törmäkylä	Väg 22 Törmäkylä	Road 22 Törmäkylä	22	17	1660	7164514	483288	0	Kainuu
+24329	1329	L_vt22_Mieslahti	Tie 22 Paltamo, Mieslahti	Väg 22 Paltamo, Mieslahti	Road 22 Paltamo, Mieslahti	22	30	5881	7140986	545978	0	Kainuu
+24326	1326	L_vt28_Vuottolahti	Tie 28 Vuottolahti	Väg 28 Vuottolahti	Road 28 Vuottolahti	28	45	1816	7109866	512934	0	Kainuu
+24303	1303	L_kt75_Kankivaara	Tie 75 Kankivaara	Väg 75 Kankivaara	Road 75 Kankivaara	75	33	2720	7098978	628664	0	Kainuu
+24327	1327	L_kt78_Aska	Tie 78 Arska	Väg 78 Arska	Road 78 Arska	78	116	1860	7214050	532959	0	Kainuu
+24325	1325	L_kt89_Vartius	Tie 89 Vartius	Väg 89 Vartius	Road 89 Vartius	89	18	522	7155186	639373	0	Kainuu
+24452	1452	L_vt4_Marostenmäki	Tie 4 Kemi, Marostenmäki	Väg 4 Kemi, Marostenmäki	Road 4 Kemi, Marostenmäki	4	423	3125	7287564	393718	0	Lappi
+24453	1453	L_vt4_Siikalahti	Tie 4 Kemi, Siikalahti	Väg 4 Kemi, Siikalahti	Road 4 Kemi, Siikalahti	4	424	2764	7289780	391074	0	Lappi
+24454	1454	L_vt4_Peurasaari	Tie 4 Kemi, Peurasaari	Väg 4 Kemi, Peurasaari	Road 4 Kemi, Peurasaari	4	425	1622	7291661	389637	0	Lappi
+24455	1455	L_vt4_Karjalahti	Tie 4 Kemi, Karjalahti	Väg 4 Kemi, Karjalahti	Road 4 Kemi, Karjalahti	4	425	2981	7292986	389401	0	Lappi
+24456	1456	L_vt4_Kivikko	Tie 4 Kemi, Kivikko	Väg 4 Kemi, Kivikko	Road 4 Kemi, Kivikko	4	425	4583	7294478	388833	0	Lappi
+24457	1457	L_vt4_Ristikangas	Tie 4 Kemi, Ristikangas	Väg 4 Kemi, Ristikangas	Road 4 Kemi, Ristikangas	4	426	562	7295652	388795	0	Lappi
+24437	1437	L_vt4_mp3_Jokisuu	Tie 4 Jokisuu	Väg 4 Jokisuu	Road 4 Jokisuu	4	426	4377	7298857	386752	0	Lappi
+24438	1438	L_vt4_mp2_Jokisuu	Tie 4 Jokisuu	Väg 4 Jokisuu	Road 4 Jokisuu	4	426	4934	7299272	386630	0	Lappi
+24401	1401	L_vt4_Tervola	Tie 4 Tervola	Väg 4 Tervola	Road 4 Tervola	4	435	716	7330732	398706	0	Lappi
+24451	1451	L_vt4_Ala-Korkalo	Tie 4 Rovaniemi, Ala-Korkalo	Väg 4 Rovaniemi, Ala-Korkalo	Road 4 Rovaniemi, Ala-Korkalo	4	448	2546	7371115	435594	0	Lappi
+24450	1450	L_vt4_Revontuli	Tie 4 Rovaniemi	Väg 4 Rovaniemi	Road 4 Rovaniemi	4	501	650	7376676	443312	0	Lappi
+24424	1424	L_vt4_Olkkajärvi	Tie 4 Rovaniemi, Olkkajärv	Väg 4 Rovaniemi, Olkkajärvi	Road 4 Rovaniemi, Olkkajärvi	4	504	3500	7387087	458885	0	Lappi
+24448	1448	L_vt4_Torvinen	Tie 4 Torvinen	Väg 4 Torvinen	Road 4 Torvinen	4	517	11153	7449088	484338	0	Lappi
+24449	1449	L_vt4_Yläpostojoki	Tie 4 Yläpostojoki	Väg 4 Yläpostojoki	Road 4 Yläpostojoki	4	531	2960	7510209	489595	0	Lappi
+24402	1402	L_vt4_Ivalo	Tie 4 Ivalo	Väg 4 Ivalo	Road 4 Ivalo	4	550	4680	7600576	520541	0	Lappi
+24444	1444	L_vt4_Utsjoki	Tie 4 Utsjoki	Väg 4 Utsjoki	Road 4 Utsjoki	4	582	5750	7755490	500994	0	Lappi
+24426	1426	L_vt5_Suomu	Tie 5 Suomu	Väg 5 Suomu	Road 5 Suomu	5	375	529	7381743	549255	0	Lappi
+24403	1403	L_vt5_Kemijärvi	Tie 5 Kemijärvi	Väg 5 Kemi träsk	Road 5 Kemijärvi	5	405	5100	7416066	519679	0	Lappi
+24458	1458	L_v21_Tornio	Tie 21 Tornio	Väg 21 Torneå	Road 21 Tornio	21	106	30	7308523	370790	0	Lappi
+24459	1459	L_v21_Ylitornio	Tie 21 Ylitornio	Väg 21 Övertorneåo	Road 21 Ylitornio	21	118	1340	7364519	352229	0	Lappi
+24421	1421	L_vt21_Kolari	Tie 21 Kolari	Väg 21 Kolari	Road 21 Kolari	21	140	2278	7460153	365822	0	Lappi
+24447	1447	L_vt21_Kilpisjärvi_T	Tie 21 Enontekiö, Kilpisjä	Väg 21 Enontekis, Kilpisjärv	Road 21 Enontekiö, Kilpisjärvi	21	238	125	7671697	251660	0	Lappi
+24439	1439	L_vt29_Luukkaankangas	Tie 29 Kemi, Luukkaankanga	Väg 29 Kemi, Luukkaankangas	Road 29 Kemi, Luukkaankangas	29	1	4688	7303122	380992	0	Lappi
+24440	1440	L_vt29_mp1c_Tornio	Tie 29 Tornio 1	Väg 29 Torneå 1	Road 29 Tornio 1	29	2	3350	7305021	372509	0	Lappi
+24441	1441	L_vt29_mp1a_Tornio	Tie 29 Tornio 2	Väg 29 Torneå 2	Road 29 Tornio 2	29	2	3500	7305044	372362	0	Lappi
+24431	1431	L_vt29_Tornio	Tie 9211 Tornio	Väg 9211 Torneå	Road 9211 Tornio	29	3	2510	7305157	369586	0	Lappi
+24425	1425	L_kt78_Saukkokangas	Tie 78 Ranua, Saukkokangas	Väg 78 Ranua, Saukkokangas	Road 78 Ranua, Saukkokangas	78	217	5531	7337703	466065	0	Lappi
+24422	1422	L_kt79_Jääskö	Tie 79 Jääskö	Väg 79 Jääskö	Road 79 Jääskö	79	14	1737	7431496	423575	0	Lappi
+24423	1423	L_kt81_Peräposio	Tie 81 Posio, Peräposio	Väg 81 Posio, Peräposio	Road 81 Posio, Peräposio	81	20	8600	7340947	533792	0	Lappi
+24405	1405	L_kt82_Misi	Tie 82 Rovaniemi, Misi	Väg 82 Rovaniemi, Misi	Road 82 Rovaniemi, Misi	82	4	4690	7395190	483776	0	Lappi
+24430	1430	L_kt82_Salla_Kelloselkä	Tie 82 Salla, Kelloselkä	Väg 82 Salla, Kelloselkä	Road 82 Salla, Kelloselkä	82	20	3180	7426581	588861	0	Lappi
+24427	1427	L_kt83_Raanujärvi	Tie 83 Ylitornio, Raanujär	Väg 83 Övertorneå, Raanujärv	Road 83 Ylitornio, Raanujärvi	83	10	5189	7393334	404920	0	Lappi
+24429	1429	L_kt91_Rajajooseppi	Tie 91 Inari, Rajajooseppi	Väg 91 Enare, Rajajooseppi	Road 91 Inari, Rajajooseppi	91	7	9035	7596677	560296	0	Lappi
+24445	1445	L_kt92_Karigasniemi	Tie 92 Karigasniemi	Väg 92 Karigasniemi	Road 92 Karigasniemi	92	12	5200	7699316	454090	0	Lappi
+24446	1446	L_kt93_Kivilompolo	Tie 93 Enontekiö, Kivilomp	Väg 21 Enontekis, Kivilompol	Road 93 Enontekiö, Kivilompolo	93	12	4368	7620969	350688	0	Lappi
+24432	1432	L_kt98_Aavasaksa	Tie 98 Aavasaksa	Väg 98 Aavasaksa	Road 98 Aavasaksa	98	1	400	7366370	351666	0	Lappi
+24404	1404	L_st921_Kaakamo	Tie 921 Tornio	Väg 921 Torneå	Road 921 Tornio	921	2	1419	7300769	383581	0	Lappi
+24433	1433	L_st937_Pello	Tie 937 Pello	Väg 937 Pello	Road 937 Pello	937	1	250	7412561	367737	0	Lappi
+24434	1434	L_st943_Kolari	Tie 943 Kolari	Väg 943 Kolari	Road 943 Kolari	943	1	4900	7470028	360122	0	Lappi
+24435	1435	L_st954_Muonio	Tie 954 Muonio	Väg 954 Muonio	Road 954 Muonio	954	1	119	7540030	360070	0	Lappi
+24436	1436	L_st959_Karesuvanto	Tie 959 Enontekiö, Karesuv	Väg 21 Enontekis, Karesuvant	Road 959 Enontekiö, Karesuvant	959	1	700	7599466	315038	0	Lappi
+24443	1443	L_st970_Nuorgam	Tie 970 Utsjoki, Nuorgam	Väg 970 Utsjoki, Nuorgam	Road 970 Utsjoki, Nuorgam	970	22	2330	7775781	536807	0	Lappi
+24442	1442	L_st971_Näätämö	Tie 971 Inari, Näätämö	Väg 971 Enare, Näätämö	Road 971 Inari, Näätämö	971	18	6200	7730648	582189	0	Lappi
+24499	1499	L_vt29_mp1b_Tornio	Tie 971 Tornio 3	Väg 971 Torneå 3	Road 971 Tornio 3	971	18	6200	7730469	582411	0	Lappi
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
