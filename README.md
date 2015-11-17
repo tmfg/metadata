@@ -23,7 +23,7 @@
 |[tiejaksot_shapefiles.zip]|Keliennusteiden tiejaksojen vektorit|Road weather forecast vectors|
 
 ### [xls/](xls/)
-(static excel files)
+(static excel files, coordinates in ETRS89 (EUREF-FIN) format)
 
 |file |fi |en |
 |:-----|:---|:---|
