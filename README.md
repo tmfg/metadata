@@ -1,6 +1,6 @@
 ## Metadata for FTA's services
 
-### schema/
+### [schema/] (schema/)
 |file |fi |en |
 |:-----|:---|:---|
 |[DATEXIISchema\_2\_2\_3\_with\_definitions.xsd][DATEXIISchema_2_2_3_with_definitions.xsd]|Datex2 2.3 skeema|Datex2 2.3 schema|
@@ -9,7 +9,7 @@
 
 [](|[DATEXIISchema_2_2_1_with_definitions_FI.xsd]|Datex2 2.1 skeema|Datex2.2.1 schema|)
 
-### docs/
+### [docs/](docs/)
 |file |fi |en |
 |:-----|:---|:---|
 |[linkkiverkosto.pdf]|Matka-aikalinkkiverkoston yleiskuvaus karttapohjalla|Description of travel time link network on map|
@@ -17,12 +17,12 @@
 |[meta\_rws\_sensors.pdf][meta_rws_sensors.pdf]|Tiesääasemien anturitietojen kuvaus|Sensor descriptions of road weather station|
 |[alertc.pdf]|Ohje Alert-C -pisteistön käytöstä|Information about Alert-C location database|
 
-### shapes/
+### [shapes/](shapes/)
 |file |fi |en |
 |:-----|:---|:---|
 |[tiejaksot_shapefiles.zip]|Keliennusteiden tiejaksojen vektorit|Road weather forecast vectors|
 
-### xls/
+### [xls/](xls/)
 (static excel files)
 
 |file |fi |en |
@@ -31,11 +31,11 @@
 |[meta\_rw\_cameras.xlsx][meta_rw_cameras.xlsx]|Kelikameroiden staattiset tiedot|The static information of weather cameras|
 |[meta\_rws\_stations.xlsx][meta_rws_stations.xlsx]|Tiesääasemien staattiset tiedot|The static information of road weather station|
 | [meta\_rws\_sensors.xlsx][meta_rws_sensors.xlsx]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|
-|[meta\_weather\_forecast\_road\_sections.xlsx][meta_weather_forecast_road_sections.xlsx]|Keliennusteiden tiejaksot|Road weather forecast sections|
+|[meta\_rw\_forecast\_sections.xlsx][meta_rw_forecast_sections.xlsx]|Keliennusteiden tiejaksot|Road weather forecast sections|
 
 
-### csv/
-(versioned CSV data, currently beta)
+### [csv/](csv/)
+(versioned CSV data, currently beta, file encoding UTF-8)
 
 |file |fi |en |
 |:-----|:---|:---|
@@ -64,6 +64,6 @@ Tämän lisenssin antamia oikeuksia laajempia lupia voi olla saatavilla osoittee
 [meta_rws_stations.xlsx]: xls/meta_rws_stations.xlsx
 [meta_traffic_stations.xlsx]: xls/meta_traffic_stations.xlsx
 [meta_rws_sensors.xlsx]: xls/meta_rws_sensors.xlsx
-[meta_weather_forecast_road_sections.xlsx]: xls/meta_weather_forecast_road_sections.xlsx
+[meta_rw_forecast_sections.xlsx]: xls/meta_rw_forecast_sections.xlsx
 
-[meta_rw_cameras.csv]: xls/meta_rw_cameras.csv
+[meta_rw_cameras.csv]: csv/meta_rw_cameras.csv
