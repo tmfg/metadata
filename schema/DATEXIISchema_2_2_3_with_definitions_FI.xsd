@@ -4771,7 +4771,7 @@
       <xs:element name="exchangeExtension" type="D2LogicalModel:_ExtensionType" minOccurs="0" />
     </xs:sequence>
   </xs:complexType>
-  <xs:complexType name="ExtendedRoadOrCarriagewayOrLaneManagementType">
+  <xs:complexType name="_RoadOrCarriagewayOrLaneManagementExtensionType">
     <xs:sequence>
       <xs:element name="roadOrCarriagewayOrLaneManagementType" type="D2LogicalModel:ExtendedRoadOrCarriagewayOrLaneManagementTypeEnum"/>
     </xs:sequence>
@@ -4782,7 +4782,7 @@
       <xs:enumeration value="iceRoadClosed"/>
     </xs:restriction>
   </xs:simpleType>
-  <xs:complexType name="ExtendedEquipmentOrSystemFaultType">
+  <xs:complexType name="_EquipmentOrSystemFaultExtensionType">
     <xs:sequence>
       <xs:element name="equipmentOrSystemFaultType" type="D2LogicalModel:ExtendedEquipmentOrSystemFaultTypeEnum"/>
     </xs:sequence>
@@ -4792,7 +4792,7 @@
       <xs:enumeration value="repaired"/>
     </xs:restriction>
   </xs:simpleType>
-  <xs:complexType name="ExtendedTrafficTrendType">
+  <xs:complexType name="_AbnormalTrafficExtensionType">
     <xs:sequence>
       <xs:element name="trafficTrendType" type="D2LogicalModel:ExtendedTrafficTrendTypeEnum" minOccurs="0"/>
     </xs:sequence>
