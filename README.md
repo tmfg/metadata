@@ -35,7 +35,7 @@
 
 
 ### [csv/](csv/)
-(versioned CSV data, currently beta, file encoding UTF-8, coordinates in ETRS89 (EUREF-FIN) format)
+(static CSV files, currently beta, file encoding UTF-8, field separator semicolon, coordinates in ETRS89 (EUREF-FIN) format)
 
 |file |fi |en |
 |:-----|:---|:---|
