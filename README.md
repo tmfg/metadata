@@ -35,11 +35,16 @@
 
 
 ### [csv/](csv/)
-(versioned CSV data, currently beta, file encoding UTF-8)
+(versioned CSV data, currently beta, file encoding UTF-8, coordinates in ETRS89 (EUREF-FIN) format)
 
 |file |fi |en |
 |:-----|:---|:---|
-|[meta\_rw\_cameras.csv][meta_rw_cameras.csv]|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|
+|[meta\_traffic\_stations.csv][meta_traffic_stations.csv]|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|
+|[meta\_rw\_cameras.csv][meta_rw_cameras.csv]|Kelikameroiden staattiset tiedot|The static information of weather cameras|
+|[meta\_rws\_stations.csv][meta_rws_stations.csv]|Tiesääasemien staattiset tiedot|The static information of road weather station|
+| [meta\_rws\_sensors.csv][meta_rws_sensors.csv]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|
+|[meta\_rw\_forecast\_sections.csv][meta_rw_forecast_sections.csv]|
+The static information of automatic measuring devices|
 
 
 ![Creative Commons -lisenssi](https://i.creativecommons.org/l/by/4.0/88x31.png)
@@ -67,3 +72,7 @@ Tämän lisenssin antamia oikeuksia laajempia lupia voi olla saatavilla osoittee
 [meta_rw_forecast_sections.xlsx]: xls/meta_rw_forecast_sections.xlsx
 
 [meta_rw_cameras.csv]: csv/meta_rw_cameras.csv
+[meta_rws_stations.csv]: csv/meta_rws_stations.csv
+[meta_traffic_stations.csv]: csv/meta_traffic_stations.csv
+[meta_rws_sensors.csv]: csv/meta_rws_sensors.csv
+[meta_rw_forecast_sections.csv]: csv/meta_rw_forecast_sections.csv
