@@ -43,8 +43,7 @@
 |[meta\_rw\_cameras.csv][meta_rw_cameras.csv]|Kelikameroiden staattiset tiedot|The static information of weather cameras|
 |[meta\_rws\_stations.csv][meta_rws_stations.csv]|Tiesääasemien staattiset tiedot|The static information of road weather station|
 | [meta\_rws\_sensors.csv][meta_rws_sensors.csv]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|
-|[meta\_rw\_forecast\_sections.csv][meta_rw_forecast_sections.csv]|
-The static information of automatic measuring devices|
+|[meta\_rw\_forecast\_sections.csv][meta_rw_forecast_sections.csv]| Keliennusteiden tiejaksot|Road weather forecast sections|
 
 
 ![Creative Commons -lisenssi](https://i.creativecommons.org/l/by/4.0/88x31.png)
