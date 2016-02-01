@@ -1,0 +1,37 @@
+{
+	"modification_date": "01.02.2016 T 00:00",
+	"md_language": "eng",
+	"contact_point": {
+		"cp_name": "Tomi Lapinlampi",
+		"cp_comp_name": "Finnish Transport Agency",
+		"cp_email": "tomi.lapinlampi@liikennevirasto.fi"
+	},
+	"p_name": "Camera presents",
+	"p_description": "The message contains all public camera presets and the baseurl where you can find the camera pictures. Camera picture URL is constructed from baseurl, presetid and .jpg file extension For example: http://weathercam.digitraffic.fi/C0150201.jpg More information: https://github.com/finnishtransportagency/digitraffic/wiki/Camera%20presets",
+	"data_agr_type": "-",
+	"data_org_type": "-",
+	"ds_language": "fin",
+	"p_start_date": "23.01.2015 00:00",
+	"val_area": ["FI13", "FI18", "FI19", "FI1A"],
+	"net_category": "undefined",
+	"publisher": {
+		"p_name": "Tomi Lapinlampi",
+		"p_comp_name": "Finnish Transport Agency",
+		"p_address": "Opastinsilta 12 A, 00520 Helsinki",
+		"p_email": "tomi.lapinlampi@liikennevirasto.fi",
+		"p_tel": "+358295343000"
+	},
+	"data_owner": {
+		"do_comp_name": "Finnish Transport Agency",
+		"do_email": "tomi.lapinlampi@liikennevirasto.fi",
+		"do_tel": "+358295343000"
+	},
+	"con_loc": "Licence and Free of charge",
+	"con_url": "http://creativecommons.org/licenses/by/4.0/",
+	"tech_structure": "XML",
+	"interface": "SOAP",
+	"com_method": "Pull",
+	"access_url": "http://tie.digitraffic.fi/sujuvuus/ws/cameraPresets",
+	"update_freq": "20min",
+	"qm_indicator": "https://github.com/finnishtransportagency/digitraffic/wiki/Presentation"
+}

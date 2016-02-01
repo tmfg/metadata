@@ -1,0 +1,37 @@
+{
+	"modification_date": "01.02.2016 T 00:00",
+	"md_language": "eng",
+	"contact_point": {
+		"cp_name": "Tomi Lapinlampi",
+		"cp_comp_name": "Finnish Transport Agency",
+		"cp_email": "tomi.lapinlampi@liikennevirasto.fi"
+	},
+	"p_name": "Current free flow speeds",
+	"p_description": "The message contains the current free flow speed values for links and LAM stations. When a link or a LAM station changes from winter speed limits to summer speed limits, or vice versa, the contents of this message change. A batch process updates the messages once each day. The updated message is available at 03:30 Finnish time each night. More information: https://github.com/finnishtransportagency/digitraffic/wiki/Current%20free%20flow%20speeds",
+	"data_agr_type": "Static road data",
+	"data_org_type": "Traffic signs expressing traffic regulations and identifying dangers - Speed limits",
+	"ds_language": "eng",
+	"p_start_date": "20.11.2014 00:00",
+	"val_area": ["FI13", "FI18", "FI19", "FI1A"],
+	"net_category": ["Motorways", "arterial_road_network"],
+	"publisher": {
+		"p_name": "Tomi Lapinlampi",
+		"p_comp_name": "Finnish Transport Agency",
+		"p_address": "Opastinsilta 12 A, 00520 Helsinki",
+		"p_email": "tomi.lapinlampi@liikennevirasto.fi",
+		"p_tel": "+358295343000"
+	},
+	"data_owner": {
+		"do_comp_name": "Finnish Transport Agency",
+		"do_email": "tomi.lapinlampi@liikennevirasto.fi",
+		"do_tel": "+358295343000"
+	},
+	"con_loc": "Licence and Free of charge",
+	"con_url": "http://creativecommons.org/licenses/by/4.0/",
+	"tech_structure": "XML",
+	"interface": "SOAP",
+	"com_method": "Pull",
+	"access_url": "http://tie.digitraffic.fi/sujuvuus/ws/freeFlowSpeeds",
+	"update_freq": "24h",
+	"qm_indicator": "https://github.com/finnishtransportagency/digitraffic/wiki/Presentation"
+}
