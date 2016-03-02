@@ -1,5 +1,5 @@
 {
-	"modification_date": "01.02.2016 T 00:00",
+	"modification_date": "02.03.2016T00:00+02:00",
 	"md_language": "eng",
 	"contact_point": {
 		"cp_name": "Tomi Lapinlampi",
@@ -12,8 +12,8 @@
 	"data_org_type": "-",
 	"ds_language": "fin",
 	"p_start_date": "20.11.2014 00:00",
-	"val_area": ["FI19", "FI1B", "FI1C", "FI1D"],
-	"net_category": "undefined",
+	"val_area": "FI1",
+	"net_category": ["Motorways", "arterial_road_network", "Regional roads"],
 	"publisher": {
 		"p_name": "Tomi Lapinlampi",
 		"p_comp_name": "Finnish Transport Agency",
@@ -26,7 +26,7 @@
 		"do_email": "tomi.lapinlampi@liikennevirasto.fi",
 		"do_tel": "+358295343000"
 	},
-	"con_lic": "Creative Commons 4.0 BY",
+	"con_lic": "Licence and Free of charge",
 	"con_url": "http://creativecommons.org/licenses/by/4.0/",
 	"tech_structure": "XML",
 	"interface": "SOAP",
