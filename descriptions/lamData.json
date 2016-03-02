@@ -12,7 +12,7 @@
 	"data_org_type": "Traffic volume, Speed",
 	"ds_language": ["fin", "eng"],
 	"p_start_date": "17.09.2014 00:00",
-	"val_area": ["FI13", "FI18", "FI19", "FI1A"],
+	"val_area": ["FI19", "FI1B", "FI1C", "FI1D"],
 	"net_category": ["Motorways", "arterial_road_network"],
 	"publisher": {
 		"p_name": "Tomi Lapinlampi",
