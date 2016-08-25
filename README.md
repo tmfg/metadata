@@ -25,6 +25,12 @@
 ### [xls/](xls/)
 (static excel files, coordinates in ETRS89 (EUREF-FIN) format)
 
+:bangbang: Metadatatiedostoissa X- ja Y-koordinaatit ovat väärin päin!  
+:bangbang: Metadata files has X- and Y-coodinates in wrong order!  
+
+    X = 6675908 -> Y (N/lat)
+    Y = 382080 -> X (E/lon)
+
 |file |fi |en |
 |:-----|:---|:---|
 |[meta\_traffic\_stations.xlsx][meta_traffic_stations.xlsx]|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|
