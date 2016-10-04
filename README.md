@@ -23,7 +23,7 @@
 |[tiejaksot_shapefiles.zip]|Keliennusteiden tiejaksojen vektorit|Road weather forecast vectors|
 
 ### [xls/](xls/)
-(static excel files, coordinates in ETRS89 (EUREF-FIN) format)
+(static excel files, coordinates in ETRS-TM35FIN (EPSG:3067))
 
 :bangbang: Metadatatiedostoissa X- ja Y-koordinaatit ovat väärin päin!  
 :bangbang: Metadata files has X- and Y-coodinates in wrong order!  
@@ -41,7 +41,7 @@
 
 
 ### [csv/](csv/)
-(static CSV files, currently beta, file encoding UTF-8, field separator semicolon, coordinates in ETRS89 (EUREF-FIN) format)
+(static CSV files, currently beta, file encoding UTF-8, field separator semicolon, coordinates in ETRS-TM35FIN (EPSG:3067))
 
 |file |fi |en |
 |:-----|:---|:---|
