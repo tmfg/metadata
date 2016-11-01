@@ -38,6 +38,7 @@
 |[meta\_rws\_stations.xlsx][meta_rws_stations.xlsx]|Tiesääasemien staattiset tiedot|The static information of road weather station|
 | [meta\_rws\_sensors.xlsx][meta_rws_sensors.xlsx]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|
 |[meta\_rw\_forecast\_sections.xlsx][meta_rw_forecast_sections.xlsx]|Keliennusteiden tiejaksot|Road weather forecast sections|
+|[meta\_ssn\_locodes.xls][meta_ssn_locodes.xls]|SafeSeaNet locode-listaus|SafeSeaNet locodes|
 
 
 ### [csv/](csv/)
@@ -50,6 +51,7 @@
 |[meta\_rws\_stations.csv][meta_rws_stations.csv]|Tiesääasemien staattiset tiedot|The static information of road weather station|
 | [meta\_rws\_sensors.csv][meta_rws_sensors.csv]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|
 |[meta\_rw\_forecast\_sections.csv][meta_rw_forecast_sections.csv]| Keliennusteiden tiejaksot|Road weather forecast sections|
+|[meta\_ssn\_locodes.csv][meta_ssn_locodes.csv]|SafeSeaNet locode-listaus|SafeSeaNet locodes|
 
 
 ![Creative Commons -lisenssi](https://i.creativecommons.org/l/by/4.0/88x31.png)
@@ -75,9 +77,11 @@ Tämän lisenssin antamia oikeuksia laajempia lupia voi olla saatavilla osoittee
 [meta_traffic_stations.xlsx]: xls/meta_traffic_stations.xlsx
 [meta_rws_sensors.xlsx]: xls/meta_rws_sensors.xlsx
 [meta_rw_forecast_sections.xlsx]: xls/meta_rw_forecast_sections.xlsx
+[meta_ssn_locodes.xls]: csv/meta_ssn_locodes.xls
 
 [meta_rw_cameras.csv]: csv/meta_rw_cameras.csv
 [meta_rws_stations.csv]: csv/meta_rws_stations.csv
 [meta_traffic_stations.csv]: csv/meta_traffic_stations.csv
 [meta_rws_sensors.csv]: csv/meta_rws_sensors.csv
 [meta_rw_forecast_sections.csv]: csv/meta_rw_forecast_sections.csv
+[meta_ssn_locodes.csv]: csv/meta_ssn_locodes.csv
