@@ -77,7 +77,7 @@ Tämän lisenssin antamia oikeuksia laajempia lupia voi olla saatavilla osoittee
 [meta_traffic_stations.xlsx]: xls/meta_traffic_stations.xlsx
 [meta_rws_sensors.xlsx]: xls/meta_rws_sensors.xlsx
 [meta_rw_forecast_sections.xlsx]: xls/meta_rw_forecast_sections.xlsx
-[meta_ssn_locodes.xls]: csv/meta_ssn_locodes.xls
+[meta_ssn_locodes.xls]: xls/meta_ssn_locodes.xls
 
 [meta_rw_cameras.csv]: csv/meta_rw_cameras.csv
 [meta_rws_stations.csv]: csv/meta_rws_stations.csv
