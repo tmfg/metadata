@@ -1,0 +1,775 @@
+PORT_COD;PORT_NME;PORT_AREA_COD;PORT_AREA_NME;BERTH_COD;BERTH_NME
+FIANK;Ankkurissa merellä;ANK;Ei tiedossa;unknow;Ei tiedossa
+FIBRA;Brändö;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIHAL;Deactivated Halla;HAL;Halla;HAL2;Halla 2
+FIHAL;Deactivated Halla;HAL;Halla;HAL1;Halla 1
+FIHAL;Deactivated Halla;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIDRA;Dragsfjärd;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIECK;Eckerö;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIENK;Enonkoski;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIESP;Espoo;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIEJO;Eurajoki;OLKI;Olkiluoto;Olki 1;Olki 1
+FIEJO;Eurajoki;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIFAR;Färjsund;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIFOG;Föglö;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIFOR;Förby;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIGDB;Godby;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKTK;HaminaKotka;HAL;HALLA;U1;HALU1
+FIKTK;HaminaKotka;HAL;HALLA;U2;HALU2
+FIKTK;HaminaKotka;HIE;HIETANEN;H1;HIEH1
+FIKTK;HaminaKotka;HIE;HIETANEN;H2;HIEH2
+FIKTK;HaminaKotka;ANK;ANKKURISSA;KAUN;KAUNISSAARI
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K1;KANK1
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K2;KANK2
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K3;KANK3
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K4;KANK4
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K5;KANK5
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K6;KANK6
+FIKTK;HaminaKotka;HOY;HÖYRYVOIMA;M2;HÖYM2
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K7;KANK7
+FIKTK;HaminaKotka;KAN;KANTASATAMA;K8;KANK8
+FIKTK;HaminaKotka;KAN;KANTASATAMA;N/A_K9;KANK9  (Ei käytössä)
+FIKTK;HaminaKotka;KAN;KANTASATAMA;P1;KANP1
+FIKTK;HaminaKotka;KAN;KANTASATAMA;P2;KANP2
+FIKTK;HaminaKotka;EU;Konttisatama;EU2;EU2
+FIKTK;HaminaKotka;EU;Konttisatama;EU3;EU3
+FIKTK;HaminaKotka;OIL;Öljysatama;MUU;Ei tiedossa
+FIKTK;HaminaKotka;OIL;Öljysatama;O1;Ö1
+FIKTK;HaminaKotka;OIL;Öljysatama;O2;Ö2
+FIKTK;HaminaKotka;OIL;Öljysatama;O3;Ö3
+FIKTK;HaminaKotka;GAS;Kaasulaituri;MUU;Ei tiedossa
+FIKTK;HaminaKotka;GAS;Kaasulaituri;FG;FG
+FIKTK;HaminaKotka;HILLO;Hillo;MUU;Ei tiedossa
+FIKTK;HaminaKotka;HILLO;Hillo;H1;H1
+FIKTK;HaminaKotka;HILLO;Hillo;H2;H2
+FIKTK;HaminaKotka;HILLO;Hillo;H3;H3
+FIKTK;HaminaKotka;HILLO;Hillo;H4;H4
+FIKTK;HaminaKotka;HIIRK;Hiirenkari;MUU;Ei tiedossa
+FIKTK;HaminaKotka;HIIRK;Hiirenkari;HK1;HK1
+FIKTK;HaminaKotka;HIIRK;Hiirenkari;HK2;HK2
+FIKTK;HaminaKotka;HIIRK;Hiirenkari;HK3;HK3
+FIKTK;HaminaKotka;HIIRK;Hiirenkari;HK4;HK4
+FIKTK;HaminaKotka;HIIRK;Hiirenkari;HK5;HK5
+FIKTK;HaminaKotka;HIIRK;Hiirenkari;HK6;HK6
+FIKTK;HaminaKotka;LAKUL;Lakulahti;MUU;Ei tiedossa
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L1;L1
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L2;L2
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L3;L3
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L4;L4
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L5;L5
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L6;L6
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L7;L7
+FIKTK;HaminaKotka;LAKUL;Lakulahti;L8;L8
+FIKTK;HaminaKotka;PALOK;Palokangas;MUU;Ei tiedossa
+FIKTK;HaminaKotka;PALOK;Palokangas;PK1;PK1
+FIKTK;HaminaKotka;PALOK;Palokangas;PK2;PK2
+FIKTK;HaminaKotka;PALOK;Palokangas;PK3;PK3
+FIKTK;HaminaKotka;SUM;Summa;MUU;Ei tiedossa
+FIKTK;HaminaKotka;SUM;Summa;SUM;SUM
+FIKTK;HaminaKotka;KLA;Klamila;MUU;Ei tiedossa
+FIKTK;HaminaKotka;KLA;Klamila;KLA;KLA
+FIKTK;HaminaKotka;HL;Hailikari;HL1;Hailikari 1
+FIKTK;HaminaKotka;LAN;LÄNSISATAMA;MUU;Ei tiedossa
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);MUU;Ei tiedossa
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);MUU;Ei tiedossa
+FIKTK;HaminaKotka;MUSNE;MUSSALO (NESTE);MUU;Ei tiedossa
+FIKTK;HaminaKotka;HET;HIETANEN ETELÄ;MUU;Ei tiedossa
+FIKTK;HaminaKotka;SUSAT;SUNILA, SATAMA OY;MUU;Ei tiedossa
+FIKTK;HaminaKotka;SUSUN;SUNILA, SUNILA OY;MUU;Ei tiedossa
+FIKTK;HaminaKotka;PUI;ÖLJYSATAMA;MUU;Ei tiedossa
+FIKTK;HaminaKotka;EU;Konttisatama;EU4;EU4
+FIKTK;HaminaKotka;EU;Konttisatama;MUU;Ei tiedossa
+FIKTK;HaminaKotka;EU;Konttisatama;EU0;EU0
+FIKTK;HaminaKotka;EU;Konttisatama;EU1;EU1
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);C?;MUSC?
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);B?;MUSB?
+FIKTK;HaminaKotka;JAN;JÄNSKÄ;J1;JÄNSKÄ1
+FIKTK;HaminaKotka;JAN;JÄNSKÄ;MUU;Ei tiedossa
+FIKTK;HaminaKotka;KAN;KANTASATAMA;V1;KANV1
+FIKTK;HaminaKotka;KAN;KANTASATAMA;V2;KANV2
+FIKTK;HaminaKotka;KAN;KANTASATAMA;VP;KANVP
+FIKTK;HaminaKotka;KAN;KANTASATAMA;V3;KANV3
+FIKTK;HaminaKotka;KAN;KANTASATAMA;V4;KANV4
+FIKTK;HaminaKotka;KAN;KANTASATAMA;I1;KANI1
+FIKTK;HaminaKotka;KAN;KANTASATAMA;I1-2;KANI1-2
+FIKTK;HaminaKotka;KAN;KANTASATAMA;I2;KANI2
+FIKTK;HaminaKotka;KAN;KANTASATAMA;I2-3;KANI2-3
+FIKTK;HaminaKotka;KAN;KANTASATAMA;N/A_I4;KANI4  (Ei käytössä)
+FIKTK;HaminaKotka;KAN;KANTASATAMA;N/I4-5;KANI4-5  (Ei käytössä)
+FIKTK;HaminaKotka;LAN;LÄNSISATAMA;L1;LAN1
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);A1;MUSA1
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);A1-2;MUSA1-2
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);A2;MUSA2
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);A2-3;MUSA2-3
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);A3;MUSA3
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);A3-4;MUSA3-4
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);A4;MUSA4
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);N/A4-5;MUSA4-5  (Ei käytössä)
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);N/A_A5;MUSA5  (Ei käytössä)
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);N/A5-6;MUSA5-6  (Ei käytössä)
+FIKTK;HaminaKotka;MUSKU;MUSSALO (KUIVA);N/A_A6;MUSA6  (Ei käytössä)
+FIKTK;HaminaKotka;PUI;ÖLJYSATAMA;O1;PUIÖ1
+FIKTK;HaminaKotka;PUI;ÖLJYSATAMA;O2;PUIÖ2
+FIKTK;HaminaKotka;SUSAT;SUNILA, SATAMA OY;S3;SUNS3
+FIKTK;HaminaKotka;SUSAT;SUNILA, SATAMA OY;S4;SUNS4
+FIKTK;HaminaKotka;HIE;HIETANEN;H7;HIEH7
+FIKTK;HaminaKotka;HIE;HIETANEN;H3;HIEH3
+FIKTK;HaminaKotka;HIE;HIETANEN;H4;HIEH4
+FIKTK;HaminaKotka;HIE;HIETANEN;H5;HIEH5
+FIKTK;HaminaKotka;HIE;HIETANEN;H6;HIEH6
+FIKTK;HaminaKotka;HOY;HÖYRYVOIMA;M1;HÖYM1
+FIKTK;HaminaKotka;MUSNE;MUSSALO (NESTE);N1;MUSN1
+FIKTK;HaminaKotka;MUSNE;MUSSALO (NESTE);N2;MUSN2
+FIKTK;HaminaKotka;SUSUN;SUNILA, SUNILA OY;S1;SUNS1
+FIKTK;HaminaKotka;SUSUN;SUNILA, SUNILA OY;S2;SUNS2
+FIKTK;HaminaKotka;HET;HIETANEN ETELÄ;T1;PUOT1
+FIKTK;HaminaKotka;HET;HIETANEN ETELÄ;T2;PUOT2
+FIKTK;HaminaKotka;HET;HIETANEN ETELÄ;T3;PUOT3
+FIKTK;HaminaKotka;HET;HIETANEN ETELÄ;T4;PUOT4
+FIKTK;HaminaKotka;KAN;KANTASATAMA;N/A_I5;KANI5  (Ei käytössä)
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);C0;MUSC0
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);C1;MUSC1
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);C2;MUSC2
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);C3;MUSC3
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);C4;MUSC4
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);C5;MUSC5
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);B0;MUSB0
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);B1;MUSB1
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);B2;MUSB2
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);B3;MUSB3
+FIKTK;HaminaKotka;MUSKO;MUSSALO (KONTTI);B4;MUSB4
+FIKTK;HaminaKotka;ANK;ANKKURISSA;HAV;HAVOURI
+FIKTK;HaminaKotka;ANK;ANKKURISSA;PIRK;PIRKÖYRI
+FIKTK;HaminaKotka;KAN;KANTASATAMA;I3;KANI3
+FIKTK;HaminaKotka;LAN;LÄNSISATAMA;L2;LAN2
+FIKTK;HaminaKotka;HIE;HIETANEN;N/A;HIEH7 (Ei käytössä)
+FIKTK;HaminaKotka;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKTK;HaminaKotka;ANK;ANKKURISSA;MUU;Ei tiedossa
+FIKTK;HaminaKotka;HAL;HALLA;MUU;Ei tiedossa
+FIKTK;HaminaKotka;HIE;HIETANEN;MUU;Ei tiedossa
+FIKTK;HaminaKotka;HOY;HÖYRYVOIMA;MUU;Ei tiedossa
+FIKTK;HaminaKotka;KAN;KANTASATAMA;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;PALOK;Palokangas;PK3;PK3
+FIHMN;Haminan kaupunki;KLA;Klamila;KLA;KLA
+FIHMN;Haminan kaupunki;PALOK;Palokangas;PK1;PK1
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L8;L8
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L7;L7
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L6;L6
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L5;L5
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L4;L4
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L3;L3
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L2;L2
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;L1;L1
+FIHMN;Haminan kaupunki;EU;Konttisatama;EU3;EU3
+FIHMN;Haminan kaupunki;EU;Konttisatama;EU2;EU2
+FIHMN;Haminan kaupunki;EU;Konttisatama;EU1;EU1
+FIHMN;Haminan kaupunki;EU;Konttisatama;EU0;EU0
+FIHMN;Haminan kaupunki;HILLO;Hillo;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;GAS;Kaasulaituri;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;KLA;Klamila;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;EU;Konttisatama;EU4;EU4
+FIHMN;Haminan kaupunki;LAKUL;Lakulahti;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;PALOK;Palokangas;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;SUM;Summa;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;OIL;Öljysatama;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;SUM;Summa;SUM;SUM
+FIHMN;Haminan kaupunki;OIL;Öljysatama;O3;Ö3
+FIHMN;Haminan kaupunki;TERVA;Tervasaari;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;OIL;Öljysatama;O1;Ö1
+FIHMN;Haminan kaupunki;OIL;Öljysatama;O2;Ö2
+FIHMN;Haminan kaupunki;ANK;Ankkurissa;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;HIIRK;Hiirenkari;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;EU;Konttisatama;MUU;Ei tiedossa
+FIHMN;Haminan kaupunki;HIIRK;Hiirenkari;HK1;HK1
+FIHMN;Haminan kaupunki;HIIRK;Hiirenkari;HK2;HK2
+FIHMN;Haminan kaupunki;HIIRK;Hiirenkari;HK3;HK3
+FIHMN;Haminan kaupunki;HIIRK;Hiirenkari;HK4;HK4
+FIHMN;Haminan kaupunki;HIIRK;Hiirenkari;HK5;HK5
+FIHMN;Haminan kaupunki;HIIRK;Hiirenkari;HK6;HK6
+FIHMN;Haminan kaupunki;HILLO;Hillo;H1;H1
+FIHMN;Haminan kaupunki;HILLO;Hillo;H2;H2
+FIHMN;Haminan kaupunki;HILLO;Hillo;H3;H3
+FIHMN;Haminan kaupunki;HILLO;Hillo;H4;H4
+FIHMN;Haminan kaupunki;GAS;Kaasulaituri;FG;FG
+FIHMN;Haminan kaupunki;PALOK;Palokangas;PK2;PK2
+FIHKO;Hanko;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIHKO;Hanko;OUT;ULKOSATAMA;OH1;Outer Harbour 1
+FIHKO;Hanko;FISH;TROOLISATAMA;FISH;Troolisatama
+FIHKO;Hanko;WEST;LÄNSISATAMA;RR1;Roro 1
+FIHKO;Hanko;LEVA;LEVATOR;LEV;Levator
+FIHKO;Hanko;ANK;ANKKURISSA;ANK 1;Georgsbank
+FIHKO;Hanko;WEST;LÄNSISATAMA;RR3;Roro 3
+FIHKO;Hanko;KOV;KOVERHAR;MUU;Ei tiedossa
+FIHKO;Hanko;OUT;ULKOSATAMA;OH2;Outer Harbour 2
+FIHKO;Hanko;WEST;LÄNSISATAMA;RR2;Roro 2
+FIHKO;Hanko;ANK;ANKKURISSA;ANK 3;Koverhar
+FIHKO;Hanko;ANK;ANKKURISSA;ANK 2;Gustavsvärn
+FIHKO;Hanko;KOV;KOVERHAR;KOV2;Pohjois laituri
+FIHKO;Hanko;KOV;KOVERHAR;KOV1;Etelä laituri
+FIHKO;Hanko;WEST;LÄNSISATAMA;RR4;Roro 4
+FIHKO;Hanko;WEST;LÄNSISATAMA;RR5;Roro 5
+FIHAU;Haukipudas;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIHEL;Helsinki;ANK;Ankkurissa;MUU;Ei tiedossa
+FIHEL;Helsinki;ES;Eteläsatama;MUU;Ei tiedossa
+FIHEL;Helsinki;OIL;Laajasalo;MUU;POISTETTU Ei tiedossa
+FIHEL;Helsinki;LS;Länsisatama;MUU;Ei tiedossa
+FIHEL;Helsinki;SO;Pohjoissatama;MUU;POISTETTU Ei tiedossa
+FIHEL;Helsinki;VTL;Vuosaari, telakka;MUU;Ei tiedossa
+FIHEL;Helsinki;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIHEL;Helsinki;ES;Eteläsatama;EKJ;Jäänmurtajalaituri
+FIHEL;Helsinki;ES;Eteläsatama;EKL;Katajanokan laituri
+FIHEL;Helsinki;LS;Länsisatama;LEL;Hiililaituri
+FIHEL;Helsinki;LS;Länsisatama;LHA;Munkkisaari A
+FIHEL;Helsinki;LS;Länsisatama;LHB;Munkkisaari B
+FIHEL;Helsinki;LS;Länsisatama;LHC;Hernesaari C
+FIHEL;Helsinki;LS;Länsisatama;LHD;Hernesaari D
+FIHEL;Helsinki;LS;Länsisatama;LJ3;Jätkän lauttapaikka 3
+FIHEL;Helsinki;LS;Länsisatama;LJ4;Jätkän lauttapaikka 4
+FIHEL;Helsinki;LS;Länsisatama;LJ5;Jätkän lauttapaikka 5
+FIHEL;Helsinki;LS;Länsisatama;LJ6;Jätkän lauttapaikka 6
+FIHEL;Helsinki;LS;Länsisatama;LJA;POISTETTU Jätkän laituripaikka A - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LJB;POISTETTU Jätkän laituripaikka B - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LJC;POISTETTU Jätkän laituripaikka C - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LJD;POISTETTU Jätkän laituripaikka D - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LJE;POISTETTU Jätkän laituripaikka E - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LKL;Hietalahden korkealaituri
+FIHEL;Helsinki;LS;Länsisatama;LM9;Melkinlaituri 9
+FIHEL;Helsinki;LS;Länsisatama;LMA;Melkinlaituri A
+FIHEL;Helsinki;LS;Länsisatama;LMB;Melkinlaituri B
+FIHEL;Helsinki;LS;Länsisatama;LML;POISTETTU Hietalahden matalalaituri - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LMY;Masa Yards - telakka
+FIHEL;Helsinki;LS;Länsisatama;LS8;POISTETTU Saukonlaituri 8 - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LSA;POISTETTU Saukonlaituri A - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LSH;Hiekkalaituri
+FIHEL;Helsinki;LS;Länsisatama;LSL;POISTETTU Sillilaituri - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LTA;POISTETTU Tammasaarenlaituri - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LV7;POISTETTU Valtamerilaituri 7 - ei käytössä
+FIHEL;Helsinki;ANK;Ankkurissa;RED;Ankkuripaikka
+FIHEL;Helsinki;OIL;Laajasalo;OLA;POISTETTU Shellin laituri - ei käytössä
+FIHEL;Helsinki;OIL;Laajasalo;OLB;POISTETTU Nesteen laituri - ei käytössä
+FIHEL;Helsinki;OIL;Laajasalo;OLC;POISTETTU Esson laituri - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SHA;Hanasaaren laituri A
+FIHEL;Helsinki;SO;Pohjoissatama;SHB;Hanasaaren laituri B
+FIHEL;Helsinki;SO;Pohjoissatama;SIT;POISTETTU Sompan itälaituri - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SKS;POISTETTU Sörnäisten kalasatama - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SPK;POISTETTU Partekin laituri - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SS1;POISTETTU Sompasaaren laituri 1 - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SS2;POISTETTUSompasaaren laituri 2 - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SS3;POISTETTU Sompasaaren laituri 3 - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SS4;POISTETTU Sompasaaren laituri 4 - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SS5;POISTETTU Sompasaaren laituri 5 - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SS6;POISTETTU Sompasaaren laituri 6 - ei käytössä
+FIHEL;Helsinki;SO;Pohjoissatama;SSA;POISTETTU Sompasaaren laituri A - ei käytössä
+FIHEL;Helsinki;VTL;Vuosaari, telakka;VHL;Hiekkalaituri
+FIHEL;Helsinki;VTL;Vuosaari, telakka;VTL;Telakan laituri
+FIHEL;Helsinki;SO;Pohjoissatama;SS7;POISTETTU Sörnäisten laituri (7) - ei käytössä
+FIHEL;Helsinki;LS;Länsisatama;LJ2;POISTETTU Jätkän lauttapaikka 2 - ei käytössä
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VDA;VDA
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VFA;VFA
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VC1;VC1
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VC2;VC2
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VF3;VF3
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VF4;VF4
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VG5;VG5
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VG6;VG6
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VG7;VG7
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VG8;VG8
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VG9;VG9
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VGA;VGA
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VE1;VE1
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VEA;VEA
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VEB;VEB
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VEC;VEC
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VED;VED
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VB2;VB2
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VB3;VB3
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VD4;VD4
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VDB;VDB
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VD5;VD5
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VA6;VA6
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VA7;VA7
+FIHEL;Helsinki;ES;Eteläsatama;EO1;ETELÄ 1
+FIHEL;Helsinki;ES;Eteläsatama;EO2;ETELÄ 2
+FIHEL;Helsinki;ES;Eteläsatama;EM3;ETELÄ 3
+FIHEL;Helsinki;ES;Eteläsatama;EM4;ETELÄ 4
+FIHEL;Helsinki;ES;Eteläsatama;EPL;VIRO 1
+FIHEL;Helsinki;ES;Eteläsatama;ELY;VIRO 2
+FIHEL;Helsinki;ES;Eteläsatama;EKE;POISTETTU KAUPPATORI - ei käytössä
+FIHEL;Helsinki;ES;Eteläsatama;ELL;POISTETTU KANAVA 1 - ei käytössä
+FIHEL;Helsinki;ES;Eteläsatama;EKA;POISTETTU KANAVA  2 - ei käytössä
+FIHEL;Helsinki;ES;Eteläsatama;EK5;POISTETTU NOKKA 1- ei käytössä
+FIHEL;Helsinki;ES;Eteläsatama;EK6;NOKKA 2
+FIHEL;Helsinki;ES;Eteläsatama;EK7;NOKKA 3
+FIHEL;Helsinki;ES;Eteläsatama;EK7;NOKKA 4
+FIHEL;Helsinki;ES;Eteläsatama;ERA;RISTEILY 1
+FIHEL;Helsinki;ES;Eteläsatama;ERB;RISTEILY 2
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VA8;VA8
+FIHEL;Helsinki;VUOS;Vuosaaren satama;MUU;POISTETTU Ei tiedossa
+FIHEL;Helsinki;ES;Eteläsatama;EOA;Olympialaituri
+FIHEL;Helsinki;ES;Eteläsatama;EMA;Makasiinilaituri A
+FIHEL;Helsinki;ES;Eteläsatama;EMB;Makasiinilaituri B
+FIHEL;Helsinki;LS;Länsisatama;LSB;POISTETTU Saukonlaituri B - ei käytössä
+FIHEL;Helsinki;VUOS;Vuosaaren satama;VDC;VDC
+FIHEL;Helsinki;SO;Pohjoissatama;SSB;POISTETTU Sompasaaren laituri B - ei käytössä
+FIHOU;Houtskari;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIIIS;Iisalmi;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIIMA;Imatra;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIINI;Iniö;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIINK;Inkoo;FORTUM;Fortum;MUU;Ei tiedossa
+FIINK;Inkoo;IS;Inkoo Shipping;4;Laituripaikka 4
+FIINK;Inkoo;ANK;Ankkurissa;MUU;Ei tiedossa
+FIINK;Inkoo;IS;Inkoo Shipping;5;Laituripaikka 5
+FIINK;Inkoo;IS;Inkoo Shipping;1;Laituripaikka 1
+FIINK;Inkoo;ÖLJY;Öljysatama;MUU;Ei tiedossa
+FIINK;Inkoo;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIINK;Inkoo;IS;Inkoo Shipping;2;Laituripaikka 2
+FIINK;Inkoo;IS;Inkoo Shipping;3;Laituripaikka 3
+FIISN;Isnäs;MUU;Ei Tiedossa;MUU;Ei Tiedossa
+FIISN;Isnäs;SAHA;sahan laituri;MUU;Ei Tiedossa
+FIJOE;Joensuu;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIJOU;Joutseno;PU;Pulp;MUU;Ei tiedossa
+FIJOU;Joutseno;SAHA;sahalaituri;MUU;Ei tiedossa
+FIJOU;Joutseno;HO;Honkalahti;MUU;Ei tiedossa
+FIKNT;Kantvik;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKAS;Kaskinen;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKAS;Kaskinen;SISA;Sisäsatama;MUU;Ei tiedossa
+FIKAS;Kaskinen;SSA;Syväsatama;MUU;Ei tiedossa
+FIKAS;Kaskinen;ANK;Ankkurissa;MUU;Ei tiedossa
+FIKAS;Kaskinen;BSA;Bulksatama;MUU;Ei tiedossa
+FIKEM;Kemi;VL;Veitsiluoto;B04;LAITURI 4
+FIKEM;Kemi;VL;Veitsiluoto;B05;LAITURI 5
+FIKEM;Kemi;VL;Veitsiluoto;B06;LAITURI 6
+FIKEM;Kemi;VL;Veitsiluoto;B07;LAITURI 7
+FIKEM;Kemi;OIL;Öljysatama;B01;LAITURI 1
+FIKEM;Kemi;AJOS;Ajos;B08;LAITURI 8
+FIKEM;Kemi;ANK;Ankkurissa;MUU;Ei tiedossa
+FIKEM;Kemi;VL;Veitsiluoto;MUU;Ei tiedossa
+FIKEM;Kemi;OIL;Öljysatama;MUU;Ei tiedossa
+FIKEM;Kemi;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKEM;Kemi;AJOS;Ajos;B09;LAITURI 9
+FIKEM;Kemi;AJOS;Ajos;B10;LAITURI 10
+FIKEM;Kemi;AJOS;Ajos;B11;LAITURI 11
+FIKEM;Kemi;AJOS;Ajos;B12;SAMPO
+FIKEM;Kemi;AJOS;Ajos;B01;LAITURI 1
+FIKEM;Kemi;AJOS;Ajos;B02;LAITURI 2
+FIKEM;Kemi;AJOS;Ajos;B03;LAITURI 3
+FIKEM;Kemi;AJOS;Ajos;B04;LAITURI 4
+FIKEM;Kemi;AJOS;Ajos;B05;LAITURI 5
+FIKEM;Kemi;AJOS;Ajos;B06;LAITURI 6
+FIKEM;Kemi;AJOS;Ajos;B07;LAITURI 7
+FIKEM;Kemi;VL;Veitsiluoto;B01;LAITURI 1
+FIKEM;Kemi;VL;Veitsiluoto;B02;LAITURI 2
+FIKEM;Kemi;VL;Veitsiluoto;B03;LAITURI 3
+FIKIM;Kemiö;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKIM;Kemiö;SKIN;Skinnarvik;MUU;Ei tiedossa
+FIKIM;Kemiö;FROJ;Fröjdböle;MUU;Ei tiedossa
+FIKIM;Kemiö;MJOS;Mjösund;MUU;Ei tiedossa
+FIKIM;Kemiö;KASN;Kasnäs;MUU;Ei tiedossa
+FISKV;Kilpilahti;AN1;Inner Anchor place;IN1;Sisäankkurissa
+FISKV;Kilpilahti;MUU;Ei tiedossa;MUU;Ei Tiedossa
+FISKV;Kilpilahti;OIL;Öljylaituri;OIL;Öljylaituri
+FISKV;Kilpilahti;OIL;Öljylaituri;MUU;Ei tiedossa
+FISKV;Kilpilahti;AN2;Outer Anchor place;OUT1;Ulkoankkurissa
+FIKTQ;Kitee;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKOK;Kokkola;HK;HOPEAKIVEN SATAMA;HK 1;Hopeakiven laituri 1
+FIKOK;Kokkola;HK;HOPEAKIVEN SATAMA;HK 2;Hopeakiven laituri 2
+FIKOK;Kokkola;ANK;ANKKURISSA;MUU;Ei tiedossa
+FIKOK;Kokkola;KL;Ei käytössä;MUU;Ei tiedossa
+FIKOK;Kokkola;KS;KANTASATAMA;KS 2;Rantalaituri 2
+FIKOK;Kokkola;OUTOL;Ei käytössä;MUU;Ei tiedossa
+FIKOK;Kokkola;RL;Ei käytössä;MUU;Ei tiedossa
+FIKOK;Kokkola;SL;Ei käytössä;MUU;Ei tiedossa
+FIKOK;Kokkola;OL;Ei käytössä;MUU;Ei tiedossa
+FIKOK;Kokkola;SS;SYVÄSATAMA;Pois;Hopeakiven laituri 6
+FIKOK;Kokkola;SL;Ei käytössä;NRO 11;LAITURI 11
+FIKOK;Kokkola;SL;Ei käytössä;NRO 10;LAITURI 10
+FIKOK;Kokkola;SL;Ei käytössä;NRO 9;LAITURI 9
+FIKOK;Kokkola;OUTOL;Ei käytössä;NRO 8;LAITURI 8
+FIKOK;Kokkola;OUTOL;Ei käytössä;NRO 7;LAITURI 7
+FIKOK;Kokkola;KL;Ei käytössä;NRO 6;LAITURI 6
+FIKOK;Kokkola;OL;Ei käytössä;NRO 5;LAITURI  5
+FIKOK;Kokkola;KS;KANTASATAMA;KS 1;Rantalaituri 1
+FIKOK;Kokkola;RL;Ei käytössä;NA;POISTETTU
+FIKOK;Kokkola;SS;SYVÄSATAMA;MUU;Muu laituri
+FIKOK;Kokkola;RL;Ei käytössä;NRO 1;LAITURI 1
+FIKOK;Kokkola;RL;Ei käytössä;NRO 2;LAITURI 2
+FIKOK;Kokkola;SS;SYVÄSATAMA;SS 12;Syvälaituri 12
+FIKOK;Kokkola;SS;SYVÄSATAMA;SS 11;Syvälaituri 11
+FIKOK;Kokkola;SS;SYVÄSATAMA;SS 10;Syvälaituri 10
+FIKOK;Kokkola;SS;SYVÄSATAMA;SS 9;Syvälaituri 9
+FIKOK;Kokkola;SS;SYVÄSATAMA;SS 8;Bolidenlaituri 8
+FIKOK;Kokkola;SS;SYVÄSATAMA;SS 7;Öljylaituri 7
+FIKOK;Kokkola;KS;KANTASATAMA;MUU;Muu laituri
+FIKOK;Kokkola;KS;KANTASATAMA;KS 5;Kemikaalilaituri 5
+FIKOK;Kokkola;KS;KANTASATAMA;KS 4;AWT 4
+FIKOR;Korppoo;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKRS;Kristiinankaupunki;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKRS;Kristiinankaupunki;SYVA;Syväsatama;OIL;Öljylaituri
+FIKRS;Kristiinankaupunki;SISA;Sisäsatama;MUU;Ei tiedossa
+FIKRS;Kristiinankaupunki;SYVA;Syväsatama;MUU;Ei tiedossa
+FIKRS;Kristiinankaupunki;SYVA;Syväsatama;HII;Hiililaituri
+FIKRO;Kronvik;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKUM;Kumlinge;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKUO;Kuopio;KUMP;Kumpusaari;MUU;Ei tiedossa
+FIKUO;Kuopio;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKUO;Kuopio;SAVO;Savon sellu;MUU;Ei tiedossa
+FIKUS;Kustavi;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIKKR;Kökar;MUU;Ei tiedossa;MUU;Ei tiedossa
+FILPP;Lappeenranta;MU;Mustola;1;nro 1
+FILPP;Lappeenranta;MU;Mustola;2;nro 2
+FILPP;Lappeenranta;MAT;Matkustajasatama;MUU;Ei tiedossa
+FILPP;Lappeenranta;MUU;Ei tiedossa;MUU;Ei tiedossa
+FILPP;Lappeenranta;MU;Mustola;MUU;Ei tiedossa
+FILPP;Lappeenranta;MSA;Metsä-Saimaa;MUU;Ei tiedossa
+FILPP;Lappeenranta;KA;Kaukas;MUU;Ei tiedossa
+FILPP;Lappeenranta;MU;Mustola;HIILI;Hiililaituri
+FILPP;Lappeenranta;MU;Mustola;8;nro 8
+FILPP;Lappeenranta;MU;Mustola;7;nro 7
+FILPP;Lappeenranta;MU;Mustola;4;nro 4
+FILPP;Lappeenranta;MU;Mustola;3;nro 3
+FILAP;Lappohja;MUU;Ei tiedossa;MUU;Ei tiedossa
+FILAP;Lappohja;01;Rautaruukki;MUU;Ei tiedossa
+FILOV;Loviisa;VALKO;Valko;3;Pitkälaituri
+FILOV;Loviisa;VALKO;Valko;2;Vinolaituri
+FILOV;Loviisa;VALKO;Valko;Ei tie;Ei tiedossa
+FILOV;Loviisa;VALKO;Valko;6;Pohjoislaituri
+FILOV;Loviisa;VALKO;Valko;1;Etelälaituri
+FILOV;Loviisa;VALKO;Valko;3¿;Pitkälaituri
+FILOV;Loviisa;VALKO;Valko;4;Pitkälaituri
+FILOV;Loviisa;ANK;Ankkurissa;MUU;Ei tiedossa
+FILUV;Luvia;MUU;Ei tiedossa;MUU;Ei tiedossa
+FILAN;Långnäs;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIMAA;Maaninka;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIMHQ;Mariehamn;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIMER;Merikarvia;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIMIK;Mikkeli;MUU;Ei tiedossa;MUU;Ei tiedossa
+FINLI;Naantali;ANK;Ankkurissa;MUU;Ei tiedossa
+FINLI;Naantali;NESTE;Neste Oyj:n jalostamo;MUU;Ei tiedossa
+FINLI;Naantali;KANTA;Kantasatama;MUU;Ei tiedossa
+FINLI;Naantali;NESTE;Neste Oyj:n jalostamo;NESTE;Ei tiedossa
+FINLI;Naantali;KANTA;Kantasatama;KANTA;ei tiedossa
+FINLI;Naantali;LMAA;Luonnonmaa;MUU;Ei tiedossa
+FINLI;Naantali;TELAK;Telakka;MUU;Ei tiedossa
+FINLI;Naantali;MUU;Ei tiedossa;MUU;Ei tiedossa
+FINLI;Naantali;KANTA;Kantasatama;BNLI26;Ro-Ro 26
+FINLI;Naantali;KANTA;Kantasatama;BNLI27;Ro-Ro 27
+FINLI;Naantali;NESTE;Neste Oyj:n jalostamo;BNLI01;Neste 1
+FINLI;Naantali;NESTE;Neste Oyj:n jalostamo;BNLI02;Neste 2
+FINLI;Naantali;NESTE;Neste Oyj:n jalostamo;BNLI03;Neste 3
+FINLI;Naantali;KANTA;Kantasatama;BNLI15;Hiililaituri 15
+FINLI;Naantali;KANTA;Kantasatama;BNLI16;Viljalaituri 16
+FINLI;Naantali;KANTA;Kantasatama;BNLI17;Viljalaituri 17
+FINLI;Naantali;KANTA;Kantasatama;BNLI18;Lauttalaituri 18
+FINLI;Naantali;KANTA;Kantasatama;BNLI20;Lauttalaituri 20
+FINLI;Naantali;KANTA;Kantasatama;BNLI22;Mobil 22
+FINLI;Naantali;KANTA;Kantasatama;BNLI24;Kivilaituri  24
+FINLI;Naantali;KANTA;Kantasatama;BNLI25;Sokerilaituri 25
+FINLI;Naantali;LMAA;Luonnonmaa;BNLI30;Luonnonmaa 30
+FINLI;Naantali;LMAA;Luonnonmaa;BNLI31;Luonnonmaa 31
+FINLI;Naantali;TELAK;Telakka;BNLI40;Kuivatelakka 40
+FINLI;Naantali;TELAK;Telakka;BNLI41;Varustelulaituri 41
+FINLI;Naantali;TELAK;Telakka;BNLI42;Uivatelakka 42
+FINLI;Naantali;KANTA;Kantasatama;BNLI23;Kivilaituri 23
+FINAU;Nauvo;MUU;Ei tiedossa;MUU;Ei tiedossa
+FINUR;Nurmes;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIOUL;Oulu;NS;NUOTTASAARI;KL2;KEM2 (v)
+FIOUL;Oulu;OR;ORITKARI;106;106
+FIOUL;Oulu;NS;NUOTTASAARI;MUU;Ei tiedossa
+FIOUL;Oulu;OR;ORITKARI;MUU;Ei tiedossa
+FIOUL;Oulu;TOPPI;TOPPILA;MUU;Ei tiedossa
+FIOUL;Oulu;VS;VIHREÄSAARI;MUU;Ei tiedossa
+FIOUL;Oulu;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIOUL;Oulu;OR;ORITKARI;2;PÄÄLAITURI 2 (v)
+FIOUL;Oulu;NS;NUOTTASAARI;2;Päälaituri 2 (v)
+FIOUL;Oulu;NS;NUOTTASAARI;3;Päälaituri 3 (v)
+FIOUL;Oulu;OR;ORITKARI;4;POHJOISLAITURI 4 (v)
+FIOUL;Oulu;NS;NUOTTASAARI;1;Päälaituri 1 (v)
+FIOUL;Oulu;NS;NUOTTASAARI;KL1;KEM1 (v)
+FIOUL;Oulu;OR;ORITKARI;1;PÄÄLAITURI 1 (v)
+FIOUL;Oulu;OR;ORITKARI;3;PÄÄLAITURI 3 (v)
+FIOUL;Oulu;OR;ORITKARI;5;POHJOISLAITURI 5 (v)
+FIOUL;Oulu;TOPPI;TOPPILA;T1;PÄÄLAITURI
+FIOUL;Oulu;TOPPI;TOPPILA;T2;ÖLJYLAITURI
+FIOUL;Oulu;VS;VIHREÄSAARI;OIL;Öljylaituri (v)
+FIOUL;Oulu;VS;VIHREÄSAARI;BU;Bulklaituri (v)
+FIOUL;Oulu;OR;ORITKARI;101;101
+FIOUL;Oulu;NS;NUOTTASAARI;202;202
+FIOUL;Oulu;NS;NUOTTASAARI;201;201
+FIOUL;Oulu;NS;NUOTTASAARI;204;204
+FIOUL;Oulu;NS;NUOTTASAARI;203;203
+FIOUL;Oulu;VS;VIHREÄSAARI;301;301
+FIOUL;Oulu;VS;VIHREÄSAARI;302;302
+FIOUL;Oulu;OR;ORITKARI;102;102
+FIOUL;Oulu;VS;VIHREÄSAARI;303;303
+FIOUL;Oulu;OR;ORITKARI;103;103
+FIOUL;Oulu;OR;ORITKARI;104;104
+FIOUL;Oulu;OR;ORITKARI;105;105
+FIOUL;Oulu;ANK;ANKKURISSA;MUU;Ei tiedossa
+FIPAR;Parainen;HES;Hessund;MUU;Ei tiedossa
+FIPAR;Parainen;SEM;Sementtisatama;MAA1;Maalaituri 1
+FIPAR;Parainen;SEM;Sementtisatama;LANSI;Pistolaituri länsi
+FIPAR;Parainen;SEM;Sementtisatama;ITA;Pistolaituri Itä
+FIPAR;Parainen;SEM;Sementtisatama;MAA2;Maalaituri 2
+FIPAR;Parainen;KAL;Kalkkisatama;KAL1;Kalkkisatama 1
+FIPAR;Parainen;SEM;Sementtisatama;SEM;Sementtilaituri
+FIPAR;Parainen;ANK;Ankkurissa;MUU;Ei tiedossa
+FIPAR;Parainen;SEM;Sementtisatama;MUU;Ei tiedossa
+FIPAR;Parainen;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIPAR;Parainen;KAL;Kalkkisatama;KAL2;Kalkkisatama 2
+FIPAR;Parainen;KAL;Kalkkisatama;MUU;Ei tiedossa
+FIPER;Pernaja;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIPRS;Pietarsaari;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIPRS;Pietarsaari;KANAS;KANÄS;MUU;Ei tiedossa
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;PK;Sementtilaituri
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;MUU;Ei tiedossa
+FIPRS;Pietarsaari;ANK;ANKKURISSA;MUU;Ei tiedossa
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;L2;Laukko II
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;L3;Laukko III
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;L1;Laukko I
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;BQ;Buskön laituri
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;SQ;Etelälaituri
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;DEL1;- Poistettu käytöstä 'SÖDRA KAJEN IN'
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;DEL2;- Poitettu käytöstä 'ALHOLMS BRON  UT'
+FIPRS;Pietarsaari;ALHOLM;ALHOLMEN;DEL3;- Poistettu käytöstä 'ALHOLMS BRON IN'
+FIPOH;Pohjankuru;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B10;Kallonlahti 1
+FIPOR;Porin satama;TAHKO;TAHKOLUOTO;B26;SYVÄSATAMA 26
+FIPOR;Porin satama;TAHKO;TAHKOLUOTO;B27;SYVÄSATAMA 27
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B23;KALLONLAHTI 23
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B24;KALLONLAHTI 24
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B25;KALLONLAHTI 25
+FIPOR;Porin satama;ANK;ANKKURISSA;MUU;Ei tiedossa
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;MUU;Ei käytössä
+FIPOR;Porin satama;REPO;REPOSAARI;MUU;Ei tiedossa
+FIPOR;Porin satama;TAHKO;TAHKOLUOTO;MUU;Ei käytössä
+FIPOR;Porin satama;B00;VANHA;MUU;Ei tiedossa
+FIPOR;Porin satama;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;MTL;Telakka
+FIPOR;Porin satama;TAHKO;TAHKOLUOTO;K30;Kemikaalilaituri no:30
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B01;Poistettu (KIVILAITURI 1)
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B02;Poistettu (KIVILAITURI 2)
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B03;BETONILAITURI 3
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B04;BETONILAITURI 4
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B05;BETONILAITURI 5
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B06;BETONILAITURI 6
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B07;BETONILAITURI 7
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B00;VANHA
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B00;VANHA
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B00;VANHA
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B00;VANHA
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B00;VANHA
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B00;VANHA
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B14;ALASKA 14
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B15;ALASKA 15
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B16;ALASKA 16
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B17;ALASKA 17
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B18;ALASKA 18
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B19;ALASKA 19
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B20;KALLONLAHTI 20
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B21;KALLONLAHTI 21
+FIPOR;Porin satama;MANTY;MÄNTYLUOTO;B22;KALLONLAHTI 22
+FIPOR;Porin satama;B00;VANHA;B00;VANHA
+FIPOR;Porin satama;TAHKO;TAHKOLUOTO;B29;ÖLJYLAITURI
+FIPOR;Porin satama;TAHKO;TAHKOLUOTO;B28;PISTOLAITURI
+FIKJO;Port of Kalajoki;A;länsikenttä;3;3-laituri (länsi)
+FIKJO;Port of Kalajoki;B;keskialue;2;2-laituri (ramppi)
+FIKJO;Port of Kalajoki;C;itäkenttä;1;1-laituri (itälaituri)
+FIPRV;Porvoo;MUU;Ei Tiedossa;MUU;Ei Tiedossa
+FIPRV;Porvoo;ANK;Ankkurissa;MUU;Ei Tiedossa
+FIPUU;Puumala;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIRAA;Raahe;LL;Lapaluoto;LL03;Lapaluoto laituri 3
+FIRAA;Raahe;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIRAA;Raahe;LL;Lapaluoto;LL01;Lapaluoto laituri 1
+FIRAA;Raahe;RR;Rautaruukki;RR06;Rautaruukki laituri 6
+FIRAA;Raahe;RR;Rautaruukki;RR05;Rautaruukki laituri 5
+FIRAA;Raahe;RR;Rautaruukki;RR04;Rautaruukki laituri 4
+FIRAA;Raahe;RR;Rautaruukki;RR03;Rautaruukki laituri 3
+FIRAA;Raahe;RR;Rautaruukki;RR02;Rautaruukki laituri 2
+FIRAA;Raahe;RR;Rautaruukki;RR01;Rautaruukki laituri 1
+FIRAA;Raahe;LL;Lapaluoto;LLOD;Lapaluoto odotuslaituri
+FIRAA;Raahe;RR;Rautaruukki;SL1;Syvälaituri 1
+FIRAA;Raahe;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIRAA;Raahe;ANK;Ankkurissa;MUU;Ei tiedossa
+FIRAA;Raahe;RR;Rautaruukki;SL2;Syvälaituri 2
+FIRAA;Raahe;ANK;Ankkurissa;MUU;Ei tiedossa
+FIRAA;Raahe;LL;Lapaluoto;LL02;Lapaluoto laituri 2
+FIRAU;Rauma;BB;Öljysatama;BB2;Kemikaali nro 1
+FIRAU;Rauma;BB;Öljysatama;BB3;Kemikaali nro 2
+FIRAU;Rauma;BJ;Pikisaari;BJ2;Piki 2
+FIRAU;Rauma;BA1;Suoja;BA1;Suoja
+FIRAU;Rauma;BB;Öljysatama;BB1;Öljylaituri
+FIRAU;Rauma;BE;Hakuni;BE2;Ro-Ro 2
+FIRAU;Rauma;BD;Keskuslaituri;BD3;Nro 21
+FIRAU;Rauma;BK1;Aker Finnyards;MUU;Ei tiedossa
+FIRAU;Rauma;ANK;Ankkurissa;MUU;Ei tiedossa
+FIRAU;Rauma;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIRAU;Rauma;BE;Hakuni;MUU;Ei tiedossa
+FIRAU;Rauma;BF;Iso-Hakuni;MUU;Ei tiedossa
+FIRAU;Rauma;BD;Keskuslaituri;MUU;Ei tiedossa
+FIRAU;Rauma;BC;Laitsaari;BC3;Nro 17
+FIRAU;Rauma;BL;Metsä-Botnia;BL2;Metsä-Botnia
+FIRAU;Rauma;BH;Petäjäs, Bulksatama;MUU;Ei tiedossa
+FIRAU;Rauma;BG;Petäjäs, Konttilaituri;MUU;Ei tiedossa
+FIRAU;Rauma;BJ;Pikisaari;MUU;Ei tiedossa
+FIRAU;Rauma;BA1;Suoja;MUU;Ei tiedossa
+FIRAU;Rauma;BB;Öljysatama;MUU;Ei tiedossa
+FIRAU;Rauma;BJ;Pikisaari;BJ1;Piki 1
+FIRAU;Rauma;BL;Metsä-Botnia;BL1;Metsä-Botnia
+FIRAU;Rauma;BG;Petäjäs, Konttilaituri;BG;Konttilaituri
+FIRAU;Rauma;BC;Laitsaari;BC2;Nro 16
+FIRAU;Rauma;BD;Keskuslaituri;BD2;Nro 20
+FIRAU;Rauma;BH;Petäjäs, Bulksatama;BH3;P3
+FIRAU;Rauma;BH;Petäjäs, Bulksatama;BH2;P2
+FIRAU;Rauma;BD;Keskuslaituri;BD1;Ro-Ro 1
+FIRAU;Rauma;BH;Petäjäs, Bulksatama;BH1;P1
+FIRAU;Rauma;BC;Laitsaari;BC1;Nro 15
+FIRAU;Rauma;BF;Iso-Hakuni;BF5;Ro-Ro 7
+FIRAU;Rauma;BF;Iso-Hakuni;BF4;Ro-Ro 6
+FIRAU;Rauma;BF;Iso-Hakuni;BF3;Ro-Ro 5
+FIRAU;Rauma;BF;Iso-Hakuni;BF2;Ro-Ro 4
+FIRAU;Rauma;BC;Laitsaari;MUU;Ei tiedossa
+FIRAU;Rauma;BE;Hakuni;BE1;Nro 23
+FIRAU;Rauma;BF;Iso-Hakuni;BF1;Ro-Ro 3
+FIRIS;Ristiina;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIRUO;Ruotsinpyhtää;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIRYM;Rymättylä;MUU;Ei tiedossa;MUU;Ei tiedossa
+FISAL;Salo;MUU;Ei tiedossa;MUU;Ei tiedossa
+FISAL;Salo;USKE;Uskela;MUU;Ei tiedossa
+FISVL;Savonlinna;MUU;Ei tiedossa;MUU;Ei tiedossa
+FISII;Siilinjärvi;MUU;Ei tiedossa;MUU;Ei tiedossa
+FISIP;Sipoo;MUU;Ei Tiedossa;MUU;Ei Tiedossa
+FISKB;Skogby;MUU;Ei tiedossa;MUU;Ei tiedossa
+FISTR;Strömma;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIDLS;Taalintehdas;Muu;Ei tiedossa;MUU;Ei tiedossa
+FIDLS;Taalintehdas;ANK;Ankkurissa;MUU;Ei tiedossa
+FIDLS;Taalintehdas;MUU;Ei tiedossa;MUU;Ei tiedossa
+FITVS;Taivassalo;MUU;Ei tiedossa;MUU;Ei tiedossa
+FITAI;Tammisaari;MUU;Ei tiedossa;MUU;Ei tiedossa
+FITEI;Teijo;MUU;Ei tiedossa;MUU;Ei tiedossa
+FITOK;Tolkkinen;MUU;Ei Tiedossa;MUU;Ei Tiedossa
+FITOK;Tolkkinen;MUU;Ei Tiedossa;Pohj;Pohjoislaituri
+FITOK;Tolkkinen;MUU;Ei Tiedossa;Etelä;Etelälaituri
+FITOR;Tornio;1;Yksi;1;Yksi
+FITOR;Tornio;2;Kaksi;2;Kaksi
+FITOR;Tornio;3;Kolme;3;Kolme
+FITOR;Tornio;6;Kuusi;MUU;Ei tiedossa
+FITOR;Tornio;6;Kuusi;6;Kuusi
+FITOR;Tornio;7;Seitsemän;MUU;Ei tiedossa
+FITOR;Tornio;7;Seitsemän;7;Seitsemän
+FITOR;Tornio;5;Viisi;MUU;Ei Tiedossa
+FITOR;Tornio;5;Viisi;5;Viisi
+FITOR;Tornio;4;Neljä;MUU;Ei tiedossa
+FITOR;Tornio;4;Neljä;4;Neljä
+FITOR;Tornio;MUU;Ei tiedossa;MUU;Ei tiedossa
+FITOR;Tornio;1;Yksi;MUU;Ei tiedossa
+FITOR;Tornio;3;Kolme;MUU;Ei tiedossa
+FITOR;Tornio;2;Kaksi;MUU;Ei tiedossa
+FITOR;Tornio;ANK;Ankkurissa;MUU;Ei tiedossa
+FITOR;Tornio;KL;Kaasulaituri;MUU;Ei tiedossa
+FITKU;Turun Satama;EAST;Linnanaukko;99;Ei käytössä
+FITKU;Turun Satama;WEST;Länsisatama;99;Ei käytössä
+FITKU;Turun Satama;PASSE;Matkustajasatama;99;Ei käytössä
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;24;RO-RO
+FITKU;Turun Satama;PERNO;Pernon telakka (Meyer Turku));99;Ei käytössä
+FITKU;Turun Satama;RIVER;Jokisatama;88;Korjaustelakka
+FITKU;Turun Satama;RIVER;Jokisatama;99;Muu
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;99;Ei käytössä
+FITKU;Turun Satama;PERNO;Pernon telakka (Meyer Turku));88;Korjaustelakka
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;11;RMR P-11
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;12;RMR P-12
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;13;RMR P-13
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;14;RMR P-14
+FITKU;Turun Satama;EAST;Linnanaukko;22;east22
+FITKU;Turun Satama;WEST;Länsisatama;32;west32
+FITKU;Turun Satama;WEST;Länsisatama;33;west33
+FITKU;Turun Satama;WEST;Länsisatama;34;west34
+FITKU;Turun Satama;RIVER;Jokisatama;9;joki9
+FITKU;Turun Satama;RIVER;Jokisatama;10;joki10
+FITKU;Turun Satama;RIVER;Jokisatama;11;joki11
+FITKU;Turun Satama;RIVER;Jokisatama;12;joki12
+FITKU;Turun Satama;RIVER;Jokisatama;13;joki13
+FITKU;Turun Satama;RIVER;Jokisatama;14;joki14 Forum Marinum
+FITKU;Turun Satama;RIVER;Jokisatama;15;joki15
+FITKU;Turun Satama;EAST;Linnanaukko;23;east23
+FITKU;Turun Satama;EAST;Linnanaukko;24;east24
+FITKU;Turun Satama;EAST;Linnanaukko;25;east25
+FITKU;Turun Satama;EAST;Linnanaukko;26;east26
+FITKU;Turun Satama;EAST;Linnanaukko;27;east27
+FITKU;Turun Satama;EAST;Linnanaukko;28;east28
+FITKU;Turun Satama;EAST;Linnanaukko;29;east29
+FITKU;Turun Satama;EAST;Linnanaukko;30;east30
+FITKU;Turun Satama;EAST;Linnanaukko;31;east31
+FITKU;Turun Satama;WEST;Länsisatama;35;west35
+FITKU;Turun Satama;WEST;Länsisatama;36;west36
+FITKU;Turun Satama;WEST;Länsisatama;37;west37
+FITKU;Turun Satama;WEST;Länsisatama;38;west38 peräportti
+FITKU;Turun Satama;WEST;Länsisatama;39;west39 kontti
+FITKU;Turun Satama;WEST;Länsisatama;40;west40 kontti
+FITKU;Turun Satama;WEST;Länsisatama;41;west41 peräportti
+FITKU;Turun Satama;PASSE;Matkustajasatama;s1;silja1 junalautta
+FITKU;Turun Satama;PASSE;Matkustajasatama;s2;silja2
+FITKU;Turun Satama;PASSE;Matkustajasatama;s3;silja3 vara
+FITKU;Turun Satama;PASSE;Matkustajasatama;v1;viking1
+FITKU;Turun Satama;PASSE;Matkustajasatama;v2;viking2 vara
+FITKU;Turun Satama;EI KÄY;Ei käytössä;2;Ei käytössä
+FITKU;Turun Satama;EI KÄY;Ei käytössä;3;Ei käytössä
+FITKU;Turun Satama;EI KÄY;Ei käytössä;5;Ei käytössä
+FITKU;Turun Satama;PERNO;Pernon telakka (Meyer Turku));1;masa1
+FITKU;Turun Satama;PERNO;Pernon telakka (Meyer Turku));2;masa2
+FITKU;Turun Satama;PERNO;Pernon telakka (Meyer Turku));3;masa3
+FITKU;Turun Satama;PERNO;Pernon telakka (Meyer Turku));4;masa4
+FITKU;Turun Satama;PERNO;Pernon telakka (Meyer Turku));5;masa5
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;15;P-15
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;16;P-16
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;17;P-17
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;18;P-18
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;19;P-19
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;20;P-20
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;21;P-21
+FITKU;Turun Satama;PANSIO;Pansion öljy-& junalauttasatama;23;Öljylaituri
+FITKU;Turun Satama;EI KÄY;Ei käytössä;11;Ei käytössä
+FITKU;Turun Satama;EI KÄY;Ei käytössä;12;Ei käytössä
+FITKU;Turun Satama;ANK;Ankkurissa;99;Ankkurissa
+FITKU;Turun Satama;EI KÄY;Ei käytössä;99;Ei käytössä
+FITKU;Turun Satama;RIVER;Jokisatama;87;Metra
+FITKU;Turun Satama;EI KÄY;Ei käytössä;99;Ei käytössä
+FITKU;Turun Satama;EI KÄY;Ei käytössä;MUU;Ei käytössä
+FIUIM;Uimaharju;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIUKP;Uusikaarlepyy;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIUKP;Uusikaarlepyy;OIL;Kanäs;MUU;Ei tiedossa
+FIUKI;Uusikaupunki;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIUKI;Uusikaupunki;HEPO;Hepokari;MUU;Ei tiedossa
+FIUKI;Uusikaupunki;ANK;Ankkurissa;MUU;Ei tiedossa
+FIUKI;Uusikaupunki;YARA;Yara;MUU;Ei tiedossa
+FIVAA;Vaasa;12;Ankkurissa;NO;Ei tiedossa
+FIVAA;Vaasa;06;Ro-Ro 1;06;Ro-Ro1
+FIVAA;Vaasa;09;Öljysatama;09;Öljysatama
+FIVAA;Vaasa;10;Sisäsatama;10;Sisäsatama
+FIVAA;Vaasa;04;Ro-Ro 3;04;Ro-Ro 3
+FIVAA;Vaasa;05;Ro-Ro 2;05;Ro-Ro 2
+FIVAA;Vaasa;07;Reininlaituri;07;Reininlaituri
+FIVAA;Vaasa;04;Ro-Ro 3;04;Ro-Ro 3
+FIVAA;Vaasa;04;Ro-Ro 3;04;Ro-Ro 3
+FIVAA;Vaasa;06;Ro-Ro 1;06;Ro-Ro1
+FIVAA;Vaasa;03;Pohjoispiiri-etelä;03;Pohjoispiiri-etelä
+FIVAA;Vaasa;05;Ro-Ro 2;05;Ro-Ro 2
+FIVAA;Vaasa;13;Ei tiedossa;13;Ei tiedossa
+FIVAA;Vaasa;06;Ro-Ro 1;06;Ro-Ro1
+FIVAA;Vaasa;06;Ro-Ro 1;06;Ro-Ro1
+FIVAA;Vaasa;04;Ro-Ro 3;04;Ro-Ro 3
+FIVAA;Vaasa;01;Eteläpiiri-etelä;01;Eteläpiiri-etelä
+FIVAA;Vaasa;02;Eteläpiiri-pohjoinen;02;Eteläpiiri-pohjoinen
+FIVAA;Vaasa;03;Pohjoispiiri-etelä;03;Pohjoispiiri-etelä
+FIVAA;Vaasa;08;Hiililaituri;08;Hiililaituri
+FIVAA;Vaasa;11;Lassenlaituri;11;Lassenlaituri
+FIVAA;Vaasa;09;Öljysatama;13;Ei tiedossa
+FIVRK;Varkaus;MUU;Ei tiedossa;MUU;Ei tiedossa
+FIVRK;Varkaus;TA;Taipale;MUU;Ei tiedossa
+FIVRK;Varkaus;KO;Kosulanniemi;MUU;Ei tiedossa
+FIVRK;Varkaus;AK;Akonniemi;MUU;Ei tiedossa
+FIVRK;Varkaus;AK;Akonniemi;2;nro 2
+FIVRK;Varkaus;AK;Akonniemi;KARB;Karbonaattilaituri
+FIVRK;Varkaus;KO;Kosulanniemi;1;nro 1
+FIVRK;Varkaus;KO;Kosulanniemi;2;nro 2
+FIVEL;Velkua;MUU;Ei tiedossa;MUU;Ei tiedossa
