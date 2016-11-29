@@ -617,13 +617,13 @@ NUMERO;TSA_NIMI;NIMI_FI;NIMI_SE;NIMI_EN;TIE;TIEOSA;ETAISYYS;X;Y;KORKEUS;KUNTAKOO
 14031;vt4_Santa_Claus_Opt;Tie 4 Rovaniemi, Santa Claus;Väg 4 Rovaniemi, Santa Claus;Road 4 Rovaniemi, Santa Claus;4;502;2744;7380418;446024;122;698;Rovaniemi;Lappi
 14032;vt4_Jaatila_Opt;Tie 4 Rovaniemi, Jaatila;Väg 4 Rovaniemi, Jaatila;Road 4 Rovaniemi, Jaatila;4;443;164;7349026;425357;50;698;Rovaniemi;Lappi
 14033;vt4_Paakkola_Opt;Tie 4 Tervola, Paakkola;Väg 4 Tervola, Paakkola;Road 4 Tervola, Paakkola;4;431;2035;7321937;395169;33;845;Tervola;Lappi
-14034;vt4_Revontuli_R;Tie 4, Rovaniemi;Väg 4, Rovaniemi;Road 4, Rovaniemi;4;501;1000;7376961;443543;90;698;Rovaniemi;Lappi
-14036;vt4_Ristikangas_R;Tie 4; Ristikangas;Väg 4; Ristikangas;Road 4; Ristikangas;4;425;4465;7291399;388708;36;240;Kemi;Lappi
-14037;vt4_Ristikangas_O;Tie 4; Ristikangas;Väg 4; Ristikangas;Road 4; Ristikangas;4;425;4466;7291399;388708;36;240;Kemi;Lappi
-14038;vt4_Ristikangas_Opt;Tie 4; Ristikangas;Väg 4; Ristikangas;Road 4; Ristikangas;4;425;4467;7291399;388708;36;240;Kemi;Lappi
-14039;vt4_Siikalahti_R;Tie 4; Siikalahti;Väg 4; Siikalahti;Road 4; Siikalahti;4;424;2805;7286761;390874;4;240;Kemi;Lappi
-14040;vt4_Siikalahti_O;Tie 4; Siikalahti;Väg 4; Siikalahti;Road 4; Siikalahti;4;424;2806;7286761;390894;4;240;Kemi;Lappi
-14041;vt4_Siikalahti_Opt;Tie 4; Siikalahti;Väg 4; Siikalahti;Road 4; Siikalahti;4;424;2807;7286761;390894;4;240;Kemi;Lappi
+14034;vt4_Revontuli_R;Tie 4 Rovaniemi;Väg 4 Rovaniemi;Road 4 Rovaniemi;4;501;1000;7376961;443543;90;698;Rovaniemi;Lappi
+14036;vt4_Ristikangas_R;Tie 4 Ristikangas;Väg 4 Ristikangas;Road 4 Ristikangas;4;425;4465;7291399;388708;36;240;Kemi;Lappi
+14037;vt4_Ristikangas_O;Tie 4 Ristikangas;Väg 4 Ristikangas;Road 4 Ristikangas;4;425;4466;7291399;388708;36;240;Kemi;Lappi
+14038;vt4_Ristikangas_Opt;Tie 4 Ristikangas;Väg 4 Ristikangas;Road 4 Ristikangas;4;425;4467;7291399;388708;36;240;Kemi;Lappi
+14039;vt4_Siikalahti_R;Tie 4 Siikalahti;Väg 4 Siikalahti;Road 4 Siikalahti;4;424;2805;7286761;390874;4;240;Kemi;Lappi
+14040;vt4_Siikalahti_O;Tie 4 Siikalahti;Väg 4 Siikalahti;Road 4 Siikalahti;4;424;2806;7286761;390894;4;240;Kemi;Lappi
+14041;vt4_Siikalahti_Opt;Tie 4 Siikalahti;Väg 4 Siikalahti;Road 4 Siikalahti;4;424;2807;7286761;390894;4;240;Kemi;Lappi
 14042;vt21_Palojoensuu_K;Tie 21 Palojoensuu;Väg 21 Palojoensuu;Road 21 Palojoensuu;21;210;392;7580055;338238;0;47;Enontekiö;Lappi
 14043;st962_Pyhätunturi_K;Tie 962, Pelkosenniemi, Py;Väg 962, Pelkosenniemi, Pyhä;Road 962, Pelkosenniemi, Pyhät;962;7;3980;7436197;509324;0;583;Pelkosenniemi;Lappi
 14044;vt4_Simo_Opt;Tie 4, Simo;Väg 4, Simo;Road 4, Simo;4;420;5990;7284589;404880;0;751;Simo;Lappi
