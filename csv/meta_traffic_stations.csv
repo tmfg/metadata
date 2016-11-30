@@ -1,6 +1,6 @@
 NUMERO;LAM_NUMERO;TSA_NIMI;NIMI_FI;NIMI_SE;NIMI_EN;TIE;TIEOSA;ETAISYYS;X;Y;KORKEUS;MAAKUNNAN_NIMI
 23001;1;L_vt7_Rita;Tie 7 Porvoo, Rita;Väg 7 Borgå, Rita;Road 7 Porvoo, Rita;7;10;950;6698571;427830;0;Uusimaa
-23003;3;L_kt51_Kivenlahti;Tie 51 Espoo, Kivenlahti;Väg 51 Esbo, Stensvik;Road 51 Espoo, Kivenlahti;51;6;2385;6670799;370351;0;Uusimaa
+23003;3;L_kt51_Kivenlahti;Tie 51 Espoo, Kivenlahti;Väg 51 Esbo, Stensvik;Road 51 Espoo, Kivenlahti;51;6;2390;6670799;370351;0;Uusimaa
 23004;4;L_vt3_Kivistö;L_vt3_Kivistö;;;3;103;913;6686760;381152;0;Uusimaa
 23005;5;L_vt3_Klaukkalantie;L_vt3_Klaukkalantie;;;3;103;2648;6688421;380694;0;Uusimaa
 23006;6;L_st102_Hiidenkallio;Tie 102 Hiidenkallio;väg 102 Hiidenkallio;road 102 Hiidenkallio;102;3;1610;6677108;375146;0;Uusimaa
@@ -68,7 +68,7 @@ NUMERO;LAM_NUMERO;TSA_NIMI;NIMI_FI;NIMI_SE;NIMI_EN;TIE;TIEOSA;ETAISYYS;X;Y;KORKE
 23168;168;L_kt50_Askisto;Tie 50 Askisto;Väg 50 Askis;Road 50 Askisto;50;4;4322;6683919;377019;0;Uusimaa
 23169;169;L_kt50_Pakkala;Tie 50 Pakkala;Väg 50 Backas;Road 50 Pakkala;50;6;4908;6686121;386321;0;Uusimaa
 23172;172;L_vt7_Helsinki_Bäcknäs;Tie 7 Helsinki, Bäcknäs;Väg 7 Helsingfors, Bäcknäs;Road 7 Helsnki, Bäcknäs;7;3;2238;6683297;402983;0;Uusimaa
-23175;175;L_vt1_Lommila;Tie 1, Espoo, Lommila;Väg 1, Esbo; Lommila;Road 1, Espoo, Lommila;1;5;5820;6677714;370413;0;Uusimaa
+23175;175;L_vt1_Lommila;Tie 1, Espoo, Lommila;Väg 1, Esbo, Lommila;Road 1, Espoo, Lommila;1;5;5820;6677714;370413;0;Uusimaa
 23176;176;L_vt7_Sipoonlahti;Tie 7 Sipoonlahti;Väg 7 Sibboviken;Road 7 Sipoonlahti;7;4;1694;6683822;406981;0;Uusimaa
 23177;177;L_vt7_Sipoo_Kallback;Tie 7 Sipoo, Kallbäck;Väg 7 Sibbo, Kallbäck;Road 7 Sipoo, Kallbäck;7;4;3314;6684732;408281;0;Uusimaa
 23178;178;L_vt7_Sipoo_Kulloo;Tie 7 Sipoo, Kulloo;Väg 7 Sibbo, Kullo;Road 7 Sipoo, Kulloo;7;6;3500;6688369;414401;0;Uusimaa

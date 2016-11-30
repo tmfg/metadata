@@ -38,9 +38,6 @@ C0151309;1034;Tie 101 Pakila;Tie 45 Tienpinta;101;7;0;6680401;386426;Helsinki
 C0151401;1011;Tie 7 Box;Porvooseen;7;6;1250;6687583;412221;Sipoo
 C0151402;1011;Tie 7 Box;Helsinkiin;7;6;1250;6687583;412221;Sipoo
 C0151409;1011;Tie 7 Box;Tienpinta;7;6;1250;6687583;412221;Sipoo
-C0151800;1045;Tie 51 Lauttasaari;;51;2;950;6671468;381199;Helsinki
-C0151900;1045;Tie 51 Espoo, Karhusaari;;51;3;0;6672258;379220;Espoo
-C0152000;1045;Tie 51 Ruoholahti;;51;2;0;6671667;382481;Helsinki
 C0152101;1034;Tie 101 Turvesuontie;Itään;101;2;2950;6675573;378450;Espoo
 C0152102;1034;Tie 101 Turvesuontie;Länteen;101;2;2950;6675573;378450;Espoo
 C0152109;1034;Tie 101 Turvesuontie;Tienpinta;101;2;2950;6675573;378450;Espoo
@@ -50,11 +47,11 @@ C0152209;1034;Tie 101 Kalevalantie;Tienpinta;101;2;1600;6674242;378477;Espoo
 C0152301;1004;Tie 4 Tattarisuo;Lahteen;4;103;1574;6680525;392650;Helsinki
 C0152302;1004;Tie 4 Tattarisuo;Helsinkiin;4;103;1574;6680525;392650;Helsinki
 C0152309;1004;Tie 4 Tattarisuo;Tienpinta;4;103;1574;6680525;392650;Helsinki
-C0152401;1051;Tie 51 Jorvas;Inkooseen;51;8;1480;6668886;361756;Kirkkonummi
-C0152402;1051;Tie 51 Jorvas;Helsinkiin;51;8;1480;6668886;361756;Kirkkonummi
-C0152403;1051;Tie 51 Jorvas;Tie 11277 Långvikiin;51;8;1480;6668886;361756;Kirkkonummi
-C0152404;1051;Tie 51 Jorvas;Tie 11277 Jorvakseen;51;8;1480;6668886;361756;Kirkkonummi
-C0152409;1051;Tie 51 Jorvas;Tienpinta;51;8;1480;6668886;361756;Kirkkonummi
+C0152401;1051;Tie 51 Kirkkonummi, Jorvas;Inkooseen;51;8;1480;6668886;361756;Kirkkonummi
+C0152402;1051;Tie 51 Kirkkonummi, Jorvas;Helsinkiin;51;8;1480;6668886;361756;Kirkkonummi
+C0152403;1051;Tie 51 Kirkkonummi, Jorvas;Tie 11277 Långvikiin;51;8;1480;6668886;361756;Kirkkonummi
+C0152404;1051;Tie 51 Kirkkonummi, Jorvas;Tie 11277 Jorvakseen;51;8;1480;6668886;361756;Kirkkonummi
+C0152409;1051;Tie 51 Kirkkonummi, Jorvas;Tienpinta;51;8;1480;6668886;361756;Kirkkonummi
 C0152600;1051;Tie 1 Lommila;;1;6;0;6678247;369559;Espoo
 C0152700;1043;Tie 1 Hista;;1;7;0;6681090;365320;Espoo
 C0152801;1043;Tie 1 Veikkola;Helsinkiin;1;8;0;6684632;359173;Kirkkonummi
@@ -79,7 +76,6 @@ C0153803;1037;Tie 6 Lapinjärvi;Ylikulkusilta;6;120;2580;6720555;456178;Lapinjä
 C0153809;1037;Tie 6 Lapinjärvi;Tienpinta;6;120;2580;6720555;456178;Lapinjärvi
 C0153900;1071;Helsinki, Vuosaaren satama;;99999;1;1;6678006;398754;Helsinki
 C0155500;1073;Tie 170 Helsinki, Gubbacka;Tie 170 - Kehä III -liittymä;170;4;0;6680155;397382;Helsinki
-C0155800;1047;Tie 51 Suvisilta;;51;3;1000;6672333;378553;Espoo
 C0156700;1092;Tie 1 Sepänsolmu;;1;5;550;6676344;375078;Espoo
 C0156800;1035;Tie 50 Bemböle;;50;3;1364;6678611;370913;Espoo
 C0156900;1035;Tie 50 Järvenperä;;50;3;3969;6680512;372542;Espoo
@@ -154,13 +150,22 @@ C0165400;1019;Tie 7 Porvoo Skarpens;;7;10;33;6698538;426898;Porvoo
 C0165500;1041;Tie 3 Vantaa, Keimola;Tie 3;3;103;4785;6690317;379707;Vantaa
 C0165600;1041;Tie 3 Vantaa, Kivistö pohjoinen;Tie;3;103;2655;6688428;380686;Vantaa
 C0165700;1041;Tie 3 Vantaa, Kivistö eteläinen;Tie 3;3;103;1890;6687704;380924;Vantaa
-C0166300;1055;Tie 102 Hiidenkallion tunneli;puuttuu;102;3;1834;6677320;375220;Espoo
-C0167000;1045;Tue 51 Matinkylä;Puuttuu;51;4;3238;6672026;375281;Espoo
-C0167100;1045;Tie 51 Finnoo;puuttuu;51;5;2768;6671515;372627;Espoo
-C0167200;1045;Tie 51 Kivenlahti;puuttuu;51;6;2389;6670765;370361;Espoo
+C0166300;1055;Tie 102 Hiidenkallion tunneli;;102;3;1834;6677320;375220;Espoo
+C0167001;1012;Tie 51 Espoo, Matinkylä;Kirkkonummelle;51;5;47;6672030;375266;Espoo
+C0167002;1012;Tie 51 Espoo, Matinkylä;Helsinkiin;51;5;47;6672030;375266;Espoo
+C0167101;1012;Tie 51 Espoo, Finnoo;Kirkkonummelle;51;5;2768;6671515;372627;Espoo
+C0167102;1012;Tie 51 Espoo, Finnoo;Helsinkiin;51;5;2768;6671515;372627;Espoo
+C0167201;1045;Tie 51 Espoo, Kivenlahti;Kirkkoummelle;51;6;2389;6670765;370361;Espoo
+C0167202;1045;Tie 51 Espoo, Kivenlahti;Helsinkiin;51;6;2389;6670765;370361;Espoo
 C0167301;1070;Tie 6 Kimonkylä;Kouvolaan;6;123;4397;;;Lapinjärvi
 C0167302;1070;Tie 6 Kimonkylä;Helsinkiin;6;123;4397;;;Lapinjärvi
 C0167309;1070;Tie 6 Kimonkylä;Tienpinta;6;123;4397;;;Lapinjärvi
+C0167401;1002;Tie 51 Helsinki, Ruoholahti;Kirkkonummelle;51;1;2160;6671722;384075;Helsinki
+C0167402;1002;Tie 51 Helsinki, Ruoholahti;Helsinkiin;51;1;2160;6671722;384075;Helsinki
+C0167501;1045;Tie 51 Helsinki, Lauttasaari;Kirkkonummelle;51;2;645;6671400;381530;Helsinki
+C0167502;1045;Tie 51 Helsinki, Lauttasaari;Helsinkiin;51;2;645;6671400;381530;Helsinki
+C0167601;1047;Tie 51 Espoo, Westend;Kirkkonummelle;51;4;1625;6672253;376923;Espoo
+C0167602;1047;Tie 51 Espoo, Westend;Helsinkiin;51;4;1625;6672253;376923;Espoo
 C0250201;2065;Tie 110 Salo, Kruusila;Turkuun;110;22;5515;6698106;304036;Kiikala
 C0250302;2015;Tie 185 Nesteentie;Naantaliin;185;2;1550;6713098;231080;Raisio
 C0250402;2013;Tie 11 Tervahauta;Tampereelle;11;13;6694;6823871;264398;Sastamala
@@ -426,8 +431,8 @@ C0358009;5014;Tie 387 Ylämaa;Tienpinta;387;7;42;6739779;555017;Lappeenranta
 C0358101;3043;Tie 26 Hamina, Myllykylä;Taavettiin;26;4;2192;6721656;511833;Hamina
 C0358102;3043;Tie 26 Hamina, Myllykylä;Haminaan;26;4;2192;6721656;511833;Hamina
 C0358109;3043;Tie 26 Hamina, Myllykylä;Tienpinta;26;4;2192;6721656;511833;Hamina
-C0358401;3051;Tie 7 Jumalniemi;puuttuu;7;29;1298;6708209;495551;Kotka
-C0358402;3051;Tie 7 Jumalniemi;puuttuu;7;29;1298;6708209;495551;Kotka
+C0358401;3051;Tie 7 Jumalniemi;;7;29;1298;6708209;495551;Kotka
+C0358402;3051;Tie 7 Jumalniemi;;7;29;1298;6708209;495551;Kotka
 C0358501;3051;Tie 7 Ahvenkoski;Helsinkiin;7;24;2;6705589;471997;Kotka
 C0358601;3051;Tie 7 Pyhtää;;7;24;4045;6705799;476017;Kotka
 C0358701;5009;Tie 12 Iitti, Mankala;Kouvolaan;12;228;1250;6753405;455481;Iitti
@@ -436,9 +441,9 @@ C0358901;3011;Tie 15 Kouvola, Tuohikotti;Mikkeliin;15;15;705;6771063;503187;Kouv
 C0359001;3006;Tie 170 Ahvenkoski_2;Kotkaan;170;22;2479;6706056;472042;Pyhtää
 C0359002;3006;Tie 170 Ahvenkoski_2;Helsinkiin;170;22;2479;6706056;472042;Pyhtää
 C0359101;3051;Tie7  Siltakylä;Kotkaan;7;25;10064;6707505;485841;Pyhtää
-C0359201;3051;Tie 7 Heinlahden silta;puuttuu;7;26;4702;6706744;490314;Kotka
+C0359201;3051;Tie 7 Heinlahden silta;;7;26;4702;6706744;490314;Kotka
 C0359301;3006;Tie 7 Sutelan silta;Kotkaan;7;27;2629;6706965;492899;Kotka
-C0359401;3047;Tie 7 Kyminlinna;puuttuu;7;28;1597;6707609;494407;Kotka
+C0359401;3047;Tie 7 Kyminlinna;;7;28;1597;6707609;494407;Kotka
 C0359501;3008;Tie 7 Suurniitty;;7;29;3460;6709536;497167;Kotka
 C0359601;3008;Tie 7 Otsola;;7;30;1264;6710617;497836;Kotka
 C0359701;3008;Tie 7 Keltakallio;;7;30;2521;6711560;498664;Kotka
@@ -448,10 +453,10 @@ C0360000;3023;Tie 7 Lankamalmi;;7;32;7203;6715347;507341;Hamina
 C0360100;3064;Tie 7 Husula_Länsi;;7;33;1495;6716550;508259;Hamina
 C0360200;3064;Tie 7 Ruissalo;;7;34;10;6716760;508430;Hamina
 C0360300;3064;Tie 7 Husula suuaukko länsi;;7;34;1156;6717568;509280;Hamina
-C0361400;3064;Tie 26 Töytäri;puuttuu;26;3;53;6718234;510349;Hamina
+C0361400;3064;Tie 26 Töytäri;;26;3;53;6718234;510349;Hamina
 C0361500;3064;Tie 7 Husula itä;;7;35;227;6718206;510602;Hamina
-C0362200;3056;Tie 7 Helsmanni;puuttuu;7;35;2592;6718057;512961;Hamina
-C0362300;3056;Tie 7 Karjusuo;Puuttuu;7;35;4838;6717091;514967;Hamina
+C0362200;3056;Tie 7 Helsmanni;;7;35;2592;6718057;512961;Hamina
+C0362300;3056;Tie 7 Karjusuo;;7;35;4838;6717091;514967;Hamina
 C0362400;3056;Tie 7 Lelu;;7;35;7632;6715018;516749;Hamina
 C0362703;5004;kt62_Imatran_raja-asema_parkki;Imatra rekkaparkki itä;62;25;4046;6776337;597761;Imatra
 C0362704;5004;kt62_Imatran_raja-asema_parkki;Imatra;62;25;4046;6776337;597761;Imatra

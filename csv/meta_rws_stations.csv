@@ -49,7 +49,7 @@ NUMERO;TSA_NIMI;NIMI_FI;NIMI_SE;NIMI_EN;TIE;TIEOSA;ETAISYYS;X;Y;KORKEUS;KUNTAKOO
 1061;vt3_Pirkkola_Opt;Tie 3 Helsinki, Pirkkola;Väg 3 Helsingfors, Britas;Road 3 Helsinki, Pirkkola;3;101;4833;6678800;383971;0;91;Helsinki;Uusimaa
 1062;kt51_Vaskisalmi_Opt;Tie 51 Vaskisalmi;Väg 51 Vaskisalmi;Road 51 Vaskisalmi;51;2;1500;6671622;380823;0;91;Helsinki;Uusimaa
 1063;vt3_Keimola_Opt1;Tie 3 Vantaa, Keimola;Väg 3 Vanda, Käinby;Road 3 Vantaa, Keimola;3;103;4186;6689739;379926;0;92;Vantaa;Uusimaa
-1064;kt51_Kivenlahti_Opt;Tie 51 Espoo, Kivenlahti;Väg 51 Esbo, Stensvik;Road 51 Espoo, Kivenlahti;51;6;2231;6670779;370516;0;49;Espoo;Uusimaa
+1064;kt51_Kivenlahti_Opt1;Tie 51 Espoo, Kivenlahti;Väg 51 Esbo, Stensvik;Road 51 Espoo, Kivenlahti;51;6;2232;6670779;370516;0;49;Espoo;Uusimaa
 1065;vt1_Kolmiranta_R;Tie 1 Kolmiranta;Väg 1 Kolmiranta;Road 1 Kolmiranta;1;7;4030;6683193;361887;0;49;Espoo;Uusimaa
 1066;vt1_Lehmijärvi_R;Tie 1 Lehmijärvi;Väg 1 Lehmijärvi;Road 1 Lehmijärvi;1;11;3750;6686882;342931;0;444;Lohja;Uusimaa
 1067;vt4_Jakomäki_Opt;Tie 4 Helsinki, Jakomäki;Väg 4 Helsingfors, Jakobacka;Road 4 Helsinki, Jakomäki;4;103;2215;6681002;392874;0;91;Helsinki;Uusimaa
@@ -116,6 +116,8 @@ NUMERO;TSA_NIMI;NIMI_FI;NIMI_SE;NIMI_EN;TIE;TIEOSA;ETAISYYS;X;Y;KORKEUS;KUNTAKOO
 1130;kt51_Karhusaari_Opt;Tie 51 Espoo, Karhusaari;Väg 51 Esbo, Karhusaari;Road 51 Espoo, Karhusaari;51;3;1;6672220;379213;0;49;Espoo;Uusimaa
 1131;vt7_Porvoo_2;Tie 7 Porvoo, Harabacka;Väg 7 Borgå, Harabacka;Road 7 Porvoo, Harabacka;7;8;2033;6694447;422466;0;638;Porvoo;Uusimaa
 1132;vt7_Porvoo_Opt2;Tie 7 Porvoo, Harabacka;Väg 7 Borgå, Harabacka;Road 7 Porvoo, Harabacka;7;8;2034;6694447;422466;0;638;Porvoo;Uusimaa
+1133;kt51_Kivenlahti_O;Tie 51 Espoo, Kivenlahti;Väg 51 Esbo, Stensvik;Road 51 Espoo, Kivenlahti;51;6;2231;6670734;370520;0;49;Espoo;Uusimaa
+1134;kt51_Kivenlahti_Opt2;Tie 51 Espoo, Kivenlahti;Väg 51 Esbo, Stensvik;Road 51 Espoo, Kivenlahti;51;6;2233;6670734;370520;0;49;Espoo;Uusimaa
 2002;vt8_Ihode_R;Tie 8 Pyhäranta, Ihode;Väg 8 Pyhäranta, Ihode;Road 8 Pyhäranta, Ihode;8;114;200;6769909;207449;29;631;Pyhäranta;Varsinais-Suomi
 2003;vt8_Eurajoki_R;Tie 8 Eurajoki;Väg 8 Euraåminne;Road 8 Eurajoki;8;122;2000;6805343;215745;40;51;Eurajoki;Satakunta
 2004;st110_Tupuri_R;Tie 110 Salo, Tupuri;Väg 110 Salo, Tupuri;Road 110 Salo, Tupuri;110;24;5011;6700013;292362;80;734;Salo;Varsinais-Suomi
@@ -213,13 +215,13 @@ NUMERO;TSA_NIMI;NIMI_FI;NIMI_SE;NIMI_EN;TIE;TIEOSA;ETAISYYS;X;Y;KORKEUS;KUNTAKOO
 3033;vt14_Kyrönsalmen_silta_Opt;Tie 14 Savonlinna, Kyrönsalmi;Väg 14 Nyslott, Kyrönsalmi;Road 14 Savonlinna, Kyrönsalmi;14;15;1342;6860973;599906;0;740;Savonlinna;Etelä-Savo
 3034;vt7_Lelu_R;Tie 7 Hamina, Lelu;Väg 7 Fredrikshamn, Lelu;Road 7 Hamina, Lelu;7;37;50;6714265;521690;0;75;Hamina;Kymenlaakso
 3035;vt7_Lelu_Opt;Tie 7 Hamina, Lelu;Väg 7 Fredrikshamn, Lelu;Road 7 Hamina, Lelu;7;37;51;6714265;521690;0;75;Hamina;Kymenlaakso
-3036;vt6_Kärki_R;Tie 6 Lappeenranta, Kärki;Väg 6; Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1351;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
-3037;vt6_Kärki_O;Tie 6 Lappeenranta, Kärki;Väg 6; Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1351;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
-3038;vt6_Kärki_Opt1;Tie 6 Lappeenranta, Kärki;Väg 6; Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1351;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
-3039;vt6_Kärki_Opt2;Tie 6 Lappeenranta, Kärki;Väg 6; Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1352;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
-3040;vt6_Lappeenranta_O;Tie 6; Lappeenranta, Mälkiä;Väg 6; Villmanstrand, Mälkiä;Road 6; Lappeenranta, Mälkiä;6;303;1101;6771493;570689;0;405;Lappeenranta;Etelä-Karjala
-3041;vt6_Lappeenranta_Opt1;Tie 6; Lappeenranta, Mälkiä;Väg 6; Villmanstrand, Mälkiä;Road 6; Lappeenranta, Mälkiä;6;303;1102;6771493;570689;0;405;Lappeenranta;Etelä-Karjala
-3042;vt6_Lappeenranta_Opt2;Tie 6; Lappeenranta, Mälkiä;Väg 6; Villmanstrand, Mälkiä;Road 6; Lappeenranta, Mälkiä;6;303;1103;6771493;570689;0;405;Lappeenranta;Etelä-Karjala
+3036;vt6_Kärki_R;Tie 6 Lappeenranta, Kärki;Väg 6, Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1351;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
+3037;vt6_Kärki_O;Tie 6 Lappeenranta, Kärki;Väg 6, Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1351;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
+3038;vt6_Kärki_Opt1;Tie 6 Lappeenranta, Kärki;Väg 6, Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1351;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
+3039;vt6_Kärki_Opt2;Tie 6 Lappeenranta, Kärki;Väg 6, Villmanstrand, Kärki;Road 6 Lappeenranta, Kärki;6;216;1352;6767406;560842;0;405;Lappeenranta;Etelä-Karjala
+3040;vt6_Lappeenranta_O;Tie 6, Lappeenranta, Mälkiä;Väg 6, Villmanstrand, Mälkiä;Road 6, Lappeenranta, Mälkiä;6;303;1101;6771493;570689;0;405;Lappeenranta;Etelä-Karjala
+3041;vt6_Lappeenranta_Opt1;Tie 6, Lappeenranta, Mälkiä;Väg 6, Villmanstrand, Mälkiä;Road 6, Lappeenranta, Mälkiä;6;303;1102;6771493;570689;0;405;Lappeenranta;Etelä-Karjala
+3042;vt6_Lappeenranta_Opt2;Tie 6, Lappeenranta, Mälkiä;Väg 6, Villmanstrand, Mälkiä;Road 6, Lappeenranta, Mälkiä;6;303;1103;6771493;570689;0;405;Lappeenranta;Etelä-Karjala
 3043;vt26_Myllykylä_R;Tie 26 Hamina, Myllykylä;Väg 26 Fredrikshamn, Myllykylä;Road 26 Hamina, Myllykylä;26;4;2192;6721652;511834;0;75;Hamina;Kymenlaakso
 3044;vt26_Myllykylä_Opt;Tie 26 Hamina, Myllykylä;Väg 26 Fredrikshamn, Myllykylä;Road 26 Hamina, Myllykylä;26;4;2192;6721652;511834;0;75;Hamina;Kymenlaakso
 3045;vt7_Sutela_O;Tie 7 Kotka, Sutela;Väg 7 Kotka, Sutela;Road 7 Kotka, Sutela;7;28;702;6707213;493548;7;285;Kotka;Kymenlaakso
@@ -618,12 +620,12 @@ NUMERO;TSA_NIMI;NIMI_FI;NIMI_SE;NIMI_EN;TIE;TIEOSA;ETAISYYS;X;Y;KORKEUS;KUNTAKOO
 14032;vt4_Jaatila_Opt;Tie 4 Rovaniemi, Jaatila;Väg 4 Rovaniemi, Jaatila;Road 4 Rovaniemi, Jaatila;4;443;164;7349026;425357;50;698;Rovaniemi;Lappi
 14033;vt4_Paakkola_Opt;Tie 4 Tervola, Paakkola;Väg 4 Tervola, Paakkola;Road 4 Tervola, Paakkola;4;431;2035;7321937;395169;33;845;Tervola;Lappi
 14034;vt4_Revontuli_R;Tie 4, Rovaniemi;Väg 4, Rovaniemi;Road 4, Rovaniemi;4;501;1000;7376961;443543;90;698;Rovaniemi;Lappi
-14036;vt4_Ristikangas_R;Tie 4; Ristikangas;Väg 4; Ristikangas;Road 4; Ristikangas;4;425;4465;7291399;388708;36;240;Kemi;Lappi
-14037;vt4_Ristikangas_O;Tie 4; Ristikangas;Väg 4; Ristikangas;Road 4; Ristikangas;4;425;4466;7291399;388708;36;240;Kemi;Lappi
-14038;vt4_Ristikangas_Opt;Tie 4; Ristikangas;Väg 4; Ristikangas;Road 4; Ristikangas;4;425;4467;7291399;388708;36;240;Kemi;Lappi
-14039;vt4_Siikalahti_R;Tie 4; Siikalahti;Väg 4; Siikalahti;Road 4; Siikalahti;4;424;2805;7286761;390874;4;240;Kemi;Lappi
-14040;vt4_Siikalahti_O;Tie 4; Siikalahti;Väg 4; Siikalahti;Road 4; Siikalahti;4;424;2806;7286761;390894;4;240;Kemi;Lappi
-14041;vt4_Siikalahti_Opt;Tie 4; Siikalahti;Väg 4; Siikalahti;Road 4; Siikalahti;4;424;2807;7286761;390894;4;240;Kemi;Lappi
+14036;vt4_Ristikangas_R;Tie 4, Ristikangas;Väg 4, Ristikangas;Road 4, Ristikangas;4;425;4465;7291399;388708;36;240;Kemi;Lappi
+14037;vt4_Ristikangas_O;Tie 4, Ristikangas;Väg 4, Ristikangas;Road 4, Ristikangas;4;425;4466;7291399;388708;36;240;Kemi;Lappi
+14038;vt4_Ristikangas_Opt;Tie 4, Ristikangas;Väg 4, Ristikangas;Road 4, Ristikangas;4;425;4467;7291399;388708;36;240;Kemi;Lappi
+14039;vt4_Siikalahti_R;Tie 4, Siikalahti;Väg 4, Siikalahti;Road 4, Siikalahti;4;424;2805;7286761;390874;4;240;Kemi;Lappi
+14040;vt4_Siikalahti_O;Tie 4, Siikalahti;Väg 4, Siikalahti;Road 4, Siikalahti;4;424;2806;7286761;390894;4;240;Kemi;Lappi
+14041;vt4_Siikalahti_Opt;Tie 4, Siikalahti;Väg 4, Siikalahti;Road 4, Siikalahti;4;424;2807;7286761;390894;4;240;Kemi;Lappi
 14042;vt21_Palojoensuu_K;Tie 21 Palojoensuu;Väg 21 Palojoensuu;Road 21 Palojoensuu;21;210;392;7580055;338238;0;47;Enontekiö;Lappi
 14043;st962_Pyhätunturi_K;Tie 962, Pelkosenniemi, Py;Väg 962, Pelkosenniemi, Pyhä;Road 962, Pelkosenniemi, Pyhät;962;7;3980;7436197;509324;0;583;Pelkosenniemi;Lappi
 14044;vt4_Simo_Opt;Tie 4, Simo;Väg 4, Simo;Road 4, Simo;4;420;5990;7284589;404880;0;751;Simo;Lappi
