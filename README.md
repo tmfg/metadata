@@ -33,10 +33,10 @@
 
 |file |fi |en |updated |
 |:-----|:---|:---|:---|
-|[meta\_traffic\_stations.xlsx][meta_traffic_stations.xlsx]|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|28.11.2016|
-|[meta\_rw\_cameras.xlsx][meta_rw_cameras.xlsx]|Kelikameroiden staattiset tiedot|The static information of weather cameras|28.11.2016|
-|[meta\_rws\_stations.xlsx][meta_rws_stations.xlsx]|Tiesääasemien staattiset tiedot|The static information of road weather station|28.11.2016|
-| [meta\_rws\_sensors.xlsx][meta_rws_sensors.xlsx]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|28.11.2016|
+|[meta\_traffic\_stations.xlsx][meta_traffic_stations.xlsx]|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|30.11.2016|
+|[meta\_rw\_cameras.xlsx][meta_rw_cameras.xlsx]|Kelikameroiden staattiset tiedot|The static information of weather cameras|30.11.2016|
+|[meta\_rws\_stations.xlsx][meta_rws_stations.xlsx]|Tiesääasemien staattiset tiedot|The static information of road weather station|30.11.2016|
+|[meta\_rws\_sensors.xlsx][meta_rws_sensors.xlsx]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|30.11.2016|
 |[meta\_rw\_forecast\_sections.xlsx][meta_rw_forecast_sections.xlsx]|Keliennusteiden tiejaksot|Road weather forecast sections|10.11.2016|
 |[meta\_ssn\_locodes.xls][meta_ssn_locodes.xls]|SafeSeaNet locode-listaus|SafeSeaNet locodes|1.11.2016|
 
@@ -46,10 +46,10 @@
 
 |file |fi |en |updated |
 |:-----|:---|:---|:---|
-|[meta\_traffic\_stations.csv][meta_traffic_stations.csv]|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|28.11.2016|
-|[meta\_rw\_cameras.csv][meta_rw_cameras.csv]|Kelikameroiden staattiset tiedot|The static information of weather cameras|28.11.2016|
-|[meta\_rws\_stations.csv][meta_rws_stations.csv]|Tiesääasemien staattiset tiedot|The static information of road weather station|28.11.2016|
-| [meta\_rws\_sensors.csv][meta_rws_sensors.csv]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|28.11.2016|
+|[meta\_traffic\_stations.csv][meta_traffic_stations.csv]|LAM-pisteiden staattiset tiedot|The static information of automatic measuring devices|30.11.2016|
+|[meta\_rw\_cameras.csv][meta_rw_cameras.csv]|Kelikameroiden staattiset tiedot|The static information of weather cameras|30.11.2016|
+|[meta\_rws\_stations.csv][meta_rws_stations.csv]|Tiesääasemien staattiset tiedot|The static information of road weather station|30.11.2016|
+|[meta\_rws\_sensors.csv][meta_rws_sensors.csv]|Tiesääasemissa tarjolla olevat anturit|Available sensors of road weather station|30.11.2016|
 |[meta\_rw\_forecast\_sections.csv][meta_rw_forecast_sections.csv]| Keliennusteiden tiejaksot|Road weather forecast sections|10.11.2016|
 |[meta\_ssn\_locodes.csv][meta_ssn_locodes.csv]|SafeSeaNet locode-listaus|SafeSeaNet locodes|1.11.2016|
 
