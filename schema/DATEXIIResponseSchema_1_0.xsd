@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns:dt="http://tie.digitraffic.fi/schemas"
+            xmlns:D2LogicalModel="http://datex2.eu/schema/2/2_0" elementFormDefault="qualified"
+            targetNamespace="http://tie.digitraffic.fi/schemas" version="1.0">
+    <xsd:import namespace="http://datex2.eu/schema/2/2_0" schemaLocation="https://raw.githubusercontent.com/finnishtransportagency/metadata/master/schema/DATEXIISchema_2_2_1_with_definitions_FI.xsd"/>
+    <xsd:element name="TrafficDisordersDatex2">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="maxAge" type="xsd:nonNegativeInteger"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:complexType name="TimestampedTrafficDisorderDatex2">
+        <xsd:sequence>
+            <xsd:element name="published" type="dt:ObservationTimeType"/>
+            <xsd:element maxOccurs="1" name="d2LogicalModel" type="D2LogicalModel:D2LogicalModel"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="ObservationTimeType">
+        <xsd:sequence>
+            <xsd:element name="utc" type="xsd:dateTime"/>
+            <xsd:element name="localtime" type="xsd:dateTime"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:element name="TrafficDisordersDatex2Response">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element maxOccurs="unbounded" minOccurs="0" name="disorder" type="dt:TimestampedTrafficDisorderDatex2"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
