@@ -1,120 +1,121 @@
 Syykoodiryhmä;Syykoodiryhmän selite;1-taso;1-tason selite;2-taso;2-tason selite;2-tason tarkentaja;POHA luonti;Tarkennus-käyttöliittymä;Junanumerolinkitys LOKIssa;Junanumerolinkitys POHAssa;Junanumerolinkitys KUTIssa;Pakollinen selite LOKIssa;Pakollinen selite POHAssa;Pakollinen selite KUTIssa;Ratatyölinkitys LOKIssa;Ratatyölinkitys POHAssa;Nopeusrajoitus linkitys LOKIssa;Sanktioitava;Vastuutaho;Milloin 1-tason syykoodia käytetään;Ohjeet 2-tason tarkenteen käyttöön ja lisähuomiot
-H;Henkilökunta;H1;Henkilökunta puuttuu;H101;Veturinkuljettaja puuttuu;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta.";
-H;Henkilökunta;H1;Henkilökunta puuttuu;H102;Konduktööri puuttuu;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta.";
-H;Henkilökunta;H1;Henkilökunta puuttuu;H103;Muun henkilökunnan puuttuminen;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta.";
-H;Henkilökunta;H1;Henkilökunta puuttuu;H104;Veturinkuljettaja myöhässä olevasta junasta;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta.";
-H;Henkilökunta;H1;Henkilökunta puuttuu;H105;Konduktööri myöhässä olevasta junasta;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta.";
-H;Henkilökunta;H1;Henkilökunta puuttuu;H106;Muu henkilökuntaryhmä myöhässä olevasta junasta;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta.";
-H;Henkilökunta;H2;Lähtövalmius- tai lähtöpoikkeamailmoitus tekemättä;;;;;LOKI;;;;x;;;;;;;liikennöitsijä;"Kun liikennöitsijän henkilöstö ei tee lähtövalmius- tai lähtöpoikkeamailmoitusta ajallaan.";
-H;Henkilökunta;H3;Muu henkilökuntasyy;;;;;LOKI;;;;x;;;;;;;liikennöitsijä;"Kun myöhästyminen johtuu muista henkilökuntaan liittyvistä syistä. Esim. junassa toimivan henkilökunnan sairastumiset/sairaskohtaukset matkan aikana, junassa toimivan henkilökunnan toimintavirheet (esim. kokoonpanotietojen toimittamisen unohtaminen) sekä junan lähtövalmisteluihin liittyvän henkilökunnan (esim. vaihtotyönjohtaja tai jarrujenkoettelija) puuttuminen.";
+H;Henkilökunta;H1;Henkilökunta puuttuu;H101;Veturinkuljettaja puuttuu;opk;;KUTI;;;;;;;;;;;liikennöitsijä;Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta. ;
+H;Henkilökunta;H1;Henkilökunta puuttuu;H102;Konduktööri puuttuu;opk;;KUTI;;;;;;;;;;;liikennöitsijä;Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta. ;
+H;Henkilökunta;H1;Henkilökunta puuttuu;H103;Muun henkilökunnan puuttuminen;opk;;KUTI;;;;;;;;;;;liikennöitsijä;Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta. ;
+H;Henkilökunta;H1;Henkilökunta puuttuu;H104;Veturinkuljettaja myöhässä olevasta junasta;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta. ;
+H;Henkilökunta;H1;Henkilökunta puuttuu;H105;Konduktööri myöhässä olevasta junasta;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta. ;
+H;Henkilökunta;H1;Henkilökunta puuttuu;H106;Muu henkilökuntaryhmä myöhässä olevasta junasta;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;Kun junan lähtö viivästyy junassa toimivan henkilökunnan puuttumisesta johtuen (esim. sairastumisen, resurssipula tai väärinkäsitys). Myös tilanteen joissa odotetaan henkilökuntaa toisesta junasta. ;
+H;Henkilökunta;H2;Lähtövalmius- tai lähtöpoikkeamailmoitus tekemättä;;;;;LOKI;;;;x;;;;;;;liikennöitsijä;Kun liikennöitsijän henkilöstö ei tee lähtövalmius- tai lähtöpoikkeamailmoitusta ajallaan. ;
+H;Henkilökunta;H3;Muu henkilökuntasyy;;;;;LOKI;;;;x;;;;;;;liikennöitsijä;Kun myöhästyminen johtuu muista henkilökuntaan liittyvistä syistä.
+Esim. junassa toimivan henkilökunnan sairastumiset/sairaskohtaukset matkan aikana, junassa toimivan henkilökunnan toimintavirheet (esim. kokoonpanotietojen toimittamisen unohtaminen) sekä junan lähtövalmisteluihin liittyvän henkilökunnan (esim. vaihtotyönjohtaja tai jarrujenkoettelija) puuttuminen.;
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J101;Vaunujen otto/jättö;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J102;Vaunujen / vaunuryhmien odotus;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J103;Jarrujen koettelu ;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J104;Häiriö päivystystyössä;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J105;Ylimääräinen vaihtotyö;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J106;Asiakkaan kuormaus- / purkutyö;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J107;Ratapihatyön suunnitteluvirhe;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
 J;Junanmuodostus;J1;Junan muodostaminen ratapihalla tai lähtöraiteella;J108;Muu syy;opk;;KUTI;;;;;;x;;;;;liikennöitsijä;"Kun junan lähtö viivästyy siksi, ettei sitä saada muodostettua ajoissa ratapihalla tai lähtöraiteella. Tavaraliikenteen osalta myös väliasemalla tapahtuvan vaunujen oton/jätön tai kurmauksen/purun viivästyminen.
 HUOM!
-  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
- jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
- jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
- jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
- jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
- jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
-K;Kalusto, moottorijunat ja vaunut;K1;Kaluston odotus;K101;Kalustoa sitoutunut liikaa kunnossapitoon;opk;;KUTI;;;;;;;;;;;liikennöitsijä;Kun odotetaan osaa junan kalustosta, tai koko junaa varikolta tai seisontaraiteelta.;
+  jos ongelma johtuu laiteviasta tai järjestelmäviasta, niin käytetään syykoodeja P1 (Ratainfran laiteviat) tai P2 (Tietojärjestelmäviat). 
+ jos kyse on siitä, että junahenkilökunta ei ole tehnyt lähtövalmiusilmoitusta ajoissa, käytetään syykoodina H3. 
+ jos lähtövalmiusilmoitusta ei saada tehtyä RAILI -järjestelmän vian vuoksi, käytetään syykoodina P401.
+ jos lähtövalmiusilmoitus pitäisi tehdä tietojärjestelmän kautta, mutta sitä ei saada tehtyä, käytetään syykoodina P205.
+ jos kyse on siitä, että odotetaan osaa junan kalustosta tai veturia, käytetään syykoodina K1/V1. 
+ jos odotetaan koko lähtevää junaa varikolta tai seisontaraiteelta, käytetään syykoodina K1.";
+K;Kalusto, moottorijunat ja vaunut;K1;Kaluston odotus;K101;Kalustoa sitoutunut liikaa kunnossapitoon;opk;;KUTI;;;;;;;;;;;liikennöitsijä;"Kun odotetaan osaa junan kalustosta, tai koko junaa varikolta tai seisontaraiteelta.";
 K;Kalusto, moottorijunat ja vaunut;K1;Kaluston odotus;K102;Kalusto myöhässä olevasta junasta;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;Kun odotetaan osaa junan kalustosta, tai koko junaa varikolta tai seisontaraiteelta.;
 K;Kalusto, moottorijunat ja vaunut;K1;Kaluston odotus;K103;Saattoliike;opk;;KUTI;;;x;;;;;;;;liikennöitsijä;Kun odotetaan osaa junan kalustosta, tai koko junaa varikolta tai seisontaraiteelta.;
 K;Kalusto, moottorijunat ja vaunut;K1;Kaluston odotus;K104;Varikolta tai seisontaraiteelta myöhässä;opk;;KUTI;;;;;;x;;;;;liikennöitsijä;Kun odotetaan osaa junan kalustosta, tai koko junaa varikolta tai seisontaraiteelta.;
 K;Kalusto, moottorijunat ja vaunut;K1;Kaluston odotus;K105;Muu kalustopula;opk;;KUTI;;;;;;x;;;;;liikennöitsijä;Kun odotetaan osaa junan kalustosta, tai koko junaa varikolta tai seisontaraiteelta.;
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K201;JKV-vika (moottorijuna);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K201;JKV-vika (moottorijuna);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K202;Turvalaitevika (moottorijuna);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K202;Turvalaitevika (moottorijuna);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K203;Ovivika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K203;Ovivika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K204;Jarruvika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K204;Jarruvika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K205;Pääkatkaisijavika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K205;Pääkatkaisijavika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K206;Laakerivika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K206;Laakerivika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K207;Lovipyörä;opk;x;KUTI/POHA;;x;;;;;;;;;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K207;Lovipyörä;opk;x;KUTI/POHA;;x;;;;;;;;;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K208;Virroitinvika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K208;Virroitinvika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K209;Käyttäjävirhe;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K209;Käyttäjävirhe;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K210;Junan katkeaminen;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K210;Junan katkeaminen;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K211;Radiovika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K211;Radiovika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K212;Edo vika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K212;Edo vika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K213;Muu kalustovika;opk;x;KUTI/POHA;;x;;;;x;;;;x;liikennöitsijä;"Kun moottorijuna tai kalusto vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+K;Kalusto, moottorijunat ja vaunut;K2;Kalustovika;K213;Muu kalustovika;opk;x;KUTI/POHA;;x;;;;x;;;;x;liikennöitsijä;Kun moottorijuna tai kalusto vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille K2 koodille. Seuraavat kirjataan koodille K3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
 K;Kalusto, moottorijunat ja vaunut;K3;Kalustosta johtuva nopeuden alennus;K301;Kiskojarrujen puute/Jarrupaino %;opk;;KUTI;;;;;;;;;;;liikennöitsijä;Kun junalla on muusta syystä kuin veturista johtuva nopeuden alennus.;
 K;Kalusto, moottorijunat ja vaunut;K3;Kalustosta johtuva nopeuden alennus;K302;Korvaavan kaluston käyttö;opk;;KUTI;;;;;;;;;;;liikennöitsijä;Kun junalla on muusta syystä kuin veturista johtuva nopeuden alennus.;
 K;Kalusto, moottorijunat ja vaunut;K3;Kalustosta johtuva nopeuden alennus;K303;Kallistusvika Sm3/Sm6;opk;;KUTI;;;;;;;;;;x;liikennöitsijä;Kun junalla on muusta syystä kuin veturista johtuva nopeuden alennus.;
@@ -134,33 +135,33 @@ V;Vetokalusto;V1;Veturin odotus junaan;V104;Veturin suunnitteltu lisäys/poisto/
 V;Vetokalusto;V1;Veturin odotus junaan;V105;Saattoliike;opk;;KUTI;;;;;;;;;;;liikennöitsijä;Kun odotetaan veturia junaan.;
 V;Vetokalusto;V1;Veturin odotus junaan;V106;Varikolta tai seisontaraiteelta myöhässä;opk;;KUTI;;;;;;x;;;;;liikennöitsijä;Kun odotetaan veturia junaan.;
 V;Vetokalusto;V1;Veturin odotus junaan;V107;Muu veturipula;opk;;KUTI;;;;;;x;;;;;liikennöitsijä;Kun odotetaan veturia junaan.;
-V;Vetokalusto;V2;Veturivika;V201;JKV-vika (veturissa);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+V;Vetokalusto;V2;Veturivika;V201;JKV-vika (veturissa);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V202;Turvalaitevika (veturissa);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V202;Turvalaitevika (veturissa);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V203;Vetolaitteen katkeaminen;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V203;Vetolaitteen katkeaminen;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V204;Jarruvika (vet.);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V204;Jarruvika (vet.);opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V205;Radiovika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V205;Radiovika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V206;Laakerivika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V206;Laakerivika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V207;Lovipyörä;opk;x;KUTI/POHA;;x;;;;;;;;;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V207;Lovipyörä;opk;x;KUTI/POHA;;x;;;;;;;;;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V208;Virroitinvika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V208;Virroitinvika;opk;x;KUTI/POHA;;x;;;;;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
-V;Vetokalusto;V2;Veturivika;V209;Muu veturivika;opk;x;KUTI/POHA;;x;;;;x;;;;x;liikennöitsijä;"Kun veturi vikaantuu matkan aikana.
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
+V;Vetokalusto;V2;Veturivika;V209;Muu veturivika;opk;x;KUTI/POHA;;x;;;;x;;;;x;liikennöitsijä;Kun veturi vikaantuu matkan aikana.
 Jos juna jatkaa matkaansa alennetulla nopeudella, niin vain ensimmäinen myöhästyminen kirjataan koodille V2. Seuraavat kirjataan koodille V3.
-Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.";
+Jos veturivetoisen junan osalta ei tiedetä onko vika kalustossa vai veturissa, niin käytetään syykoodia K2.;
 V;Vetokalusto;V3;Vetovoimasta johtuva nopeuden alennus / tehon puute;V301;Sähköveturin vaihto toiseen sähköveturiin;opk;;KUTI;;;;;;;;;;x;liikennöitsijä;Kun junalla on veturista johtuva nopeuden alennus.;
 V;Vetokalusto;V3;Vetovoimasta johtuva nopeuden alennus / tehon puute;V302;Sähköveturin vaihto dieselveturiin;opk;;KUTI;;;;;;;;;;x;liikennöitsijä;Kun junalla on veturista johtuva nopeuden alennus.;
 V;Vetokalusto;V3;Vetovoimasta johtuva nopeuden alennus / tehon puute;V303;Sm/Dm -> veturivetoinen juna;opk;;KUTI;;;;;;;;;;x;liikennöitsijä;Kun junalla on veturista johtuva nopeuden alennus.;
