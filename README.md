@@ -8,8 +8,7 @@ Lisää tietoa / For more information see: http://digitraffic.liikennevirasto.fi
 |[DATEXIISchema\_2\_2\_3\_with\_definitions.xsd][DATEXIISchema_2_2_3_with_definitions.xsd]|Datex2 2.3 skeema|Datex2 2.3 schema|
 |[LocationData.XML]|Matka-aikalinkit|Travel time links|
 |[staticinformation.xsd]|Staattisen tiedon skeemakuvaus|Schema for static data|
-
-[](|[DATEXIISchema_2_2_1_with_definitions_FI.xsd]|Datex2 2.1 skeema|Datex2.2.1 schema|)
+|[DATEXIISchema_2_2_1_with_definitions_FI.xsd]|Datex2 2.1 skeema|Datex2.2.1 schema|
 
 ### [docs/](docs/)
 |file |fi |en |
@@ -20,11 +19,13 @@ Lisää tietoa / For more information see: http://digitraffic.liikennevirasto.fi
 |[alertc.pdf]|Ohje Alert-C -pisteistön käytöstä|Information about Alert-C location database|
 
 ### [shapes/](shapes/) (poistettu)
-Tiejaksojen vektorit ovat saatavilla / Road weather forecast vectors are available at: http://digitraffic.liikennevirasto.fi/tieliikenne/#/metadata/forecastSectionsUsingGET
+:bangbang: Tiejaksojen vektorit ovat saatavilla / Road weather forecast vectors are available at: http://digitraffic.liikennevirasto.fi/tieliikenne/#/metadata/forecastSectionsUsingGET
 
 Vanhat shapes tiedostot löytyvät versionhallinnan historiasta. / Old shape files may be found in the VCS history.
 
 ### [xls/](xls/)
+:bangbang: Staattiset metatiedot ovat saatavilla myös rajapinnoista / Static metadata is also available from APIs  http://digitraffic.liikennevirasto.fi/tieliikenne/#swagger-rajapintakuvaus
+
 (static excel files, coordinates in ETRS-TM35FIN (EPSG:3067))
 
 :bangbang: Metadatatiedostoissa X- ja Y-koordinaatit ovat väärin päin!
