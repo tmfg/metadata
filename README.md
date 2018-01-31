@@ -1,6 +1,8 @@
-## Metadata for FTA's services
+## Legacy metadata for digitraffic.liikennevirasto.fi services
 
-### [schema/] (schema/)
+Lisää tietoa / For more information see: http://digitraffic.liikennevirasto.fi
+
+### [schema/](schema/)
 |file |fi |en |
 |:-----|:---|:---|
 |[DATEXIISchema\_2\_2\_3\_with\_definitions.xsd][DATEXIISchema_2_2_3_with_definitions.xsd]|Datex2 2.3 skeema|Datex2 2.3 schema|
@@ -17,16 +19,16 @@
 |[meta\_rws\_sensors.pdf][meta_rws_sensors.pdf]|Tiesääasemien anturitietojen kuvaus|Sensor descriptions of road weather station|
 |[alertc.pdf]|Ohje Alert-C -pisteistön käytöstä|Information about Alert-C location database|
 
-### [shapes/](shapes/)
-|file |fi |en |
-|:-----|:---|:---|
-|[tiejaksot_shapefiles.zip]|Keliennusteiden tiejaksojen vektorit|Road weather forecast vectors|
+### [shapes/](shapes/) (poistettu)
+Tiejaksojen vektorit ovat saatavilla / Road weather forecast vectors are available at: http://digitraffic.liikennevirasto.fi/tieliikenne/#/metadata/forecastSectionsUsingGET
+
+Vanhat shapes tiedostot löytyvät versionhallinnan historiasta. / Old shape files may be found in the VCS history.
 
 ### [xls/](xls/)
 (static excel files, coordinates in ETRS-TM35FIN (EPSG:3067))
 
-:bangbang: Metadatatiedostoissa X- ja Y-koordinaatit ovat väärin päin!  
-:bangbang: Metadata files has X- and Y-coodinates in wrong order!  
+:bangbang: Metadatatiedostoissa X- ja Y-koordinaatit ovat väärin päin!
+:bangbang: Metadata files has X- and Y-coodinates in wrong order!
 
     X = 6675908 -> Y (N/lat)
     Y = 382080 -> X (E/lon)
@@ -85,3 +87,4 @@ Tämän lisenssin antamia oikeuksia laajempia lupia voi olla saatavilla osoittee
 [meta_rws_sensors.csv]: csv/meta_rws_sensors.csv
 [meta_rw_forecast_sections.csv]: csv/meta_rw_forecast_sections.csv
 [meta_ssn_locodes.csv]: csv/meta_ssn_locodes.csv
+
