@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema targetNamespace="https://raw.githubusercontent.com/tmfg/metadata/master/schema/ImsXmlMessage_1_2_0.xsd" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="imsMessage">
+    <xs:complexType>
+      <xs:all>
+        <xs:element name="messageId" type="xs:unsignedInt">
+          <xs:annotation>
+            <xs:documentation>Unique identifier of the message.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="date" type="xs:dateTime">
+          <xs:annotation>
+            <xs:documentation>Timestamp of the message.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="messageSubject" type="xs:string">
+          <xs:annotation>
+            <xs:documentation>Subject of the message.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="messageText" type="xs:string">
+          <xs:annotation>
+            <xs:documentation>Full body text of the message.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="shortMessageText" type="xs:string">
+          <xs:annotation>
+            <xs:documentation>Short message service version of the message.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element name="messageContent">
+          <xs:annotation>
+            <xs:documentation>Specifically formatted messages: Datex II, InfoXML and roadwork compilation. At least one should always be included!</xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <!-- At least one of these must exist! -->
+              <xs:element minOccurs="0" name="d2Message" type="xs:string">
+                <xs:annotation>
+                  <xs:documentation>Datex II formatted message content.</xs:documentation>
+                </xs:annotation>
+              </xs:element>
+              <xs:element minOccurs="0" name="jMessage" type="xs:string">
+                <xs:annotation>
+                  <xs:documentation>JSON formatted message content.</xs:documentation>
+                </xs:annotation>
+              </xs:element>
+              <xs:element minOccurs="0" name="infoXmlMessage" type="xs:string">
+                <xs:annotation>
+                  <xs:documentation>InfoXML formatted message content.</xs:documentation>
+                </xs:annotation>
+              </xs:element>
+              <xs:sequence>
+                <xs:element minOccurs="0" name="roadworkCoordinates" type="xs:string">
+                  <xs:annotation>
+                    <xs:documentation>Roadwork compilation formatted message coordinates. &lt;roadworkMessage&gt; must also be included.</xs:documentation>
+                  </xs:annotation>
+                </xs:element>
+                <xs:element minOccurs="0" name="roadworkMessage" type="xs:string">
+                  <xs:annotation>
+                    <xs:documentation>Roadwork compilation formatted message content. &lt;roadworkCoordinates&gt; must also be included.</xs:documentation>
+                  </xs:annotation>
+                </xs:element>
+              </xs:sequence>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="sender">
+          <xs:annotation>
+            <xs:documentation>Sender of the message.</xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string">
+                <xs:annotation>
+                  <xs:documentation>Name of the sender.</xs:documentation>
+                </xs:annotation>
+              </xs:element>
+              <xs:element name="email" type="xs:string">
+                <xs:annotation>
+                  <xs:documentation>Email address of the sender.</xs:documentation>
+                </xs:annotation>
+              </xs:element>
+              <xs:element name="tel" type="xs:string">
+                <xs:annotation>
+                  <xs:documentation>Telephone number of the sender.</xs:documentation>
+                </xs:annotation>
+              </xs:element>
+              <xs:element name="fax" type="xs:string">
+                <xs:annotation>
+                  <xs:documentation>Fax number of the sender.</xs:documentation>
+                </xs:annotation>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="recipientList">
+          <xs:annotation>
+            <xs:documentation>Recipient(s) of the message.</xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="recipient">
+                <xs:annotation>
+                  <xs:documentation>Single recipient of the message.</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <!-- Customer number may be negative (RDS or Liito) -->
+                    <xs:element name="customerNr" type="xs:int">
+                      <xs:annotation>
+                        <xs:documentation>Id of the message recipient. Positive value equals customer number in Incident Management System, negative values are used for specific purposes (RDS or Liito).</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    <xs:element name="customerName" type="xs:string">
+                      <xs:annotation>
+                        <xs:documentation>Name of the message recipient.</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    <xs:element name="deliveryMethod" type="xs:string">
+                      <xs:annotation>
+                        <xs:documentation>Delivery method of the message: EMAIL, FAX, FTP, HTTP, RDS, SMS, TIETYO.</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    <xs:element name="deliveryAddress" type="xs:string">
+                      <xs:annotation>
+                        <xs:documentation>Delivery address of the message in a form specified by &lt;deliveryMethod&gt;.</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    <xs:element name="deliveryId" type="xs:string" minOccurs="0">
+                      <xs:annotation>
+                        <xs:documentation>Unique string identifying the message delivery to the recipient</xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
