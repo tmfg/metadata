@@ -427,6 +427,16 @@
 						"$ref": "#/definitions/feature"
 					}
 				},
+				"severity": {
+					"type": "string",
+					"title": "Severity of the disruption to traffic",
+					"description": "How severely this road work phase disrupts traffic. low - no disruption, high - disruption, highest - significant disruption",
+					"enum": [
+						"low",
+						"high",
+						"highest"
+					]
+				},
 				"workingHours" : {
 					"type": "array",
 					"items": {
@@ -467,6 +477,7 @@
 			"required": [
 				"id",
 				"features",
+				"severity",
 				"workingHours",
 				"timeAndDuration"
 			]
