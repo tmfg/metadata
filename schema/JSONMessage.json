@@ -225,6 +225,7 @@
 								"enum": [
 									"municipality",
 									"province",
+									"regional state administrative agency",
 									"weather region",
 									"country"
 								],
