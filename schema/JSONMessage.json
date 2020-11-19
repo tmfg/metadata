@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/tmfg/metadata/master/schema/JSONMessage_0_2_7.json",
+	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.8/schema/JSONMessage.json",
 	"type": "object",
 	"title": "TrafficSituation announcement.",
 	"description": "Structural representation of a traffic situation containing its key elements and all the language versions of announcements sent by Finnish Transportation Agency.",
@@ -15,19 +15,6 @@
 			"type": "string",
 			"format": "date-time",
 			"description": "Annoucement release time."
-		},
-		"locationToDisplay": {
-			"type": "object",
-			"title": "LocationToDisplay schema.",
-			"description": "Location to display in ETRS-TM35FIN coordinate format.",
-			"properties": {
-				"e": {
-					"type": "number"
-				},
-				"n": {
-					"type": "number"
-				}
-			}
 		},
 		"announcements": {
 			"type": "array",
@@ -238,6 +225,7 @@
 								"enum": [
 									"municipality",
 									"province",
+									"regional state administrative agency",
 									"weather region",
 									"country"
 								],
@@ -427,6 +415,16 @@
 						"$ref": "#/definitions/feature"
 					}
 				},
+				"severity": {
+					"type": "string",
+					"title": "Severity of the disruption to traffic",
+					"description": "How severely this road work phase disrupts traffic. low - no disruption, high - disruption, highest - significant disruption",
+					"enum": [
+						"low",
+						"high",
+						"highest"
+					]
+				},
 				"workingHours" : {
 					"type": "array",
 					"items": {
@@ -465,7 +463,11 @@
 				}
 			},
 			"required": [
-				"id" 
+				"id",
+				"features",
+				"severity",
+				"workingHours",
+				"timeAndDuration"
 			]
 		},
 		"time-and-duration": {
