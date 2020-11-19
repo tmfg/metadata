@@ -16,19 +16,6 @@
 			"format": "date-time",
 			"description": "Annoucement release time."
 		},
-		"locationToDisplay": {
-			"type": "object",
-			"title": "LocationToDisplay schema.",
-			"description": "Location to display in ETRS-TM35FIN coordinate format.",
-			"properties": {
-				"e": {
-					"type": "number"
-				},
-				"n": {
-					"type": "number"
-				}
-			}
-		},
 		"announcements": {
 			"type": "array",
 			"title": "Announcements schema.",
