@@ -465,7 +465,10 @@
 				}
 			},
 			"required": [
-				"id" 
+				"id",
+				"features",
+				"workingHours",
+				"timeAndDuration"
 			]
 		},
 		"time-and-duration": {
