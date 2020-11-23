@@ -1,0 +1,7 @@
+{
+  "name": "Pohjois-Uusimaa",
+  "locationCode": 5585,
+  "type": "weather region",
+  "effectiveDate": "2020-01-01T00:00:00.000+02:00",
+  "geometry": {"type":"Polygon","coordinates":[[[24.091916,60.325299],[25.712554,60.519737],[25.48975,60.818072],[24.066993,60.510193],[24.091916,60.325299]]]}
+}
