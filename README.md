@@ -19,6 +19,11 @@ Lisää tietoa / For more information see: https://www.digitraffic.fi
 |[meta\_rws\_sensors.pdf][meta_rws_sensors.pdf]|Tiesääasemien anturitietojen kuvaus|Sensor descriptions of road weather station|
 |[alertc.pdf]|Ohje Alert-C -pisteistön käytöstä|Information about Alert-C location database|
 
+
+### [geometry/regions/](geometry/regions/)
+Alueiden - esim. kuntien ja maakuntien - geometrioita. / Geometries of regions, e.g., municipalities and provinces.
+
+
 ### [shapes/](shapes/) (poistettu)
 :bangbang: Tiejaksojen vektorit ovat saatavilla / Road weather forecast vectors are available at: http://digitraffic.liikennevirasto.fi/tieliikenne/#/metadata/forecastSectionsUsingGET
 
