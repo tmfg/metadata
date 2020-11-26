@@ -11,6 +11,16 @@
 		"version": {
 			"type": "integer"
 		},
+		"situationType": {
+			"type": "string",
+			"title": "The type of the situation",
+			"enum": [
+				"traffic announcement",
+				"special transport",
+				"weight restriction",
+				"road work"
+			]
+		},
 		"releaseTime": {
 			"type": "string",
 			"format": "date-time",
@@ -44,6 +54,7 @@
 	"required": [
 		"situationId",
 		"version",
+		"situationType",
 		"releaseTime",
 		"announcements"
 	],
