@@ -34,10 +34,6 @@
 					"type": "string",
 					"title": "Phone schema."
 				},
-				"fax": {
-					"type": "string",
-					"title": "Fax schema."
-				},
 				"email": {
 					"type": "string",
 					"title": "Email schema."
