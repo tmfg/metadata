@@ -21,6 +21,19 @@
 				"road work"
 			]
 		},
+		"trafficAnnouncementType": {
+			"type": "string",
+			"title": "The type of the traffic announcement",
+			"description": "The type of the traffic announcement. Omitted for other situation types. Note that ended and retracted are not actual types.",
+			"enum": [
+				"general",
+				"preliminary accident report",
+				"accident report",
+				"unconfirmed observation",
+				"ended",
+				"retracted"
+			]
+		},
 		"releaseTime": {
 			"type": "string",
 			"format": "date-time",
