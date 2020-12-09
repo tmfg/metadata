@@ -16,7 +16,7 @@
 			"title": "The type of the situation",
 			"enum": [
 				"traffic announcement",
-				"special transport",
+				"exempted transport",
 				"weight restriction",
 				"road work"
 			]
@@ -121,8 +121,8 @@
 				},
 				"lastActiveItinerarySegment": {
 					"type": "object",
-					"title": "Last active special transport itinerary segment",
-					"description": "The itinerary segment of this special transport that is or was last active.",
+					"title": "Last active exempted transport itinerary segment",
+					"description": "The itinerary segment of this exempted transport that is or was last active.",
 					"properties": {
 						"startTime": {
 							"type": "string",
