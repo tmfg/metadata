@@ -453,7 +453,7 @@
 							"weekday": {
 								"type": "string",
 								"enum": [
-									"ma", "ti", "ke", "to", "pe", "la", "su"
+									"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
 								]
 							},
 							"startTime": {
