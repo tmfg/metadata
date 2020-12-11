@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.9/schema/JSONMessage.json",
+	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.10/schema/JSONMessage.json",
 	"type": "object",
 	"title": "TrafficSituation announcement.",
 	"description": "Structural representation of a traffic situation containing its key elements and all the language versions of announcements sent by Finnish Transportation Agency.",
@@ -16,7 +16,7 @@
 			"title": "The type of the situation",
 			"enum": [
 				"traffic announcement",
-				"special transport",
+				"exempted transport",
 				"weight restriction",
 				"road work"
 			]
@@ -121,8 +121,8 @@
 				},
 				"lastActiveItinerarySegment": {
 					"type": "object",
-					"title": "Last active special transport itinerary segment",
-					"description": "The itinerary segment of this special transport that is or was last active.",
+					"title": "Last active exempted transport itinerary segment",
+					"description": "The itinerary segment of this exempted transport that is or was last active.",
 					"properties": {
 						"startTime": {
 							"type": "string",
@@ -453,7 +453,7 @@
 							"weekday": {
 								"type": "string",
 								"enum": [
-									"ma", "ti", "ke", "to", "pe", "la", "su"
+									"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
 								]
 							},
 							"startTime": {
