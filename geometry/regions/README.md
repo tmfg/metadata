@@ -25,8 +25,11 @@ Tiedoston sisältö kommentoituna / Commented file contents :
 
     // Alueen tyyppi / The type of the region
     // "municipality"   - kunta
+    // "municipality"   - kunta
     // "province"       - maakunta
     // "country"        - maa
+    // "city region"    - kaupunkiseutu
+    // "travel region"  - matkailualue
     // "regional state administrative agency" 
     //                  - AVI-alue
     // "weather region" - sää-alue, https://yle.fi/saa/saaennusteiden_aluejako/7743471
