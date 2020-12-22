@@ -428,7 +428,13 @@
 				"locationDetails": {
 					"$ref": "#/definitions/location-details"
 				},
-				"features": {
+				"worktypes": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/feature"
+					}
+				},
+				"restrictions": {
 					"type": "array",
 					"title": "Features schema.",
 					"items": {
