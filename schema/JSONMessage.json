@@ -430,8 +430,45 @@
 				},
 				"worktypes": {
 					"type": "array",
+					"title": "The types of work that are carried out",
 					"items": {
-						"$ref": "#/definitions/feature"
+						"type": "object",
+						"properties": {
+							"type": {
+								"type": "string",
+								"enum": [
+									"bridge",
+									"junction",
+									"crash barrier",
+									"buried cables",
+									"lighting",
+									"roadside equipment",
+									"measurement equipment",
+									"level crossing",
+									"blasting work",
+									"road construction",
+									"structural improvement",
+									"underpass construction",
+									"pedestrian and bicycle path",
+									"stabilization",
+									"resurfacing",
+									"road surface marking",
+									"finishing work",
+									"measurement",
+									"tree and vegetation cutting",
+									"grass cutting",
+									"maintenance",
+									"other"
+								]
+							},
+							"description": {
+								"type": "string"
+							}
+						},
+						"required": [
+							"type",
+							"description"
+						]
 					}
 				},
 				"restrictions": {
