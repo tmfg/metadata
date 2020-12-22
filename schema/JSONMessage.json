@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.10/schema/JSONMessage.json",
+	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.12/schema/JSONMessage.json",
 	"type": "object",
 	"title": "TrafficSituation announcement.",
 	"description": "Structural representation of a traffic situation containing its key elements and all the language versions of announcements sent by Finnish Transportation Agency.",
@@ -428,12 +428,90 @@
 				"locationDetails": {
 					"$ref": "#/definitions/location-details"
 				},
-				"features": {
+				"worktypes": {
 					"type": "array",
-					"title": "Features schema.",
+					"title": "The types of work that are carried out",
 					"items": {
-						"$ref": "#/definitions/feature"
+						"type": "object",
+						"properties": {
+							"type": {
+								"type": "string",
+								"enum": [
+									"bridge",
+									"junction",
+									"crash barrier",
+									"buried cables",
+									"lighting",
+									"roadside equipment",
+									"measurement equipment",
+									"level crossing",
+									"blasting work",
+									"road construction",
+									"structural improvement",
+									"underpass construction",
+									"pedestrian and bicycle path",
+									"stabilization",
+									"resurfacing",
+									"road surface marking",
+									"finishing work",
+									"measurement",
+									"tree and vegetation cutting",
+									"grass cutting",
+									"maintenance",
+									"other"
+								]
+							},
+							"description": {
+								"type": "string"
+							}
+						},
+						"required": [
+							"type",
+							"description"
+						]
 					}
+				},
+				"restrictions": {
+					"type": "array",
+					"title": "Restrictions on traffic",
+					"items": {
+						"type": "object",
+						"properties": {
+							"type": {
+								"type": "string",
+								"title": "Type of the restriction",
+								"enum": [
+									"speed limit",
+									"traffic lights",
+									"multiple lanes closed",
+									"single lane closed",
+									"single carriageway closed",
+									"road closed",
+									"single alternate line traffic",
+									"contra flow traffic",
+									"intermittent short term stops",
+									"intermittent short term closure",
+									"narrow lanes",
+									"detour",
+									"detour signs",
+									"slow moving maintenance vehicle",
+									"estimated delay",
+									"narrow or closed pedestrian and bicyle path",
+									"vehicle height limit",
+									"vehicle width limit",
+									"vehicle length limit",
+									"vehicle gross weight limit"
+								]
+							},
+							"restriction": {
+								"$ref": "#/definitions/feature"
+							}
+						}
+					},
+					"required": [
+						"restriction",
+						"type"
+					]
 				},
 				"severity": {
 					"type": "string",
@@ -484,7 +562,6 @@
 			},
 			"required": [
 				"id",
-				"features",
 				"severity",
 				"workingHours",
 				"timeAndDuration"
