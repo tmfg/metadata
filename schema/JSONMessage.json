@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.12/schema/JSONMessage.json",
+	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.13/schema/JSONMessage.json",
 	"type": "object",
 	"title": "TrafficSituation announcement.",
 	"description": "Structural representation of a traffic situation containing its key elements and all the language versions of announcements sent by Finnish Transportation Agency.",
@@ -403,6 +403,11 @@
 					"type": "string",
 					"title": "Unit of the feature quantity",
 					"description": "Unit of the feature quantity, e.g. km/h in {speed limit, 30, km/h}"
+				},
+				"description": {
+					"type": "string",
+					"title": "Description of the feature",
+					"description": "Further details of the feature, e.g. description of a detour"
 				}
 			},
 			"required": [
@@ -494,6 +499,7 @@
 									"narrow lanes",
 									"detour",
 									"detour signs",
+									"detour using roadways",
 									"slow moving maintenance vehicle",
 									"estimated delay",
 									"narrow or closed pedestrian and bicyle path",
@@ -512,6 +518,10 @@
 						"restriction",
 						"type"
 					]
+				},
+				"restrictionsLiftable": {
+					"type": "boolean",
+					"title": "Restrictions can be lifted for abnormal transports"
 				},
 				"severity": {
 					"type": "string",
