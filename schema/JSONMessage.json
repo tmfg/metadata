@@ -513,6 +513,10 @@
 						"type"
 					]
 				},
+				"restrictionsLiftable": {
+					"type": "boolean",
+					"title": "Restrictions can be lifted for abnormal transports"
+				},
 				"severity": {
 					"type": "string",
 					"title": "Severity of the disruption to traffic",
