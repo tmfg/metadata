@@ -403,6 +403,11 @@
 					"type": "string",
 					"title": "Unit of the feature quantity",
 					"description": "Unit of the feature quantity, e.g. km/h in {speed limit, 30, km/h}"
+				},
+				"description": {
+					"type": "string",
+					"title": "Description of the feature",
+					"description": "Further details of the feature, e.g. description of a detour"
 				}
 			},
 			"required": [
@@ -494,6 +499,7 @@
 									"narrow lanes",
 									"detour",
 									"detour signs",
+									"detour using roadways",
 									"slow moving maintenance vehicle",
 									"estimated delay",
 									"narrow or closed pedestrian and bicyle path",
