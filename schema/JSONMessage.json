@@ -408,6 +408,9 @@
 					"type": "string",
 					"title": "Description of the feature",
 					"description": "Further details of the feature, e.g. description of a detour"
+				},
+				"timeAndDuration": {
+					"$ref": "#/definitions/time-and-duration"
 				}
 			},
 			"required": [
