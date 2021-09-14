@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.13/schema/JSONMessage.json",
+	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.14/schema/JSONMessage.json",
 	"type": "object",
 	"title": "TrafficSituation announcement.",
 	"description": "Structural representation of a traffic situation containing its key elements and all the language versions of announcements sent by Finnish Transportation Agency.",
@@ -408,6 +408,9 @@
 					"type": "string",
 					"title": "Description of the feature",
 					"description": "Further details of the feature, e.g. description of a detour"
+				},
+				"timeAndDuration": {
+					"$ref": "#/definitions/time-and-duration"
 				}
 			},
 			"required": [
@@ -487,6 +490,7 @@
 								"title": "Type of the restriction",
 								"enum": [
 									"speed limit",
+									"speed limit length",
 									"traffic lights",
 									"multiple lanes closed",
 									"single lane closed",
@@ -496,17 +500,30 @@
 									"contra flow traffic",
 									"intermittent short term stops",
 									"intermittent short term closure",
+									"intermittent stops and closure effective",
 									"narrow lanes",
 									"detour",
 									"detour signs",
+									"detour curves steep",
+									"detour curves gentle",
 									"detour using roadways",
+									"detour surface paved",
+									"detour surface milled",
+									"detour surface gravel",
+									"detour length",
+									"detour gross weight limit",
 									"slow moving maintenance vehicle",
 									"estimated delay",
+									"estimated delay during rush hour",
 									"narrow or closed pedestrian and bicyle path",
 									"vehicle height limit",
 									"vehicle width limit",
 									"vehicle length limit",
-									"vehicle gross weight limit"
+									"vehicle gross weight limit",
+									"road surface paved",
+									"road surface milled",
+									"road surface gravel",
+									"open fire heater in use"
 								]
 							},
 							"restriction": {
