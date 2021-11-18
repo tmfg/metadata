@@ -65,7 +65,7 @@ Vanhat shapes tiedostot löytyvät versionhallinnan historiasta. / Old shape fil
 
 ![Creative Commons -lisenssi](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-Digitraffic, jonka tekijä on Traffic Management Finland, on lisensoitu Creative Commons Nimeä 4.0 Kansainvälinen -lisenssillä.
+Digitraffic, jonka tekijä on Liikenteenohjausyhtiö Fintraffic Oy, on lisensoitu Creative Commons Nimeä 4.0 Kansainvälinen -lisenssillä.
 Tämän lisenssin antamia oikeuksia laajempia lupia voi olla saatavilla osoitteessa https://www.digitraffic.fi.
 
 
