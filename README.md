@@ -6,7 +6,7 @@ Lisää tietoa / For more information see: https://www.digitraffic.fi
 |file |fi |en |
 |:-----|:---|:---|
 |[DATEXIISchema\_2\_2\_3\_with\_definitions.xsd][DATEXIISchema_2_2_3_with_definitions.xsd]|Datex2 2.3 skeema|Datex2 2.3 schema|
-|[ImsXmlMessage_1_1_0.xsd]|IMS-skeema|IMS-schema|
+|[ImsXmlMessage_1_2_1.xsd]|IMS-skeema|IMS-schema|
 |[LocationData.XML]|Matka-aikalinkit|Travel time links|
 |[staticinformation.xsd]|Staattisen tiedon skeemakuvaus|Schema for static data|
 |[DATEXIISchema_2_2_1_with_definitions_FI.xsd]|Datex2 2.1 skeema|Datex2.2.1 schema|
