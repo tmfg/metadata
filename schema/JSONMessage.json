@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.14/schema/JSONMessage.json",
+	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.15/schema/JSONMessage.json",
 	"type": "object",
 	"title": "TrafficSituation announcement.",
 	"description": "Structural representation of a traffic situation containing its key elements and all the language versions of announcements sent by Finnish Transportation Agency.",
