@@ -39,6 +39,11 @@
 			"format": "date-time",
 			"description": "Annoucement release time."
 		},
+		"versionTime": {
+			"type": "string",
+			"format": "date-time",
+			"descripion": "Release time of this version of the announcement."
+		},
 		"announcements": {
 			"type": "array",
 			"title": "Announcements schema.",
@@ -69,6 +74,7 @@
 		"version",
 		"situationType",
 		"releaseTime",
+		"versionTime",
 		"announcements"
 	],
 	"definitions": {
