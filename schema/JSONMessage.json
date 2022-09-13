@@ -564,6 +564,20 @@
 					},
 					"description": "The working hours of the road work."
 				},
+				"slowTrafficTimes" : {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/weekdayTimePeriod"
+					},
+					"description": "Time periods when the road work is expected to cause slow moving traffic."
+				},
+				"queuingTrafficTimes" : {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/weekdayTimePeriod"
+					},
+					"description": "Time periods when the road work is expected to cause queuing of the traffic."
+				},
 				"comment": {
 					"type": "string",
 					"description": "Free comment"
