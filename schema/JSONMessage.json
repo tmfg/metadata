@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.15/schema/JSONMessage.json",
+	"$id": "https://raw.githubusercontent.com/tmfg/metadata/JSONMessage_0.2.17/schema/JSONMessage.json",
 	"type": "object",
 	"title": "TrafficSituation announcement.",
 	"description": "Structural representation of a traffic situation containing its key elements and all the language versions of announcements sent by Finnish Transportation Agency.",
@@ -39,6 +39,11 @@
 			"format": "date-time",
 			"description": "Annoucement release time."
 		},
+		"versionTime": {
+			"type": "string",
+			"format": "date-time",
+			"descripion": "Release time of this version of the announcement."
+		},
 		"announcements": {
 			"type": "array",
 			"title": "Announcements schema.",
@@ -69,6 +74,7 @@
 		"version",
 		"situationType",
 		"releaseTime",
+		"versionTime",
 		"announcements"
 	],
 	"definitions": {
@@ -554,31 +560,23 @@
 				"workingHours" : {
 					"type": "array",
 					"items": {
-						"type": "object",
-						"properties": {
-							"weekday": {
-								"type": "string",
-								"enum": [
-									"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
-								]
-							},
-							"startTime": {
-								"type": "string",
-								"title": "StartTime",
-								"description": "Road work start time using ISO 8601 local time"
-							},
-							"endTime": {
-								"type": "string",
-								"title": "EndTime",
-								"description": "Road work end time using ISO 8601 local time"
-							}
-						},
-						"required": [
-							"weekday",
-							"startTime",
-							"endTime"
-						]
-					}
+						"$ref": "#/definitions/weekdayTimePeriod"
+					},
+					"description": "The working hours of the road work."
+				},
+				"slowTrafficTimes" : {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/weekdayTimePeriod"
+					},
+					"description": "Time periods when the road work is expected to cause slow moving traffic."
+				},
+				"queuingTrafficTimes" : {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/weekdayTimePeriod"
+					},
+					"description": "Time periods when the road work is expected to cause queuing of the traffic."
 				},
 				"comment": {
 					"type": "string",
@@ -678,6 +676,32 @@
 					"description": "Description of the place on the road, where this leg ends."
 				}
 			}
+		},
+		"weekdayTimePeriod" : {
+			"type": "object",
+			"properties": {
+				"weekday": {
+					"type": "string",
+					"enum": [
+						"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+					]
+				},
+				"startTime": {
+					"type": "string",
+					"title": "StartTime",
+					"description": "Start time of the time period using ISO 8601 local time"
+				},
+				"endTime": {
+					"type": "string",
+					"title": "EndTime",
+					"description": "End time of the time period using ISO 8601 local time"
+				}
+			},
+			"required": [
+				"weekday",
+				"startTime",
+				"endTime"
+			]
 		}
 	}
 }
